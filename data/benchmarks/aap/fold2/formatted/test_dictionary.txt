@@ -1,0 +1,3397 @@
+108367008||dislocated joint
+108367008||dislocation of joint
+108367008||dislocation of joint disorder
+3384011000036100||arthrotec
+166717003||serum creatinine raised
+166717003||serum creatinine raised finding
+3877011000036101||lipitor
+402234004||foot eczema
+402234004||eczema of foot
+402234004||foot eczema disorder
+404640003||dizziness
+404640003||dizziness finding
+271681002||sore tummy
+271681002||tummy ache
+271681002||belly ache
+271681002||stomach ache
+271681002||stomach upset
+271681002||stomach discomfort
+271681002||stomach ache finding
+76948002||severe pain
+76948002||severe pain finding
+36031001||burning feet
+36031001||burning feet finding
+42399005||renal failure
+42399005||rf renal failure
+42399005||renal failure syndrome
+42399005||renal failure syndrome disorder
+288227007||myalgia myositis upper arm
+288227007||myalgia myositis upper arm finding
+419723007||mentally dull
+419723007||mental dullness
+419723007||mentally dull finding
+248490000||bloating symptom
+248490000||abdomen feels bloated
+248490000||bloating symptom finding
+22253000||pain
+22253000||dolor
+22253000||painful
+22253000||part hurts
+22253000||pain finding
+22253000||pain observations
+162076009||full of wind
+162076009||excessive upper gastrointestinal gas
+162076009||excessive upper gastrointestinal gas finding
+247592009||poor short term memory
+247592009||short term memory loss
+247592009||poor short term memory finding
+62507009||tingling
+62507009||pins and needles
+62507009||pins and needles finding
+62507009||pins and needles sensation
+25064002||headache
+25064002||head pain
+25064002||cephalgia
+25064002||ha headache
+25064002||cephalalgia
+25064002||pain in head
+25064002||cephalodynia
+25064002||headache finding
+48694002||anxiety
+48694002||anxiousness
+48694002||anxiety finding
+48694002||feeling anxious
+48694002||anxiety reaction
+386807006||dysmnesia
+386807006||bad memory
+386807006||poor memory
+386807006||memory deficit
+386807006||memory problem
+386807006||impaired memory
+386807006||memory impairment
+386807006||memory dysfunction
+386807006||disturbance of memory
+386807006||memory impairment finding
+271807003||skin rash
+271807003||skin eruption
+271807003||eruption of skin
+271807003||breaking out eruption
+271807003||eruption of skin disorder
+69813011000036107||glucosamine
+57676002||joint pain
+57676002||arthralgia
+57676002||painful joint
+57676002||articular pain
+57676002||joint pain finding
+308925008||digestive symptom
+308925008||digestive system symptom
+308925008||digestive symptom finding
+386692008||menorrhagia
+386692008||heavy period
+386692008||heavy periods
+386692008||hypermenorrhea
+386692008||hypermenorrhoea
+386692008||menorrhagia finding
+386692008||profuse menstrual flow
+386692008||flooding during periods
+386692008||heavy menstrual bleeding
+9126005||spotting
+9126005||menstrual spotting
+9126005||menstrual spotting finding
+55300003||cramp
+55300003||muscle cramp
+55300003||cramp finding
+55300003||muscle cramps
+55300003||cramp in muscle
+48167000||amnesia
+48167000||memory loss
+48167000||memory gone
+48167000||loss of memory
+48167000||amnesia finding
+48167000||lom loss of memory
+48167000||memory loss amnesia
+84229001||fatigue
+84229001||weariness
+84229001||fatigue finding
+247640008||muddled thought
+247640008||muddled thinking
+247640008||unable to think clearly
+247640008||unable to think clearly finding
+399114005||frozen shoulder
+399114005||periarthritis of shoulder
+399114005||pericapsulitis of shoulder
+399114005||adhesive capsulitis of shoulder
+399114005||duplay s periarthritis syndrome
+399114005||adhesive capsulitis of shoulder disorder
+21288011000036105||diclofenac
+21930011000036101||ezetimibe
+426206001||constant pain
+426206001||constant pain finding
+444827008||erythema of skin
+444827008||erythema of skin finding
+68962001||myalgia
+68962001||myodynia
+68962001||myosalgia
+68962001||muscle pain
+68962001||muscle ache
+68962001||myoneuralgia
+68962001||aching muscles
+68962001||muscle pain finding
+279039007||lumbago
+279039007||lumbalgia
+279039007||lumbar pain
+279039007||low back pain
+279039007||lbp low back pain
+279039007||low back syndrome
+279039007||low back pain finding
+279039007||nonspecific pain in the lumbar region
+301345002||poor sleep
+301345002||difficulty sleeping
+301345002||difficulty sleeping finding
+230145002||difficulty breathing
+230145002||respiration difficult
+230145002||dib difficulty in breathing
+230145002||difficulty breathing finding
+931804011000036107||omega 3 acid ethyl esters 90
+271594007||faint
+271594007||syncope
+271594007||fainting
+271594007||syncope attack
+271594007||syncope disorder
+18963009||mood swing
+18963009||labile mood
+18963009||mood swings
+18963009||variable mood
+18963009||unstable mood
+18963009||labile in mood
+18963009||changeable mood
+18963009||emotionally labile
+18963009||emotional lability
+18963009||mood swings finding
+18963009||emotional instability
+3424008||heart rate fast
+3424008||rapid heart beat
+3424008||tachycardia finding
+3424008||increased heart rate
+58901008||excitement
+58901008||excitement finding
+30989003||gonalgia
+30989003||knee pain
+30989003||knee joint pain
+30989003||knee pain finding
+30989003||arthralgia of knee
+81680005||neck ache
+81680005||cervicalgia
+81680005||painful neck
+81680005||cervical pain
+81680005||neck pain finding
+81680005||nonspecific pain in the neck region
+49218002||hip pain
+49218002||hip joint pain
+49218002||hip pain finding
+49218002||arthralgia of hip
+26544005||muscle weakness
+26544005||muscle weakness finding
+26544005||muscle strength reduced
+26544005||decreased muscle strength
+4031011000036106||crestor
+10601006||pain in lower limb
+10601006||pain in lower limb finding
+271137009||vasomotor reaction
+271137009||circulation reacts
+271137009||circulation changes
+271137009||bad circulation vasomotor change
+271137009||bad circulation vasomotor change finding
+39575007||urine looks dark
+39575007||urine looks dark finding
+77435011000036104||ascorbic acid
+62315008||diarrhea
+62315008||diarrhoea
+62315008||d diarrhea
+62315008||d diarrhoea
+62315008||diarrhea finding
+62315008||observation of diarrhea
+62315008||observation of diarrhoea
+13791008||asthenia
+13791008||weakness
+13791008||debility
+13791008||lassitude
+13791008||feeling weak
+13791008||asthenia finding
+13791008||weakness general
+13791008||general weakness
+60119000||worn out
+60119000||washed out
+60119000||exhaustion
+60119000||exhaustion finding
+401269004||fear of falling
+401269004||fear of falling finding
+30473006||pain in pelvis
+30473006||pain in pelvis finding
+3003011000036100||tagamet
+240131006||rhabdomyolysis
+240131006||rhabdomyolysis disorder
+35489007||depressed
+35489007||depression
+35489007||depressive illness
+35489007||depressive episode
+35489007||depressive disorder
+35489007||depressive disorder disorder
+35489007||mood disorder of depressed type
+162031009||dyspepsia
+162031009||indigestion
+162031009||indigestion finding
+55929007||fussiness
+55929007||irritability
+55929007||feeling irritable
+55929007||feeling irritable finding
+2929011000036108||nexium
+29857009||chest pain
+29857009||chest pain finding
+128139000||inflammatory disease
+128139000||inflammatory disorder
+128139000||inflammatory disorder disorder
+418290006||itch
+418290006||itchy
+418290006||itching
+418290006||itching finding
+22298006||heart attack
+22298006||cardiac infarction
+22298006||myocardial infarct
+22298006||infarction of heart
+22298006||myocardial infarction
+22298006||mi myocardial infarction
+22298006||myocardial infarction disorder
+247441003||erythema
+247441003||erythema finding
+247441003||erythema observation
+289530006||vaginal bleeding
+289530006||bleeding from vagina
+289530006||bleeding from vagina finding
+289530006||observations of vaginal bleeding
+26329005||poor concentration
+26329005||poor concentration finding
+267064002||urinary retention
+267064002||not passing urine
+267064002||retention of urine
+267064002||unable to pass urine
+267064002||unable to empty bladder
+267064002||cannot pass urine retention
+267064002||retention of urine disorder
+429513001||rupture achilles tendon
+429513001||rupture of achilles tendon
+429513001||rupture of achilles tendon disorder
+282145008||unable to walk
+282145008||unable to walk finding
+61387006||moderate anxiety
+61387006||moderate anxiety finding
+386661006||fever
+386661006||febrile
+386661006||pyrexia
+386661006||pyrexial
+386661006||fever finding
+367391008||malaise
+367391008||feels poorly
+367391008||feels unwell
+367391008||feels off color
+367391008||malaise finding
+367391008||feels off colour
+367391008||not feeling well
+367391008||not feeling great
+367391008||does not feel right
+367391008||ill defined experience
+367391008||vague bodily discomfort
+82991003||generalised pain
+82991003||generalized pain
+82991003||generalized body aches
+82991003||generalised body aches
+82991003||generalized aches and pains
+82991003||generalised aches and pains
+82991003||generalized aches and pains finding
+40806005||derealization
+40806005||derealisation
+40806005||feeling of unreality
+40806005||derealization finding
+15611000168108||naprosyn
+309774006||weakness of limb
+422400008||emesis
+422400008||vomiting
+422400008||vomiting disorder
+161891005||backache
+161891005||back pain
+161891005||back ache
+161891005||pain in back
+161891005||backache finding
+8708008||sharp pain
+8708008||sharp pain finding
+250082003||hand cramps
+250082003||hand cramps finding
+224960004||tired
+224960004||tired finding
+429783005||paresthesia of lower limb
+429783005||paraesthesia of lower limb
+429783005||paresthesia of lower extremity
+429783005||paraesthesia of lower extremity
+429783005||paresthesia of lower extremity finding
+429783005||paresthesia numbness tingling of lower limb
+429783005||paraesthesia of numbness tingling of lower limb
+248255005||unable to sleep
+248255005||cannot sleep at all
+248255005||cannot sleep at all finding
+238810007||flushing
+238810007||flushing disorder
+25701000168107||enbrel
+14760008||costiveness
+14760008||constipated
+14760008||constipation
+14760008||cn constipation
+14760008||constipation finding
+14760008||difficulty defecating
+14760008||difficulty defaecating
+14760008||difficulty passing stool
+14760008||difficult passing motion
+14760008||difficulty opening bowels
+44077006||numbness
+44077006||numbness finding
+44077006||deadness numbness
+44077006||loss of sensation
+49727002||cough
+49727002||cough finding
+49727002||observation of cough
+69791001||increased venous pressure
+69791001||increased venous pressure finding
+271782001||sleepy
+271782001||drowsy
+271782001||sleepiness
+271782001||somnolence
+271782001||drowsiness
+271782001||drowsy finding
+271782001||mental status drowsy
+271782001||somnolence sleepiness
+124055002||decreased cholesterol esters
+124055002||decreased cholesterol esters finding
+4171011000036100||celebrex
+54981004||charleyhorse
+54981004||charleyhorse finding
+102551008||foot cramps
+102551008||cramp in foot
+102551008||cramp in foot finding
+88092000||amyotrophy
+88092000||amyotrophia
+88092000||muscle wasting
+88092000||muscle atrophy
+88092000||muscle thinning
+88092000||muscular atrophy
+88092000||muscle wasting disorder
+88092000||muscle atrophy disorder
+6285003||tachycardia
+6285003||tachyarrhythmia
+6285003||tachyarrhythmia disorder
+278528006||swollen face
+278528006||facial swelling
+278528006||facial swelling finding
+77424011000036100||ubidecarenone
+267031002||tiredness symptom
+60862001||tinnitus
+60862001||noise in ears
+60862001||ringing in ears
+60862001||tinnitus finding
+83547004||cold sweat
+83547004||cold sweat finding
+299954009||tightness sensation
+299954009||tightness sensation finding
+5662003||contusion of hand
+5662003||contusion of hand disorder
+5662003||superficial bruising of hand
+3723001||arthritis
+3723001||arthritis disorder
+3723001||joint inflammation
+3723001||inflammatory arthritis
+428061005||malignant neoplasm of brain
+428061005||malignant neoplasm of brain disorder
+309537005||numbness of lower limb
+309537005||numbness of lower limb finding
+49049000||shaking palsy
+49049000||parkinson disease
+49049000||paralysis agitans
+49049000||parkinsons disease
+49049000||parkinson s disease
+49049000||primary parkinsonism
+49049000||pd parkinson s disease
+49049000||idiopathic parkinsonism
+49049000||parkinson s disease disorder
+49049000||idiopathic parkinson s disease
+8357008||low libido
+8357008||reduced libido
+8357008||reduced libido finding
+62476001||disorientated
+62476001||disorientation
+62476001||orientation poor
+62476001||orientation confused
+62476001||disorientated finding
+62476001||disturbance of orientation
+302226006||peripheral neuropathy
+302226006||peripheral nerve disease
+302226006||peripheral nerve disease disorder
+21522001||abdominal pain
+21522001||ap abdominal pain
+21522001||abdominal pain finding
+44054006||diabetes mellitus type 2
+44054006||type 2 diabetes mellitus
+44054006||diabetes mellitus type ii
+44054006||type ii diabetes mellitus
+44054006||diabetes mellitus type 2 disorder
+445445006||raised low density lipoprotein cholesterol
+445445006||low density lipoprotein cholesterol above reference range
+445445006||low density lipoprotein cholesterol above reference range finding
+76742009||postmenopausal bleeding
+76742009||bleeding after menopause
+76742009||pmb postmenopausal bleeding
+76742009||postmenopausal bleeding finding
+274279008||renal pain
+274279008||kidney pain
+274279008||renal pain finding
+53057004||hand pain
+53057004||painful hand
+53057004||hand pain finding
+82971005||impaired mobility
+82971005||impaired mobility finding
+82971005||physical mobility impairment
+449917004||cramp in lower limb
+449917004||cramp in lower limb finding
+13644009||high cholesterol
+13644009||hypercholesterolemia
+13644009||hypercholesterolaemia
+13644009||hypercholesterolemia disorder
+288226003||myalgia myositis shoulder
+288226003||myalgia myositis shoulder finding
+202490009||ankle joint pain
+202490009||arthralgia of ankle
+202490009||ankle joint pain finding
+301676004||unable to get off a bed
+301676004||unable to get off a bed finding
+56265001||cardiopathy
+56265001||morbus cordis
+56265001||heart disease
+56265001||cardiac disorder
+56265001||disorder of heart
+56265001||heart disease disorder
+161874006||heavy feeling
+161874006||heaviness sensation
+161874006||heavy feeling finding
+102556003||pain of upper limb
+102556003||pain in upper limb
+102556003||pain in upper limb finding
+26889001||myositis
+26889001||myositis disorder
+26889001||muscle inflammation
+26889001||inflammatory myopathy
+26889001||inflammatory disorder of muscle
+224962007||hot sweats
+224962007||hot sweats finding
+162290004||dry eyes
+162290004||dry eyes finding
+4216011000036104||norvasc
+162059005||upset tummy
+162059005||upset stomach
+162059005||upset stomach finding
+3298011000036103||lipex
+166830008||serum cholesterol raised
+166830008||serum cholesterol raised finding
+53523011000036100||diovan
+3904011000036106||zocor
+80313002||palpitations
+80313002||palpitations finding
+422587007||nausea
+422587007||nauseous
+422587007||nauseated
+422587007||nausea finding
+422587007||observation of nausea
+8943002||weight gain
+8943002||weight gain finding
+10743008||colon spasm
+10743008||spastic colon
+10743008||mucous colitis
+10743008||nervous colitis
+10743008||spastic colitis
+10743008||irritable colon
+10743008||irritable bowel
+10743008||adaptive colitis
+10743008||ic irritable colon
+10743008||membranous colitis
+10743008||functional bowel disease
+10743008||irritable bowel syndrome
+10743008||irritable colon syndrome
+10743008||ibs irritable bowel syndrome
+10743008||irritable bowel syndrome disorder
+271587009||stiffness
+271587009||stiffness finding
+274676007||tingling of skin
+274676007||has tingling sensation
+274676007||tingling of skin finding
+7006003||fumbling
+7006003||clumsiness
+7006003||awkwardness
+7006003||clumsiness finding
+45326000||shoulder pain
+45326000||shoulder region pain
+45326000||shoulder pain finding
+250069006||muscle tension
+250069006||muscle tension finding
+279038004||thoracic back pain
+279038004||thoracic back pain finding
+23924001||tight chest
+23924001||chest tightness
+23924001||pressure in chest
+23924001||tight chest finding
+47933007||foot pain
+47933007||foot pain finding
+67849003||excruciating pain
+67849003||excruciating pain finding
+278040002||falling hair
+278040002||loss of hair
+278040002||thinning hair
+278040002||loss of hair finding
+262966007||muscle tear
+262966007||torn muscle
+262966007||rupture of muscle
+262966007||rupture of muscle disorder
+70076002||rhinitis
+70076002||rhinitis disorder
+70076002||irritation of nose
+225482007||unsure of self
+225482007||lacks confidence
+225482007||lacking in confidence
+225482007||lacks confidence finding
+95891005||flu like illness
+95891005||flu like symptoms
+95891005||influenza like illness
+95891005||influenza like illness finding
+301202006||nasal sinus problem
+301202006||nasal sinus problem finding
+87715008||asialia
+87715008||aptyalia
+87715008||aptyalism
+87715008||dry mouth
+87715008||xerostomia
+87715008||xerostomia disorder
+87715008||clinical xerostomia
+87715008||absent salivary secretion
+69896004||rheumatic gout
+69896004||rheumatoid disease
+69896004||atrophic arthritis
+69896004||rheumatoid arthritis
+69896004||ra rheumatoid arthritis
+69896004||proliferative arthritis
+69896004||rha rheumatoid arthritis
+69896004||chronic rheumatic arthritis
+69896004||rheumatoid arthritis disorder
+286641001||moody
+286641001||moody finding
+3589011000036101||ezetrol
+399153001||vertigo
+399153001||rotary vertigo
+399153001||vertigo finding
+399153001||rotatory vertigo
+399153001||vertigo giddiness
+399153001||vertigo spinning sensation
+426899007||pain provoked by walking
+426899007||pain provoked by walking finding
+57182000||nerve injury
+57182000||nerve damage
+57182000||nerve injury disorder
+57182000||injuries to nerves nerve plexuses and roots
+21911011000036104||glibenclamide
+297142003||swollen foot
+297142003||foot swelling
+297142003||foot swelling finding
+284151004||unable to move leg
+284151004||unable to move leg finding
+24693007||fibromyalgia
+24693007||fibromyositis
+24693007||fibromyositis disorder
+228158008||impaired walking
+228158008||walking disability
+228158008||walking disability finding
+40917007||dazed
+40917007||muddled
+40917007||confused
+40917007||confusion
+40917007||dazed state
+40917007||bewilderment
+40917007||dullness of senses
+40917007||clouded consciousness
+40917007||clouded consciousness finding
+48532005||strain
+48532005||muscle strain
+48532005||pulled muscle
+48532005||muscle strain disorder
+267953003||arthralgia of the lower leg
+289195008||slurring
+289195008||slurred speech
+289195008||clipped speech
+289195008||scamping speech
+289195008||slurred speech finding
+70153002||piles
+70153002||hemorrhoid
+70153002||haemorrhoid
+70153002||hemorrhoids
+70153002||haemorrhoids
+70153002||piles hemorrhoids
+70153002||piles haemorrhoids
+70153002||hemorrhoids disorder
+7011001||hallucinations
+7011001||hallucinations finding
+249913002||knee stiff
+249913002||knee stiff finding
+51197009||stomach cramps
+51197009||stomach gripes
+51197009||stomach cramps finding
+37787011000036104||vitamin a
+314983004||deteriorating renal function
+314983004||deteriorating renal function finding
+28551000168108||voltaren
+24184005||raised blood pressure
+24184005||elevated blood pressure
+24184005||blood pressure elevation
+24184005||finding of increased blood pressure
+24184005||finding of increased blood pressure finding
+250084002||cramp in calf
+250084002||cramp in calf finding
+31911000168108||rhinocort aqueous
+248277009||lack of stamina
+248277009||lack of stamina finding
+21433011000036107||paracetamol
+225624000||panic attack
+225624000||panic attack finding
+129565002||myopathy
+129565002||myopathic disease
+129565002||disorder of muscle
+129565002||disorder of skeletal and or smooth muscle
+129565002||disorder of skeletal and or smooth muscle disorder
+3736011000036100||avandia
+24199005||agitated
+24199005||agitation
+24199005||feeling agitated
+24199005||agitated behavior
+24199005||agitated behaviour
+24199005||unable to keep still
+24199005||feeling agitated finding
+202480001||elbow joint pain
+202480001||arthralgia of elbow
+202480001||elbow joint pain finding
+267044007||impaired exercise tolerance
+267044007||impaired exercise tolerance finding
+48500005||delusional disorder
+48500005||delusional disorder disorder
+282180007||unable to walk up step
+282180007||unable to walk up step finding
+56317004||bald
+56317004||baldness
+56317004||alopecia
+56317004||alopecia disorder
+56317004||hair loss disorder
+80449002||muscle fatigue
+80449002||muscle tiredness
+80449002||muscles tyre easily
+80449002||muscles tire easily
+80449002||muscle fatigue finding
+69867011000036102||caffeine
+193462001||insomnia
+193462001||sleeplessness
+193462001||insomnia disorder
+65124004||bulge
+65124004||swelling
+65124004||tumescence
+65124004||tumefaction
+65124004||swelling finding
+65124004||part of body puffy
+65124004||part of body swollen
+65124004||observation of swelling
+102480002||generalised acute body aches
+102480002||generalised acute body pains
+102480002||generalized acute body aches
+102480002||generalized acute body pains
+102480002||generalized acute body pains finding
+9991008||colic
+9991008||abdominal colic
+9991008||intestinal colic
+9991008||colicky abdominal pain
+9991008||abdominal colic finding
+9991008||spasmodic abdominal pain
+84480002||heaving
+84480002||retching
+84480002||dry heaves
+84480002||retching finding
+397540003||impaired vision
+397540003||visual impairment
+397540003||visual difficulty
+397540003||visual impairment disorder
+24700007||multiple sclerosis
+24700007||ms multiple sclerosis
+24700007||disseminated sclerosis
+24700007||ds disseminated sclerosis
+24700007||multiple sclerosis disorder
+3848011000036104||pravachol
+89362005||weight loss
+89362005||weight loss finding
+1402001||fear
+1402001||fright
+1402001||scared
+1402001||afraid
+1402001||frightened
+1402001||fear finding
+16386004||dry skin
+16386004||anhydrotic skin
+16386004||dry skin finding
+285365001||toe pain
+285365001||pain in toe
+285365001||pain in toe finding
+55533009||forgetful
+55533009||forgetful finding
+282926000||unable to lie down
+282926000||unable to lie down finding
+267052005||flatulence wind
+299377003||knee joint painful on movement
+299377003||knee joint painful on movement finding
+73211009||diabetes mellitus
+73211009||dm diabetes mellitus
+73211009||diabetes mellitus disorder
+248262001||always sleepy
+248262001||always sleepy disorder
+21242011000036102||simvastatin
+247323005||tightness in throat
+247323005||tightness in throat finding
+3559011000036109||zoloft
+307074005||feeling high
+307074005||feeling high finding
+288230000||myalgia myositis pelvis thigh
+288230000||myalgia myositis pelvis thigh finding
+42984000||night sweats
+42984000||night sweats finding
+77692006||hypersomnia
+77692006||excessive sleep
+77692006||sleeps too much
+77692006||excessive sleepiness
+77692006||hypersomnia disorder
+77692006||hypersomnia excessive sleeping
+60032008||unable to concentrate
+60032008||concentration impairment
+60032008||unable to concentrate finding
+162351000||buzzing in ear
+162351000||buzzing in ear finding
+84017003||bursitis
+84017003||bursitis disorder
+84017003||inflammation of bursa
+225508006||poor self image
+225508006||poor self image finding
+277521002||loss of motivation
+277521002||loss of motivation finding
+699368004||symptom of ankle
+699368004||symptom of ankle finding
+26079004||shakes
+26079004||tremor
+26079004||shaking
+26079004||trembling
+26079004||quivering
+26079004||the shakes
+26079004||has a tremor
+26079004||tremor finding
+26079004||shaking all over
+26079004||involuntary quiver
+26079004||involuntary trembling
+372283008||macromastia
+372283008||large breast
+372283008||breasts enlarged
+372283008||breast enlargement
+372283008||large breast finding
+298170003||knee joint inflamed
+298170003||knee joint inflamed finding
+237130006||mid cycle bleeding
+237130006||intermenstrual bleeding
+237130006||bleeding between periods
+237130006||spotting between periods
+237130006||imb intermenstrual bleeding
+237130006||bleeding between periods finding
+63102001||visual disturbance
+63102001||visual disturbance disorder
+90708001||nephrosis
+90708001||nephropathy
+90708001||renal disease
+90708001||renal disorder
+90708001||kidney disease
+90708001||disease of kidney
+90708001||disorder of kidney
+90708001||kidney disease disorder
+36971009||sinusitis
+36971009||sinusitis disorder
+32914008||restless legs
+32914008||willis ekbom disease
+32914008||restless legs disorder
+32914008||restless legs syndrome
+246636008||hazy vision
+246636008||foggy vision
+246636008||misty vision
+246636008||cloudy vision
+246636008||mist over eyes
+246636008||blurred vision hazy
+246636008||hazy vision disorder
+83421005||unable to lose weight
+83421005||failure to lose weight
+83421005||failure to lose weight finding
+699262001||post traumatic osteoarthritis
+699262001||post traumatic osteoarthritis disorder
+34436003||hematuria
+34436003||haematuria
+34436003||blood in urine
+34436003||blood in urine finding
+34840004||tendinitis
+34840004||tendonitis
+34840004||tendinitis disorder
+34840004||inflammatory disorder of tendon
+26677001||disturbed sleep pattern
+26677001||sleep pattern disturbance
+26677001||sleep pattern disturbance finding
+288885009||unable to eat
+288885009||unable to eat finding
+80690008||degenerative disease of the central nervous system
+80690008||degenerative disease of the central nervous system disorder
+102564009||edema of hand
+102564009||oedema of hand
+102564009||edema of hand finding
+64226004||colitis
+64226004||colitis disorder
+64226004||colon inflammation
+425423002||pain provoked by movement
+425423002||pain provoked by movement finding
+47004009||dysphonia
+47004009||difficulty speaking
+47004009||difficulty speaking disorder
+271832001||flatulence eructation and gas pain
+271832001||flatulence eructation and gas pain finding
+271584002||cold hands
+271584002||cold hands finding
+609600000||neuropathy of lower limb
+609600000||neuropathy of lower limb disorder
+285395009||pulled calf muscle
+285395009||strain of calf muscle
+285395009||strain of calf muscle disorder
+21134002||disability
+21134002||disability finding
+84445001||stiff joint
+84445001||joint stiffness
+84445001||joint stiffness finding
+81498004||bursitis of hip
+81498004||bursitis of hip disorder
+162116003||pollakiuria
+162116003||pollakisuria
+162116003||urinary frequency
+162116003||passes water too often
+162116003||increased frequency of urination
+162116003||increased frequency of micturition
+162116003||increased frequency of urination finding
+44186003||dyssomnia
+44186003||sleep problem
+44186003||sleep disturbance
+44186003||dyssomnia disorder
+387603000||balance impairment
+387603000||problem with balance
+387603000||impairment of balance
+387603000||impairment of balance finding
+78514002||thigh pain
+78514002||thigh pain finding
+3080011000036109||tylenol
+162352007||ringing in ear
+162352007||ringing in ear finding
+80182007||irregular periods
+80182007||irregular menstruation
+80182007||variable menstrual cycle
+80182007||irregular periods finding
+80182007||irregular menstrual cycle
+80182007||irregular uterine bleeding
+80182007||menstrual periods irregular
+80182007||irregular menstrual bleeding
+41652007||eye pain
+41652007||ocular pain
+41652007||pain in eye
+41652007||pain in eye finding
+287047008||pain in left leg
+287047008||pain in left lower limb
+287047008||pain in left lower limb finding
+36349006||hot pain
+36349006||burning pain
+36349006||burning pain finding
+77442011000036106||cyanocobalamin
+22095011000036109||fenofibrate 145 mg tablet
+397825006||gastric ulcer
+397825006||stomach ulcer
+397825006||gu gastric ulcer
+397825006||gastric ulceration
+397825006||gastric peptic ulcer
+397825006||gastric ulcer disorder
+397825006||peptic ulcer of stomach
+285849008||difficulty managing anger
+285849008||difficulty controlling anger
+285849008||difficulty controlling anger finding
+698247007||arrhythmia
+698247007||cardiac arrhythmia
+698247007||cardiac dysrhythmia
+698247007||disorder of heart rhythm
+698247007||cardiac arrhythmia disorder
+161882006||stiff neck
+161882006||crick in neck
+161882006||neck stiffness
+161882006||ns neck stiffness
+161882006||stiff neck finding
+40095003||renal injury
+40095003||injury to kidney
+40095003||injury of kidney
+40095003||injury of kidney disorder
+86651002||pulse fast
+86651002||rapid pulse
+86651002||tachycardia pulse
+86651002||pulse fast finding
+267032009||tired all the time
+267032009||tatt tired all the time
+267032009||tired all the time finding
+93478000||hemorrhagic eye
+93478000||haemorrhagic eye
+93478000||intraocular bleeding
+93478000||intraocular hemorrhage
+93478000||intraocular haemorrhage
+93478000||intraocular hemorrhage disorder
+397803000||impotence
+397803000||sexual impotence
+397803000||impotence disorder
+397803000||failure of erection
+397803000||erectile dysfunction
+36955009||ageusia
+36955009||loss of taste
+36955009||gustatory anesthesia
+36955009||gustatory alteration
+36955009||loss of taste finding
+36955009||gustatory anaesthesia
+36955009||absence of sense of taste
+249914008||hip stiff
+249914008||hip stiff finding
+427475007||pain radiating to lumbar region of back
+427475007||pain radiating to lumbar region of back finding
+67362008||aortic aneurysm
+67362008||aneurysm of aorta
+67362008||aa aortic aneurysm
+67362008||aortic aneurysm disorder
+247373008||ankle pain
+247373008||ankle pain finding
+450316000||severe dehydration
+450316000||severe dehydration disorder
+90673000||burning sensation
+90673000||burning sensation finding
+2733002||talalgia
+2733002||heel pain
+2733002||heel pain finding
+247472004||weal
+247472004||welt
+247472004||hives
+247472004||wheal
+247472004||nettle rash
+247472004||weal disorder
+247472004||urticarial rash
+162397003||sore throat
+162397003||throat pain
+162397003||pain in throat
+162397003||throat soreness
+162397003||pharyngeal pain
+162397003||throat discomfort
+162397003||pain in the pharynx
+162397003||pain in throat finding
+415690000||sweats
+415690000||sweating
+415690000||sweating finding
+68172002||tendinopathy
+68172002||tendon disorder
+68172002||disorder of tendon
+68172002||disorder of tendon disorder
+266599000||period pain
+266599000||menorrhalgia
+266599000||dysmenorrhea
+266599000||dysmenorrhoea
+266599000||menstrual cramps
+266599000||dysmenorrhea disorder
+214264003||lethargy
+214264003||lethargic
+214264003||lack of vitality
+214264003||lethargy finding
+235856003||hepatopathy
+235856003||liver disease
+235856003||ld liver disease
+235856003||disease of liver
+235856003||disorder of liver
+235856003||disorder of liver disorder
+130989002||sleep deprivation
+130989002||lack of adequate sleep
+130989002||sleep deprivation finding
+68235000||congested nose
+68235000||stuffed up nose
+68235000||nasal congestion
+68235000||nasal congestion finding
+119416008||epigastric discomfort
+119416008||epigastric discomfort finding
+429040005||ulcer
+429040005||ulcer disorder
+247994001||noise intolerance
+247994001||noise intolerance finding
+282299006||loss of balance
+282299006||unable to balance
+282299006||unable to balance finding
+21545007||tenalgia
+21545007||tenodynia
+21545007||tendon pain
+21545007||tenalgia finding
+72405004||increased appetite
+72405004||increased appetite finding
+16046003||muscle rigidity
+16046003||muscle stiffness
+16046003||muscular rigidity
+16046003||muscular stiffness
+16046003||muscle rigidity finding
+300954003||calf pain
+300954003||pain in calf
+300954003||pain in calf finding
+79012001||vulvismus
+79012001||colpospasm
+79012001||vaginospasm
+79012001||vaginal spasm
+79012001||vaginospasm finding
+79012001||spasm of vaginal muscles at intercourse
+249915009||hand joint stiff
+249915009||hand joint stiff finding
+2764000||joint crackle
+2764000||joint crepitus
+2764000||false crepitus
+2764000||joint crepitation
+2764000||articular crepitation
+2764000||joint crepitus finding
+87486003||aphasia
+87486003||aphasia finding
+87486003||aphasic disturbance
+87486003||loss of power of expression or comprehension
+267036007||dyspnea
+267036007||dyspnoea
+267036007||breathless
+267036007||breathlessness
+267036007||dyspnea finding
+267036007||shortness of breath
+267036007||sob shortness of breath
+12584003||bone pain
+12584003||osteodynia
+12584003||bone pain finding
+8510008||reduced mobility
+8510008||limited mobility
+8510008||limitation of motion
+8510008||reduced mobility finding
+8392000||non smoker
+8392000||non smoker finding
+86094006||chronic rhinitis
+86094006||chronic rhinitis disorder
+262286000||weight increased
+262286000||weight increased finding
+609599003||neuropathy of upper limb
+609599003||neuropathy of upper limb disorder
+386805003||mild cognitive disorder
+386805003||mild cognitive impairment
+386805003||mild cognitive disorder disorder
+284262007||difficulty gripping
+284262007||difficulty gripping finding
+361137007||irregular heart beat
+361137007||irregular heart beat finding
+230690007||stroke
+230690007||cerebrovascular accident
+230690007||cva cerebrovascular accident
+230690007||cerebrovascular accident disorder
+76376003||internal endometriosis
+76376003||endometriosis of uterus
+76376003||endometriosis of uterus disorder
+162221009||restlessness
+162221009||motor restlessness
+162221009||restlessness finding
+162221009||restlessness behavior
+162221009||restlessness behaviour
+225013001||feeling bad
+225013001||feeling bad finding
+414469009||impending shock
+414469009||incipient shock
+414469009||impending shock disorder
+55145008||stabbing pain
+55145008||stabbing pain finding
+248491001||swollen knee
+248491001||swollen knee region
+248491001||swollen knee finding
+310497006||severe depression
+310497006||severe depression disorder
+54020011000036108||voltaren rapid 25 mg tablet sugar coated
+15188001||hypoacusis
+15188001||hearing loss
+15188001||hard of hearing
+15188001||hl hearing loss
+15188001||hearing impaired
+15188001||impaired hearing
+15188001||hearing impairment
+15188001||difficulty hearing
+15188001||hoh hard of hearing
+15188001||hi hearing impairment
+15188001||hearing loss disorder
+289669005||pain of uterus
+289669005||pain of uterus finding
+21565011000036108||ezetimibe simvastatin
+288231001||myalgia myositis lower leg
+288231001||myalgia myositis lower leg finding
+3191011000036109||prinivil
+307731004||injury of tendon of the rotator cuff of shoulder
+307731004||injury of tendon of the rotator cuff of shoulder disorder
+396275006||osteoarthrosis
+396275006||osteoarthritis
+396275006||oa osteoarthritis
+396275006||oa osteoarthrosis
+396275006||degenerative arthritis
+396275006||hypertrophic arthritis
+396275006||osteoarthritis disorder
+396275006||degenerative arthropathy
+396275006||hypertrophic polyarthritis
+396275006||degenerative joint disease
+248274002||lack of energy
+248274002||lacking in energy
+248274002||lack of energy finding
+238131007||overweight
+238131007||overweight finding
+238131007||patient overweight
+73595000||stress
+73595000||stress finding
+73595000||state of stress
+73595000||psychological stress
+32398004||bronchitis
+32398004||bronchitis disorder
+102943000||personality change
+102943000||personality change finding
+131148009||bleeding
+131148009||hemorrhage
+131148009||haemorrhage
+131148009||bleeding finding
+271767006||exfoliating
+271767006||desquamation
+271767006||flaking of skin
+271767006||peeling of skin
+271767006||shedding of scales
+271767006||dropping of scales
+271767006||peeling of skin finding
+698065002||acid reflux
+698065002||acid reflux finding
+4969004||sinus pain
+4969004||sinus headache
+4969004||sinus headache finding
+77422011000036109||pyridoxine
+21417011000036105||fenofibrate
+32643011000036106||potassium
+43116000||eczema
+43116000||eczema disorder
+418363000||pruritus
+418363000||itching of skin
+418363000||itching of skin finding
+424647005||cramp in limb
+424647005||cramp in extremity
+424647005||cramp in limb finding
+609410002||necrosis of anatomical site
+609410002||necrosis of anatomical site disorder
+75694006||pancreatitis
+75694006||pancreatitis disorder
+75694006||inflammation of pancreas
+77436011000036106||fish oil natural
+15203004||sudden visual loss
+15203004||sudden visual loss disorder
+35678005||polyarthralgia
+35678005||multiple joint pain
+35678005||multiple joint pain finding
+35678005||arthralgia of multiple joints
+44695005||palsy
+44695005||paralysis
+44695005||paralysis finding
+38341003||hypertension
+38341003||bp hypertension
+38341003||ht hypertension
+38341003||htn hypertension
+38341003||high blood pressure
+38341003||hypertensive disorder
+38341003||bp high blood pressure
+38341003||hbp high blood pressure
+38341003||high blood pressure disorder
+38341003||hypertensive vascular disease
+38341003||systemic arterial hypertension
+38341003||hypertensive vascular degeneration
+38341003||hypertensive disorder systemic arterial
+38341003||hypertensive disorder systemic arterial disorder
+300381009||frequent defecation
+300381009||frequent defaecation
+300381009||frequent defecation finding
+386705008||lightheaded
+386705008||lightheadedness
+386705008||light headedness
+386705008||feels light headed
+386705008||dizziness light headed
+386705008||lightheadedness finding
+274663001||acute pain
+274663001||acute pain finding
+271801002||dysgeusia
+271801002||parageusia
+271801002||distorted taste
+271801002||disordered taste
+271801002||taste sense altered
+271801002||things taste peculiar
+271801002||things taste abnormal
+271801002||things taste different
+271801002||adverse taste perception
+271801002||taste sense altered finding
+271801002||perversion of sense of taste
+444899003||pain in forearm
+444899003||pain in forearm finding
+271870002||low blood pressure reading
+271870002||low blood pressure reading disorder
+102598000||clamminess
+102598000||clammy skin
+102598000||sticky skin
+102598000||clammy skin finding
+56731001||hypertonia
+56731001||tight muscle
+56731001||high muscle tone
+56731001||muscle hypertonia
+56731001||increased muscle tone
+56731001||increased muscle tone finding
+225549006||yellow skin
+225549006||yellow complexion
+225549006||yellow skin finding
+418092006||respiratory tract congestion
+418092006||respiratory tract congestion disorder
+162043005||hunger pain
+162043005||hunger pain finding
+3530011000036104||lopid
+70733008||limited range of motion
+70733008||joint movement restrained
+70733008||joint movement restricted
+70733008||restriction of joint motion
+70733008||limitation of joint movement
+70733008||range of joint movement reduced
+70733008||limitation of joint movement finding
+37796009||migraine
+37796009||migraine disorder
+124054003||increased cholesterol esters
+124054003||increased cholesterol esters finding
+85418005||dream disorder
+85418005||abnormal dreams
+85418005||abnormal dreaming
+85418005||dream disorder finding
+40196000||mild pain
+40196000||mild pain finding
+370143000||major depression
+370143000||major depressive disorder
+370143000||major depressive disorder disorder
+419511003||drug sensitivity
+419511003||propensity to adverse reactions to drug
+419511003||propensity to adverse reactions to drug finding
+69215007||gets overheated
+69215007||sensitive to heat
+69215007||intolerant of heat
+69215007||intolerant of heat finding
+46991000||absent minded
+46991000||absent minded finding
+165247006||unable to climb stairs
+165247006||unable to climb stairs finding
+398032003||loose feces
+398032003||loose stool
+398032003||loose motion
+398032003||loose faeces
+398032003||loose stools
+398032003||ls loose stools
+398032003||loose bowel motions
+398032003||loose stool finding
+398032003||loose bowel movement
+3210011000036104||lexapro
+40733004||infection
+40733004||infective disorder
+40733004||infectious disease
+40733004||disease due to infection
+40733004||disorder due to infection
+40733004||infectious disease disorder
+423849004||iliotibial band syndrome
+423849004||iliotibial band friction syndrome
+423849004||iliotibial band friction syndrome disorder
+90446007||anal itch
+90446007||pruritus ani
+90446007||perianal itch
+90446007||pruritus ani disorder
+45534005||glossitis
+45534005||glossitis disorder
+45534005||inflammation of tongue
+90560007||gout
+90560007||inflammatory disorder due to increased blood urate level
+90560007||inflammatory disorder due to increased blood urate level disorder
+301026000||loss of confidence
+301026000||loss of confidence finding
+225609009||stiff legs
+225609009||stiff legs finding
+202852009||shoulder tendonitis
+59927004||liver failure
+59927004||hepatic failure
+59927004||liver decompensation
+59927004||hepatic insufficiency
+59927004||liver function failure
+59927004||hepatic failure disorder
+249902000||dysstasia
+249902000||difficulty standing
+249902000||difficulty standing finding
+386033004||neuropathy
+386033004||neuropathy disorder
+386033004||neuropathy nerve damage
+225014007||feeling empty
+225014007||feeling empty finding
+249931001||weakness of neck
+249931001||cannot hold head up
+249931001||weakness of neck finding
+118932009||disorder of foot
+118932009||disorder of foot disorder
+43364001||abdominal discomfort
+43364001||abdominal discomfort finding
+53215011000036102||advil
+3572011000036102||mobic
+161156004||language difficulty
+161156004||language difficulty finding
+266257000||tia
+266257000||transient ischemic attack
+266257000||transient ischaemic attack
+266257000||transient cerebral ischemia
+266257000||transient cerebral ischaemia
+266257000||tia transient ischaemic attack
+266257000||transient ischemic attack disorder
+266257000||temporary cerebral vascular dysfunction
+200936003||lupus
+200936003||lupus erythematosus
+200936003||le lupus erythematosus
+200936003||lupus erythematosus disorder
+235594008||bowel dysfunction
+235594008||bd bowel dysfunction
+235594008||bowel dysfunction disorder
+79890006||off food
+79890006||anorexia
+79890006||anorexic
+79890006||no appetite
+79890006||loss of appetite
+79890006||loss of appetite finding
+84946008||prostration
+84946008||extreme exhaustion
+84946008||extreme exhaustion finding
+300043006||reduction of bulk of muscle
+300043006||reduction of bulk of muscle finding
+33308003||disorder of back
+33308003||disorder of back disorder
+16269008||neuralgia
+16269008||neuralgia finding
+16269008||paroxysmal nerve pain
+82272006||cold
+82272006||head cold
+82272006||common cold
+82272006||acute coryza
+82272006||acute rhinitis
+82272006||infective rhinitis
+82272006||acute nasal catarrh
+82272006||common cold disorder
+82272006||acute nasopharyngitis
+82272006||acute infective rhinitis
+82272006||infective nasopharyngitis
+103281005||blocked ears
+103281005||ear blockage sensation
+103281005||plugged feeling in ear
+103281005||sensation of blocked ear
+103281005||sensation of block in ear
+103281005||sensation of blocked ear finding
+304534000||crying
+304534000||crying finding
+74323005||elbow pain
+74323005||pain in elbow
+74323005||pain in elbow finding
+27355003||dentagra
+27355003||toothache
+27355003||dentalgia
+27355003||odontalgia
+27355003||pain in tooth
+27355003||toothache finding
+76000011000036107||b complex cenovis
+431416001||menstrual cramp
+431416001||menstrual cramp finding
+80954004||decreased respiration
+80954004||respiratory depression
+80954004||decreased lung function
+80954004||decreased respiratory function
+80954004||decreased respiratory function finding
+271737000||anemia
+271737000||anaemia
+271737000||anemia disorder
+271737000||absolute anemia
+271737000||absolute anaemia
+443798008||arthritis of shoulder region joint
+443798008||inflammation of joint of shoulder region
+443798008||inflammation of joint of shoulder region disorder
+297217002||rib pain
+297217002||rib pain finding
+309557009||numbness of face
+309557009||numbness of face finding
+35918011000036106||cymbalta
+6211002||polyarthritis associated with another disorder
+6211002||polyarthritis associated with another disorder disorder
+45352006||spasm
+45352006||spasm finding
+249966004||jerking
+249966004||twitching
+249966004||spasm movement
+249966004||spasmodic movement
+249966004||spasmodic movement finding
+61599003||phlebitis
+61599003||phlebitis disorder
+61599003||inflammation of vein
+78584011000036106||soy lecithin
+230736007||transient global amnesia
+230736007||tga transient global amnesia
+230736007||transient global amnesia finding
+432352001||increased phosphokinase
+432352001||raised creatine kinase level
+432352001||elevated creatine kinase level
+432352001||increased creatine kinase level
+432352001||increased ck creatine kinase level
+432352001||increased creatine kinase level finding
+128239009||neurological injury
+128239009||injury of nervous system
+128239009||injury of nervous system disorder
+165232002||weak bladder
+165232002||leaking of urine
+165232002||urine incontinence
+165232002||bladder incontinence
+165232002||urinary incontinence
+165232002||bladder incontinent
+165232002||unable to hold urine
+165232002||unable to hold fluids
+165232002||involuntary urination
+165232002||incontinence of urine
+165232002||loss of bladder control
+165232002||lack of bladder control
+165232002||ui urinary incontinence
+165232002||unable to control bladder
+165232002||urinary incontinence finding
+165232002||absence of bladder continence
+165232002||unable to prevent bladder emptying
+282195009||difficulty climbing stairs
+282195009||difficulty walking up stairs
+282195009||difficulty walking up stairs finding
+289903006||menopause
+289903006||menopause present
+289903006||menopause present finding
+167232003||urine dark concentrated
+167232003||urine dark concentrated finding
+193093009||bell palsy
+193093009||bells palsy
+193093009||bell s palsy
+193093009||bell s palsy disorder
+193093009||idiopathic acute facial nerve palsy
+300306001||stomach problem
+300306001||stomach problem finding
+52613005||diaphoresis
+52613005||profuse sweating
+52613005||excessive sweating
+52613005||sweating profusely
+52613005||excessive sweating finding
+46206005||mood disorder
+46206005||disorder of affect
+46206005||affective disorder
+46206005||mood disorder disorder
+271713000||feels shaky
+271713000||general unsteadiness
+271713000||general unsteadiness finding
+46635009||type 1 diabetes mellitus
+46635009||diabetes mellitus type 1
+46635009||diabetes mellitus type i
+46635009||type i diabetes mellitus
+46635009||diabetes mellitus type 1 disorder
+429340002||traumatic injury of skeletal muscle
+429340002||traumatic injury of skeletal muscle disorder
+699302001||lumbar arthritis
+699302001||lumbar arthritis disorder
+444312002||hemorrhage of abdominal cavity structure
+444312002||haemorrhage of abdominal cavity structure
+444312002||hemorrhage of abdominal cavity structure disorder
+283902008||has delayed recall
+283902008||has delayed recall finding
+34839011000036106||pethidine
+21676011000036101||omeprazole
+6205011000036102||lipitor 20 mg tablet film coated
+248236005||mentally vague
+248236005||mentally vague finding
+267949000||shoulder joint pain
+267949000||arthralgia of shoulder
+267949000||shoulder joint pain finding
+267949000||arthralgia of the shoulder region
+197321007||fatty liver
+197321007||hepatic lipidosis
+197321007||steatosis of liver
+197321007||steatosis of liver disorder
+57406009||carpal canal
+57406009||carpal tunnel
+57406009||carpal tunnel syndrome
+57406009||cts carpal tunnel syndrome
+57406009||distal median nerve entrapment
+57406009||distal median nerve compression
+57406009||carpal tunnel syndrome disorder
+165509000||leukocyte count abnormal
+165509000||leucocyte count abnormal
+165509000||white cell count abnormal
+165509000||white blood cell count abnormal
+165509000||white blood cell count abnormal finding
+161833006||abnormal weight gain
+161833006||abnormal increase in weight
+161833006||abnormal weight gain finding
+277223000||swollen nasal mucosa
+277223000||swollen nasal mucosa finding
+81680008||neck pain
+52448006||dementia
+52448006||organic dementia
+52448006||dementia disorder
+56608008||wrist pain
+56608008||pain in wrist
+56608008||pain in wrist finding
+258155009||allergy to sunlight
+258155009||photosensitivity due to sun
+258155009||photosensitisation due to sun
+258155009||photosensitization due to sun
+258155009||photosensitivity caused by sun
+258155009||photosensitivity due to sunlight
+258155009||photosensitisation caused by sun
+258155009||photosensitization caused by sun
+258155009||photosensitivity caused by sunlight
+258155009||photosensitization caused by sun disorder
+50219008||hoarse
+50219008||hoarseness
+50219008||husky voice
+50219008||croaky voice
+50219008||hoarse finding
+50219008||voice hoarseness
+50219008||hoarseness symptom
+50219008||hoarseness throat symptom
+193000002||psychomotor seizure
+193000002||temporal lobe epilepsy
+193000002||tle temporal lobe epilepsy
+193000002||temporal lobe epilepsy disorder
+22325002||gait problem
+22325002||abnormal gait
+22325002||gait difficulty
+22325002||gait abnormality
+22325002||abnormal gait finding
+160685001||bedbound
+160685001||bed fast
+160685001||bed ridden
+160685001||stuck in bed
+160685001||staying in bed
+160685001||bedridden patient
+160685001||bed ridden finding
+282937004||unable to bend down
+282937004||unable to bend down finding
+82639001||pms
+82639001||menstrual molimen
+82639001||premenstrual tension
+82639001||premenstrual syndrome
+82639001||pmt premenstrual tension
+82639001||pms premenstrual syndrome
+82639001||premenstrual tension syndrome
+82639001||premenstrual tension syndrome disorder
+18193002||hypochondria
+18193002||hypochondriasis
+18193002||hypochondriasis disorder
+18193002||hypochondriacal neurosis
+280816001||facial palsy
+280816001||facial palsy disorder
+280816001||facial nerve paralysis
+284149003||difficulty moving hand
+284149003||difficulty moving hand finding
+274141009||tendon contracture
+274141009||tendon contracture disorder
+39400004||hepatic trauma
+39400004||hepatic injury
+39400004||injury of liver
+39400004||injury of liver disorder
+128601007||lung infection
+128601007||pulmonary infection
+128601007||infectious disease of lung
+128601007||infectious disease of lung disorder
+53458011000036102||aleve
+449918009||cramp in lower leg
+449918009||cramp in lower leg finding
+4344011000036106||neurontin
+248653008||missed beats heart
+248653008||dropped beats heart
+248653008||skipped beats heart
+248653008||dropped beats heart finding
+39104002||illness
+39104002||sickness
+39104002||illness finding
+278999000||skin tender
+278999000||skin tenderness
+278999000||skin tenderness finding
+202484005||proximal interphalangeal joint of finger pain
+202484005||proximal interphalangeal joint of finger pain finding
+202484005||arthralgia of proximal interphalangeal joint of finger
+288939007||difficulty swallowing
+288939007||difficulty swallowing finding
+18101008||bowel sounds hyperactive
+18101008||hyperactive bowel sounds
+18101008||bowel sounds hyperactive finding
+105981003||functional cardiac disorder
+105981003||disorder of cardiac function
+105981003||disorder of cardiac function disorder
+43724002||chill
+43724002||shivering
+43724002||chill finding
+64379006||poor appetite
+64379006||reduced appetite
+64379006||decrease in appetite
+64379006||decrease in appetite finding
+301679006||difficulty getting off a bed
+301679006||difficulty getting off a bed finding
+239720000||torn meniscus
+239720000||tear of meniscus of knee
+239720000||tear of cartilage of knee
+239720000||tear of meniscus of knee disorder
+166848004||serum triglycerides raised
+166848004||serum triglycerides raised finding
+230645003||compression neuropathy of trunk
+230645003||compression neuropathy of trunk disorder
+246676003||hyperaemia of surface of eye
+247408001||high pain threshold
+247408001||low sensitivity to pain
+247408001||high pain threshold finding
+193570009||cataract
+193570009||lens opacity
+193570009||cataract disorder
+193570009||lenticular opacity
+16331000||pyrosis
+16331000||heartburn
+16331000||burning reflux
+16331000||heartburn symptom
+16331000||heartburn finding
+77461011000036109||alpha tocopherol
+297144002||swollen feet
+309536001||numbness of finger
+309536001||numbness of finger finding
+363499005||malignant tumor of spleen
+363499005||malignant tumour of spleen
+363499005||malignant tumor of spleen disorder
+21885011000036105||ibuprofen
+77547008||degenerative disc disease
+77547008||intervertebral disc degeneration
+77547008||degeneration of intervertebral disc
+77547008||degeneration of intervertebral disc disorder
+95418008||muscle spasms of head and or neck
+95418008||muscle spasms of head and or neck disorder
+363346000||cancer
+363346000||ca cancer
+363346000||malignant tumor
+363346000||malignant tumour
+363346000||malignant neoplasm
+363346000||malignant neoplastic disease
+363346000||malignant neoplastic disease disorder
+60238002||twitch
+60238002||muscle twitch
+60238002||muscle twitch finding
+86044005||lou gehrig s disease
+86044005||bulbar motor neuron disease
+86044005||amyotrophic lateral sclerosis
+86044005||als amyotrophic lateral sclerosis
+86044005||amyotrophic lateral sclerosis disorder
+21540011000036109||pseudoephedrine
+398151007||decreased muscle tone
+398151007||decreased muscle tone finding
+386806002||cognitive deficit
+386806002||cognitive decline
+386806002||impaired cognition
+386806002||cognitive impairment
+386806002||cognitive dysfunction
+386806002||cognitive disturbance
+386806002||impaired cognition finding
+71262003||gum ulcer
+71262003||gum ulceration
+71262003||gingival ulceration
+71262003||ulceration of gingivae
+71262003||ulceration of gingivae disorder
+267950000||arthralgia of the upper arm
+267950000||arthralgia of the upper arm finding
+267039000||swollen ankle
+267039000||ankle swelling
+267039000||swollen ankle region
+267039000||swollen ankle finding
+283121001||blister of mouth
+283121001||traumatic blister of mouth
+283121001||traumatic blister of mouth disorder
+47401000168109||lescol
+102565005||edema of finger
+102565005||oedema of finger
+102565005||edema of finger finding
+225601007||unable to move
+225601007||unable to move finding
+429360005||tendonitis of knee
+429360005||tendinitis of knee
+429360005||tendinitis of knee disorder
+299037003||swollen hand
+299037003||swelling of hand
+299037003||swelling of hand finding
+29542008||uterine spasm
+29542008||spasm of uterus
+29542008||spasm of uterus finding
+49601007||cardiovascular disease
+49601007||cardiovascular disorder
+49601007||cvd cardiovascular disease
+49601007||cardiovascular system disease
+49601007||disorder of circulatory system
+49601007||disorder of cardiovascular system
+49601007||disorder of the circulatory system
+49601007||cvs disease cardiovascular system disease
+49601007||disorder of cardiovascular system disorder
+129103003||endometriosis
+129103003||endometriosis disorder
+129103003||endometriosis clinical
+61372001||aggression
+61372001||aggressive behavior
+61372001||aggressive behaviour
+61372001||aggressive behavior finding
+14304000||thyroid disease
+14304000||thyroid disorder
+14304000||disorder of thyroid gland
+14304000||disorder of thyroid gland disorder
+116289008||abdominal bloating
+116289008||abdominal bloating finding
+367466007||skin irritation
+367466007||skin irritation disorder
+249918006||shoulder stiff
+249918006||shoulder stiff finding
+91019004||paresthesia
+91019004||paraesthesia
+91019004||paresthesia finding
+91019004||paresthesia numbness tingling
+91019004||paraesthesia numbness tingling
+202882003||policeman s heel
+202882003||plantar fasciitis
+202882003||plantar fasciitis disorder
+4249000||poor peripheral circulation
+4249000||poor peripheral circulation disorder
+248966006||menostaxis
+248966006||prolonged periods
+248966006||prolonged periods finding
+21005005||burning epigastric pain
+21005005||burning epigastric pain finding
+11072008||nonspecific abdominal symptom
+11072008||nonspecific abdominal symptom finding
+249903005||difficulty standing up
+249903005||difficulty rising to feet
+249903005||difficulty standing up finding
+248096004||lack of libido
+248096004||lack of libido finding
+84114007||weak heart
+84114007||heart failure
+84114007||cardiac failure
+84114007||hf heart failure
+84114007||myocardial failure
+84114007||cardiac insufficiency
+84114007||heart failure disorder
+4138011000036106||lipidil
+399044006||glossopyrosis
+399044006||burning tongue
+399044006||glossopyrosis disorder
+288228002||myalgia myositis forearm
+288228002||myalgia myositis forearm finding
+21395011000036107||ramipril
+373931001||sensation of heaviness in limbs
+373931001||sensation of heaviness in limbs finding
+247806005||uneasy
+247806005||ill at ease
+247806005||ill at ease finding
+53430007||mastalgia
+53430007||mastodynia
+53430007||breast pain
+53430007||breast painful
+53430007||pain of breast
+53430007||painful breasts
+53430007||pain in the breast
+53430007||pain of breast finding
+6206011000036109||lipitor 40 mg tablet film coated
+21821011000036104||codeine
+298753001||numbness of upper limb
+298753001||numbness of upper limb finding
+161873000||heavy legs
+161873000||heavy legs finding
+39621005||gallbladder disease
+39621005||gallbladder disorder
+39621005||disorder of gallbladder
+39621005||disorder of gallbladder disorder
+315642008||influenza like symptoms
+315642008||influenza like symptoms finding
+21589011000036108||clonidine
+83901003||sicca syndrome
+83901003||sjögren syndrome
+83901003||sjogrens syndrome
+83901003||sjögren s disease
+83901003||sjogren s syndrome
+83901003||sjögren s syndrome
+83901003||sjögren s syndrome disorder
+249940002||shoulder girdle weakness
+249940002||shoulder girdle weakness finding
+6389006||disturbance in motor activity
+6389006||disturbance in physical behavior
+6389006||disturbance in physical behaviour
+6389006||disturbance in physical behavior finding
+209777000||rupture tendon thigh
+209777000||rupture tendon thigh disorder
+249489001||choking
+249489001||choking finding
+236423003||renal impairment
+236423003||renal dysfunction
+236423003||impaired renal function
+236423003||renal impairment disorder
+95847005||muscle injury
+95847005||injury of muscle
+95847005||injury of muscle disorder
+300650009||difficulty riding a bike
+300650009||difficulty riding a bicycle
+300650009||difficulty riding a bicycle finding
+235999009||peritoneal hematoma
+235999009||peritoneal haematoma
+235999009||intra abdominal hematoma
+235999009||intra abdominal haematoma
+235999009||intra abdominal hematoma disorder
+250991000119100||stumbling gait
+250991000119100||stumbling gait finding
+249938007||weakness of back
+249938007||weakness of back finding
+125667009||bruise
+125667009||bruising
+125667009||contusion
+125667009||contusion disorder
+254935002||brain tumor
+254935002||brain tumour
+254935002||bt brain tumor
+254935002||bt brain tumour
+254935002||intracranial tumor
+254935002||intracranial tumour
+254935002||intracranial neoplasm
+254935002||ict intracranial tumor
+254935002||ict intracranial tumour
+254935002||intracranial tumor disorder
+29164008||speech impairment
+29164008||speech abnormality
+29164008||disturbance in speech
+29164008||disturbance in speech finding
+61777011000036104||codeine ibuprofen
+32798002||parkinsonism
+32798002||parkinsonism disorder
+32798002||disorders presenting primarily with parkinsonism
+40930008||hypothyroid
+40930008||hypothyroidism
+40930008||hypothyroidism disorder
+213257006||generally unwell
+213257006||generally unwell finding
+213257006||general feeling of illness
+247347003||discomfort
+247347003||discomfort finding
+47268002||reflux
+82423001||chronic pain
+82423001||chronic pain finding
+18876004||finger pain
+18876004||pain in finger
+18876004||pain in finger finding
+315224006||heavy episode of vaginal bleeding
+315224006||heavy episode of vaginal bleeding finding
+21839011000036103||bisoprolol
+248132003||craving for food or drink
+248132003||craving for food or drink finding
+473011001||allergic condition
+473011001||allergic condition finding
+267079009||trembles
+267079009||trembles finding
+267045008||gastrointestinal symptom
+267045008||gastrointestinal symptom finding
+300439004||gastrointestinal tract problem
+300439004||gastrointestinal tract problem finding
+371632003||coma
+371632003||comatose
+371632003||exanimation
+371632003||coma disorder
+16973004||limp
+16973004||limping
+16973004||lameness
+16973004||limping finding
+225610004||stiff limbs
+225610004||stiff limbs finding
+4422011000036109||noten
+284140004||unable to move arm
+284140004||unable to move arm finding
+53741008||coronary sclerosis
+53741008||coronary heart disease
+53741008||coronary artery disease
+53741008||coronary arteriosclerosis
+53741008||chd coronary heart disease
+53741008||cad coronary artery disease
+53741008||arteriosclerotic heart disease
+53741008||coronary arteriosclerosis disorder
+166643006||liver enzymes abnormal
+166643006||liver enzymes abnormal finding
+923927011000036105||melatonin
+266601003||epimenorrhagia
+266601003||polymenorrhagia
+266601003||hyperpolymenorrhea
+266601003||hyperpolymenorrhoea
+266601003||frequent heavy periods
+266601003||excessive and frequent menstruation
+266601003||excessive and frequent menstruation finding
+64766004||colitis gravis
+64766004||ulcerative colitis
+64766004||uc ulcerative colitis
+64766004||idiopathic proctocolitis
+64766004||ulcerative colitis disorder
+274646000||irritability and anger
+274646000||irritability and anger finding
+282475008||unable to run
+282475008||unable to run finding
+3563011000036102||zantac
+233604007||pneumonia
+233604007||pneumonia disorder
+276444007||generalized itching
+276444007||generalised itching
+276444007||generalised pruritus
+276444007||generalized pruritus
+276444007||generalized pruritus finding
+129859006||impaired bed mobility
+129859006||impaired bed mobility finding
+309086004||paresthesia of hand
+309086004||paraesthesia of hand
+309086004||paresthesia of hand finding
+230490003||24 hour hypersomnolence
+230490003||excessive day and night time sleepiness
+230490003||excessive day and night time sleepiness disorder
+68566005||urinary tract infection
+68566005||uti urinary tract infection
+68566005||urinary tract infectious disease
+68566005||urinary tract infectious disease disorder
+279093005||cramping pain
+279093005||cramping pain finding
+247753000||loss of interest
+247753000||loss of interest finding
+195967001||asthma
+195967001||asthmatic
+195967001||asthma disorder
+195967001||bronchial asthma
+195967001||airway hyperreactivity
+195967001||bronchial hyperreactivity
+195967001||bronchial hypersensitivity
+195967001||hyperreactive airway disease
+195967001||bhr bronchial hyperreactivity
+195967001||bronchial hyperresponsiveness
+21499005||feeling agitated 232 249
+423052008||frequent night waking
+423052008||frequent night waking finding
+46040000||colonic ulcer
+46040000||ulceration of colon
+46040000||ulceration of colon disorder
+102897001||feeling drunk
+102897001||feeling groggy
+102897001||feeling intoxicated
+102897001||feeling intoxicated finding
+21238011000036103||oestradiol
+415749005||rupture of tendon
+415749005||traumatic rupture of tendon
+415749005||traumatic rupture of tendon disorder
+281245003||musculoskeletal chest pain
+281245003||musculoskeletal chest pain finding
+302188001||bad taste in mouth
+302188001||bad taste in mouth finding
+13543005||pressure
+13543005||pressure finding
+102572006||edema of lower limb
+102572006||oedema of lower limb
+102572006||edema of lower extremity
+102572006||oedema of lower extremity
+102572006||edema of lower extremity finding
+249985001||bad balance
+249985001||poor balance
+249985001||poor balance finding
+298751004||tenderness of upper limb
+298751004||tenderness in upper limb
+298751004||tenderness of upper limb finding
+102911000||thoughts of self harm
+102911000||thoughts of self harm finding
+14151009||hyperesthesia
+14151009||hyperaesthesia
+14151009||heightened sensation
+14151009||hyperesthesia finding
+14151009||hypersensitivity sensation
+14151009||heightened sensation of skin
+14151009||increased sensitivity sensation
+14151009||hyperesthesia increased sensitivity
+14151009||hyperaesthesia increased sensitivity
+398979000||pale complexion
+398979000||pale complexion finding
+103002009||feeling hot and cold
+103002009||sensation of hot and cold
+103002009||sensation of hot and cold finding
+371081002||arthritis of knee
+371081002||arthritis of knee disorder
+271596009||mental distress
+271596009||mental distress finding
+26237000||ankle edema
+26237000||ankle oedema
+26237000||ankle edema finding
+26237000||swollen ankle edema
+26237000||swollen ankle oedema
+21496011000036106||prednisone
+424582000||stress overload
+424582000||stress overload finding
+310495003||mild depression
+310495003||mild depression disorder
+309521004||numbness of hand
+309521004||numbness of hand finding
+387801000||cervical arthritis
+387801000||cervical spondylitis
+387801000||cervical arthritis disorder
+444702007||irregular bowel habits
+444702007||irregular bowel habits finding
+8009008||wets bed
+8009008||bedwetting
+8009008||bed wetting
+8009008||nocturnal enuresis
+8009008||nocturnal enuresis finding
+8009008||nocturnal incontinence of urine
+21322011000036108||amlodipine
+399122003||swallowing problem
+399122003||impaired swallowing
+399122003||swallowing impairment
+399122003||swallowing problem finding
+41982003||andropause
+41982003||male climacteric
+41982003||male climacteric finding
+42345000||polyneuropathy
+42345000||acquired polyneuropathy
+42345000||polyneuropathy disorder
+42345000||polyneuropathy multiple nerve disorder
+6471006||suicidal thoughts
+6471006||suicidal thoughts finding
+419145002||nightmares
+419145002||nightmares finding
+3934011000036103||capoten
+271835004||abdominal distension gaseous
+271835004||abdominal distension gaseous finding
+95320005||dermatosis
+95320005||skin disease
+95320005||dermatopathy
+95320005||skin disorder
+95320005||disorder of skin
+95320005||dermatological disease
+95320005||dermatological disorder
+95320005||disorder of skin disorder
+299060006||swollen finger
+299060006||swelling of finger
+299060006||swelling of finger finding
+237602007||reaven s syndrome
+237602007||metabolic syndrome
+237602007||metabolic syndrome x
+237602007||dysmetabolic syndrome x
+237602007||insulin resistance syndrome
+237602007||metabolic syndrome x disorder
+249912007||ankle stiff
+249912007||ankle stiff finding
+416675009||boil
+416675009||furuncle
+416675009||furuncle disorder
+101000119102||numbness and tingling of skin
+101000119102||numbness and tingling sensation of skin
+101000119102||numbness and tingling sensation of skin finding
+34095006||dehydration
+34095006||dehydration disorder
+34095006||pure water depletion syndrome
+262558009||deep bruising
+309257005||excessive weight loss
+309257005||excessive weight loss finding
+249917001||elbow stiff
+249917001||elbow stiff finding
+95453001||subdural hematoma
+95453001||subdural haematoma
+95453001||sdh subdural hematoma
+95453001||sdh subdural haematoma
+95453001||subdural intracranial hematoma
+95453001||subdural intracranial haematoma
+95453001||subdural intracranial hematoma disorder
+4740000||zona
+4740000||zoster
+4740000||shingles
+4740000||herpes zoster
+4740000||herpes zoster disorder
+4740000||herpes zoster infection
+59050008||initial insomnia
+59050008||vesperal insomnia
+59050008||cannot get off to sleep
+59050008||difficulty falling asleep
+59050008||initial insomnia disorder
+59050008||difficulty getting to sleep
+59050008||difficulty in sleep initiation
+409589004||scab of skin
+409589004||scab of skin disorder
+275319005||swollen legs
+59026006||blepharospasm
+59026006||spasm of eyelids
+59026006||blepharospasm disorder
+59026006||essential blepharospasm
+59026006||blepharospasm spasm of eyelid
+59026006||benign essential blepharospasm
+166892002||random blood sugar raised
+166892002||random blood sugar raised finding
+9829001||gu perforated gastric ulcer
+9829001||perforation of gastric ulcer
+9829001||gastric ulcer with perforation
+9829001||gastric ulcer with perforation disorder
+439953004||elevated cholesterol high density lipoprotein ratio
+439953004||elevated cholesterol high density lipoprotein ratio finding
+274667000||jaw pain
+274667000||pain of jaw
+274667000||jaw pain finding
+12441001||epistaxis
+419076005||allergic reaction
+419076005||allergic reaction disorder
+6142004||flu
+6142004||grippe
+6142004||influenza
+6142004||influenza disorder
+284143002||difficulty moving arm
+284143002||difficulty moving arm finding
+236620008||infective cystitis
+236620008||infection of bladder
+236620008||infective cystitis disorder
+202472008||hand joint pain
+202472008||arthralgia of the hand
+202472008||hand joint pain finding
+124042003||increased lipid
+124042003||increased lipid finding
+95655001||ocular migraine
+95655001||ophthalmic migraine
+95655001||ophthalmic migraine disorder
+7393007||disorder of nasal sinus
+7393007||disease of accessory sinus
+7393007||disorder of paranasal sinuses
+7393007||disorder of nasal sinus disorder
+21624011000036105||atenolol
+271787007||collapse
+271787007||collapse finding
+309087008||paresthesia of foot
+309087008||paraesthesia of foot
+309087008||paresthesia of foot finding
+284146005||unable to move hand
+284146005||unable to move hand finding
+64206003||scanty period
+64206003||hypomenorrhea
+64206003||scanty periods
+64206003||hypomenorrhoea
+64206003||hypomenorrhea finding
+64206003||light menstrual period
+64206003||spotting only at periods
+18165001||icterus
+18165001||icteric
+18165001||jaundice
+18165001||jaundiced
+18165001||jaundice finding
+286381004||unable to find words
+286381004||unable to find words finding
+271951008||tearful
+271951008||weepiness
+271951008||tearfulness
+271951008||crying associated with mood
+271951008||crying associated with emotion
+271951008||crying associated with mood finding
+286651000||fragile self esteem
+286651000||fragile self esteem finding
+3545003||diastolic dysfunction
+3545003||diastolic dysfunction finding
+68449006||coxitis
+68449006||coxitis disorder
+68449006||arthritis of hip
+68449006||inflammation of hip joint
+405729008||feces blood
+405729008||hematochezia
+405729008||bloody stool
+405729008||faeces blood
+405729008||haematochezia
+405729008||blood in feces
+405729008||blood in stool
+405729008||blood in faeces
+405729008||hematochezia finding
+405729008||passage of bloody stools
+405729008||bright red blood in stool
+405729008||bright red blood per rectum
+405729008||fresh blood passed per rectum
+405729008||brbpr bright red blood per rectum
+247355005||flank pain
+247355005||flank pain finding
+17971005||sedated
+17971005||under sedation
+17971005||sedated finding
+18718003||gum disease
+18718003||gingival disease
+18718003||gingival disorder
+18718003||gingival disease disorder
+3702011000036109||oxycontin
+4308002||repetitive strain injury
+4308002||rsi repetitive strain injury
+4308002||repetitive strain injury disorder
+4308002||repetitive strain injury syndrome
+4308002||rsis repetitive strain injury syndrome
+7973008||poor vision
+7973008||problem sight
+7973008||partial sight
+7973008||problem seeing
+7973008||sight impaired
+7973008||abnormal vision
+7973008||difficulty seeing
+7973008||reduced ability to see
+7973008||abnormal vision finding
+271771009||swollen joint
+271771009||joint swelling
+271771009||joint swelling finding
+271771009||observation of joint swelling
+60728008||bloat
+60728008||bloating
+60728008||meteorism
+60728008||swollen abdomen
+60728008||bloated abdomen
+60728008||abdomen distended
+60728008||abdominal swelling
+60728008||swelling of abdomen
+60728008||abdominal distention
+60728008||swollen abdomen finding
+128605003||disorder of extremity
+128605003||disorder of extremity disorder
+26929004||alzheimer disease
+26929004||alzheimer dementia
+26929004||alzheimer s disease
+26929004||ad alzheimer s disease
+26929004||alzheimer s disease disorder
+428281000||malignant neoplasm of bone
+428281000||malignant neoplasm of bone disorder
+2297011000036108||magnesium
+44548000||hyperkinesis
+44548000||hyperkinesia
+44548000||ha hyperactivity
+44548000||hyperactive behavior
+44548000||hyperactive behaviour
+44548000||hyperactive behavior finding
+44548000||increased purposeful goal directed activity
+203095000||spasm of back muscles
+203095000||spasm of back muscles finding
+73589001||slipped disc
+73589001||slipped intervertebral disc
+73589001||intervertebral disc prolapse
+73589001||intervertebral disc extrusion
+73589001||prolapsed intervertebral disc
+73589001||intervertebral disc protrusion
+73589001||pid prolapsed intervertebral disc
+73589001||ivdp intervertebral disc prolapse
+73589001||pivd prolapsed intervertebral disc
+73589001||displacement of intervertebral disc
+73589001||intervertebral disc prolapse disorder
+248648003||palpitations rapid
+248648003||palpitations rapid finding
+13164000||reduced visual acuity
+13164000||reduced visual acuity finding
+11654001||achilles tendonitis
+11654001||achilles tendinitis
+11654001||achilles tendinitis disorder
+95359001||mucosal numbness
+95359001||mucosal numbness finding
+39651011000036100||solaraze
+3253007||dyschromia
+3253007||discoloration of skin
+3253007||discolouration of skin
+3253007||discoloration of skin finding
+82883008||disturbance in speech rhythm
+82883008||disturbance in speech rhythm finding
+55350005||hungry
+55350005||hunger
+55350005||feeding drive
+55350005||hungry finding
+240014001||rupture of tendon of lower leg and ankle
+240014001||rupture of tendon of lower leg and ankle disorder
+161898004||falls
+161898004||falls finding
+21779011000036103||cortisone
+419581008||bizarre dreams
+419581008||bizarre dreams finding
+81308009||encephalopathy
+81308009||disorder of brain
+81308009||disorder of brain disorder
+103298005||severe vertigo
+103298005||severe vertigo finding
+21719011000036107||aspirin
+247761005||limited concentration
+247761005||reduced concentration
+247761005||reduced concentration finding
+23520002||decreased venous pressure
+23520002||decreased venous pressure finding
+23919004||labyrinthitis
+23919004||labyrinthitis disorder
+371405004||eye disorder
+371405004||disorder of eye
+371405004||disorder of globe
+371405004||disease of eyeball
+371405004||disorder of eyeball
+371405004||disorder of eye proper
+371405004||disorder of eye proper disorder
+14351000168102||seroquel
+299322007||swelling of knee joint
+299322007||swelling of knee joint finding
+78860006||heavy feeling in eyelids
+78860006||heavy feeling in eyelids finding
+21252011000036100||morphine
+248422003||warm hands
+248422003||warm hands finding
+177241000036105||paracetamol ibuprofen
+83156004||hyposmia
+83156004||reduced sense of smell
+83156004||sense of smell impaired
+83156004||diminished sense of smell
+83156004||sense of smell impaired finding
+83156004||defect or impairment of sense of smell
+83156004||difficulty in distinguishing different smells
+248234008||mentally alert
+248234008||mentally alert finding
+3066011000036105||olmetec
+45979003||gas pain abdominal
+45979003||abdominal wind pain
+45979003||abdominal wind pain finding
+425772008||tendinitis of foot
+425772008||tendonitis of foot
+425772008||tendinitis of foot disorder
+301657001||unable to get out of a chair
+301657001||unable to get out of a chair finding
+278286009||right hemiparesis
+278286009||right sided weakness
+278286009||right hemiparesis disorder
+309539008||numbness of toe
+309539008||numbness of toe finding
+74732009||mental illness
+74732009||mental disease
+74732009||mental disorder
+74732009||psychiatric illness
+74732009||psychiatric disorder
+74732009||mental health disorder
+74732009||mental disorder disorder
+55891002||difficulty focusing
+55891002||problem of visual accommodation
+55891002||problem of visual accommodation finding
+6496011000036105||celebrex 200 mg capsule hard
+309538000||numbness of foot
+309538000||numbness of foot finding
+449614009||swelling of lower limb
+449614009||swelling of lower limb finding
+249472009||always hungry
+249472009||insatiable hunger
+249472009||always hungry finding
+277890004||swollen toe
+277890004||toe swelling
+277890004||toe swelling finding
+440630006||constipation predominant irritable bowel syndrome
+440630006||irritable bowel syndrome characterised by constipation
+440630006||irritable bowel syndrome characterized by constipation
+440630006||irritable bowel syndrome characterized by constipation disorder
+415692008||bunion
+415692008||bunion of great toe
+415692008||swelling of first metatarsophalangeal joint of hallux
+415692008||swelling of first metatarsophalangeal joint of hallux disorder
+307077003||hopelessness
+307077003||feeling hopeless
+307077003||feeling of hopelessness
+307077003||feeling hopeless finding
+309838005||emotional upset
+309838005||emotional crisis
+309838005||emotionally disturbed
+309838005||disturbance in emotion
+309838005||emotional upset finding
+35209006||sensitivity
+35209006||sensitivity finding
+202855006||lateral epicondylitis
+202855006||lateral epicondylitis of elbow
+202855006||lateral epicondylitis disorder
+420038007||unhappy
+420038007||feeling sad
+420038007||feeling unhappy
+420038007||feeling unhappy finding
+443892003||neuroma
+443892003||neuroma disorder
+102938007||difficulty writing
+102938007||difficulty writing finding
+399269003||arthrosis
+399269003||arthropathy
+399269003||joint disease
+399269003||joint disorder
+399269003||disorder of joint
+399269003||arthropathy disorder
+64531003||rhinorrhea
+64531003||rhinorrhoea
+64531003||nasal catarrh
+64531003||nasal discharge
+64531003||discharge from nose
+64531003||nasal discharge disorder
+284136008||unable to move all four limbs
+284136008||unable to move all four limbs finding
+239725005||anterior cruciate ligament rupture
+239725005||tear of anterior cruciate ligament
+239725005||rupture of anterior cruciate ligament
+239725005||acl anterior cruciate ligament rupture
+239725005||rupture of anterior cruciate ligament disorder
+166584001||c reactive protein abnormal
+166584001||c reactive protein abnormal finding
+51590001||increased pressure
+51590001||increased pressure finding
+21659011000036107||gemfibrozil
+6020002||tinea pedis
+6020002||tp tinea pedis
+6020002||athlete s foot
+6020002||ringworm of foot
+6020002||tinea pedis disorder
+6020002||epidermophytosis pedis
+6020002||dermatophytosis of foot
+397541004||severe visual impairment
+397541004||severe visual impairment disorder
+283050005||graze of eye region
+283050005||abrasion of eye region
+283050005||abrasion of eye region disorder
+373932008||feels hot
+373932008||hot to touch
+373932008||feels hot finding
+131078003||low testosterone
+131078003||decreased testosterone level
+131078003||decreased testosterone level finding
+420103007||watery eye
+420103007||tearing eye
+420103007||watering eye
+420103007||watery eye finding
+161903000||unable to stand
+161903000||unable to stand finding
+75088002||urging to urinate
+75088002||urgency urination
+75088002||urinary precipitancy
+75088002||urgency to micturate
+75088002||precipitancy of urine
+75088002||urgency to pass urine
+75088002||urgency of micturition
+75088002||urgent desire to urinate
+75088002||must hurry to pass urine
+75088002||precipitancy of micturition
+75088002||urgent desire to urinate finding
+299110002||finger joint locking
+299110002||finger joint locking finding
+301717006||right upper quadrant pain
+301717006||right upper quadrant pain finding
+279084009||chest discomfort
+279084009||chest discomfort finding
+43005009||shuffling gait
+43005009||shuffling gait finding
+361122008||vision impairment level
+361122008||impairment level of vision
+361122008||impairment level of vision disorder
+37714011000036108||zinc
+314109004||feeling tired
+699376002||lip swelling
+699376002||lip swelling finding
+38181000168109||voltaren emulgel
+246975001||yellow sclera
+246975001||scleral icterus
+246975001||scleral icterus finding
+16001004||otalgia
+16001004||earache
+16001004||ear pain
+16001004||ear ache
+16001004||pain in ear
+16001004||otalgia finding
+40144003||morning stiffness joint
+40144003||morning stiffness joint finding
+111224002||derangement of meniscus
+111224002||disorder of meniscus of knee
+111224002||derangement of meniscus of knee joint
+111224002||derangement of meniscus of knee joint disorder
+161876008||gland symptom
+161876008||gland symptom finding
+191736004||anancastic neurosis
+191736004||anankastic neurosis
+191736004||obsessive compulsive neurosis
+191736004||obsessive compulsive disorder
+191736004||ocd obsessive compulsive disorder
+191736004||obsessive compulsive disorder disorder
+308921004||neurological symptom
+308921004||neurological symptom finding
+102498003||agony
+102498003||agony finding
+102498003||pangs of death
+102498003||agonising state
+102498003||agonizing state
+50415004||moderate pain
+50415004||moderate pain finding
+309249007||calf muscle weakness
+309249007||calf muscle weakness finding
+361138002||irregular heart rate
+21814011000036109||hydrochlorothiazide
+38013005||immunosuppression
+38013005||immunosuppression finding
+22193007||osteoarthrosis of hand
+22193007||osteoarthritis hand joint
+22193007||degenerative joint disease of hand
+22193007||degenerative joint disease of hand disorder
+271795006||malaise and fatigue
+271795006||malaise and fatigue finding
+45291000168107||efexor xr
+95421005||intercostal myalgia
+95421005||intercostal myalgia finding
+43498006||body fluid retention
+43498006||body fluid retention disorder
+428724006||disorder of knee joint
+428724006||arthropathy of knee joint
+428724006||arthropathy of knee joint disorder
+12063002||rectorrhagia
+12063002||proctorrhagia
+12063002||rectal bleeding
+12063002||blood per rectum
+12063002||rectal hemorrhage
+12063002||rectal haemorrhage
+12063002||rb rectal bleeding
+12063002||bleeding per rectum
+12063002||prb rectal bleeding
+12063002||pr blood per rectum
+12063002||pr bleeding per rectum
+12063002||rectal hemorrhage disorder
+48926009||rachiodynia
+48926009||pain in spine
+48926009||pain in spine finding
+289621007||womb problem
+289621007||uterus problem
+289621007||uterus problem finding
+56273005||abnormal muscle function
+56273005||abnormal muscular activity
+56273005||abnormal muscle function finding
+75183008||abnormal liver function
+75183008||abnormal hepatic function
+75183008||abnormal liver function finding
+21486011000036105||tramadol
+36630001||deep pain
+36630001||deep pain finding
+38936003||abnormal blood pressure
+38936003||abnormal blood pressure finding
+285397001||tightness in arm
+285397001||tightness in arm finding
+284252000||unable to make a fist
+284252000||unable to make a fist finding
+15336001||cold extremities
+246682000||blood clot in eye
+246682000||blood clot in eye finding
+26171000168109||lasix
+310501001||numbness of limbs
+310501001||numbness of limbs finding
+21304011000036105||naproxen
+249898006||slow on legs
+249898006||slow on legs finding
+228148009||fine motor impairment
+228148009||fine motor impairment finding
+52702003||iceland disease
+52702003||chronic fatigue syndrome
+52702003||myalgic encephalomyelitis
+52702003||cfs chronic fatigue syndrome
+52702003||me myalgic encephalomyelitis
+52702003||benign myalgic encephalomyelitis
+52702003||chronic fatigue syndrome disorder
+52702003||myalgic encephalomyelitis syndrome
+443120002||desmitis
+443120002||inflammation of ligament
+443120002||inflammation of ligament disorder
+21747011000036106||glipizide
+417237009||blister
+417237009||blister of skin and or mucosa
+417237009||blister of skin and or mucosa disorder
+445178008||burning sensation of vagina
+445178008||burning sensation of vagina finding
+249366005||nosebleed
+249366005||nasal hemorrhage
+249366005||nasal haemorrhage
+249366005||bleeding from nose
+249366005||bleeding from nose finding
+249366005||finding of bleeding of nose
+249366005||observation of bleeding of nose
+162020001||difficulty chewing
+162020001||masticatory dysfunction
+162020001||difficulty chewing finding
+55260003||calcaneal spur
+55260003||calcaneal spur finding
+21286011000036106||paracetamol codeine
+247464001||blistering rash
+21605011000036100||methylprednisolone
+288225004||myalgia myositis multiple
+288225004||myalgia myositis multiple finding
+56925008||sexual dysfunction
+56925008||abnormal sexual function
+56925008||abnormal sexual function finding
+134407002||chronic back pain
+134407002||chronic back pain finding
+2531000168109||andrews tums antacid
+102491009||immobile
+102491009||immobile finding
+95570007||nephrolith
+95570007||renal stone
+95570007||kidney stone
+95570007||renal calculus
+95570007||nephrolithiasis
+95570007||kidney calculus
+95570007||calculus of kidney
+95570007||kidney stone disorder
+240015000||contracture of tendon of ankle region
+240015000||contracture of tendon of ankle region disorder
+85898001||myocardiopathy
+85898001||cardiomyopathy
+85898001||cardiomyopathy disorder
+193031009||cluster headache
+193031009||horton s headache
+193031009||neuralgic migraine
+193031009||horton s neuralgia
+193031009||histamine headache
+193031009||vasomotor headache
+193031009||histamine cephalgia
+193031009||migrainous neuralgia
+193031009||cluster headache syndrome
+193031009||cluster headache syndrome disorder
+21465011000036101||lisinopril
+37567005||acenesthesia
+37567005||acenaesthesia
+37567005||acenesthesia finding
+37567005||loss of sense of well being
+267073005||suicidal
+267073005||suicidal finding
+70323002||tired eyes
+70323002||eye strain
+70323002||asthenopia
+70323002||simple eye strain
+70323002||eye strain finding
+70323002||accommodative strain
+271873000||senility
+271873000||senility finding
+288332005||unable to lift
+288332005||unable to lift finding
+286755001||impatient character
+286755001||impatient character finding
+249477003||increased thirst
+249477003||increased thirst finding
+52754008||epimenorrhea
+52754008||epimenorrhoea
+52754008||polymenorrhea
+52754008||polymenorrhoea
+52754008||polymenorrhea finding
+52754008||unusually frequent menses
+52754008||abnormally frequent menstruation
+202482009||wrist joint pain
+202482009||arthralgia of wrist
+202482009||wrist joint pain finding
+39423001||stammer
+39423001||stutter
+39423001||dysphemia
+39423001||stuttering
+39423001||stammering
+39423001||non fluent speech
+39423001||stuttering finding
+281794004||viral upper respiratory tract infection
+281794004||urti viral upper respiratory tract infection
+281794004||viral upper respiratory tract infection disorder
+21296011000036107||rabeprazole
+418648005||blackout
+26413003||low motivation
+26413003||motivational deficit
+26413003||low motivation finding
+426965005||canker sore
+426965005||oral aphthae
+426965005||aphthous ulcer
+426965005||aphthous stomatitis
+426965005||aphthous ulcer of mouth
+426965005||aphthous ulcer of mouth disorder
+21606011000036107||pravastatin
+31384009||polymyositis
+31384009||neuromyositis
+31384009||pm polymyositis
+31384009||polymyositis disorder
+21520011000036107||misoprostol
+299933002||vibration sensation present
+299933002||vibration sensation present finding
+67233009||fitful sleep
+67233009||broken sleep
+67233009||night waking
+67233009||keeps waking up
+67233009||middle insomnia
+67233009||interrupted sleep
+67233009||middle insomnia disorder
+67233009||difficulty staying asleep
+67233009||difficulty in sleep maintenance
+127354003||increased albumin
+127354003||increased albumin finding
+275921007||scalp itchy
+275921007||scalp itchy finding
+55222007||breast tenderness
+55222007||breast tenderness finding
+421262002||tongue swelling
+421262002||tongue swelling finding
+50829006||basic learning problem
+50829006||basic learning problem finding
+289001005||unable to feed self
+289001005||unable to feed self finding
+448589005||arthritis of hand
+448589005||inflammation of joint of hand
+448589005||inflammation of joint of hand disorder
+4230011000036107||zestril
+298941006||swelling of wrist joint
+298941006||swelling of wrist joint finding
+286387000||unable to initiate words
+286387000||unable to initiate speech
+286387000||unable to initiate words finding
+102617004||congestion of throat
+102617004||congestion of pharynx
+102617004||congestion of throat finding
+30811009||esophageal ulcer
+30811009||oesophageal ulcer
+30811009||ulcer of esophagus
+30811009||ou esophageal ulcer
+30811009||ulcer of oesophagus
+30811009||ou oesophageal ulcer
+30811009||peptic ulcer of esophagus
+30811009||peptic ulcer of oesophagus
+30811009||ulcer of esophagus disorder
+30811009||peptic ulceration of esophagus
+30811009||peptic ulceration of oesophagus
+10001005||bacterial sepsis
+10001005||bacterial septicemia
+10001005||bacterial septicaemia
+10001005||bacterial sepsis disorder
+424372002||edema of extremity
+424372002||oedema of extremity
+424372002||edema of extremity finding
+110288007||joint tender
+110288007||joint tenderness
+110288007||tenderness of joint
+110288007||tenderness of joint finding
+23388006||blind spot
+23388006||visual field scotoma
+23388006||visual field scotoma finding
+32402008||facial spasm
+32402008||facial spasm finding
+288335007||difficulty lifting
+288335007||difficulty lifting finding
+285305004||spots
+285305004||spotty
+285305004||pimples
+285305004||spots on skin
+285305004||spots on skin disorder
+186748004||parvovirus infection
+186748004||parvovirus infection disorder
+424196004||nervousness
+424196004||feeling jittery
+424196004||feeling nervous
+424196004||feeling nervous finding
+21343011000036103||atorvastatin
+238539001||hand eczema
+238539001||hand dermatitis
+238539001||dermatitis of hand
+238539001||hand eczema disorder
+1806006||rash
+1806006||exanthem
+1806006||eruption
+1806006||exanthema
+1806006||eruption morphologic abnormality
+95673003||paresthesia of arm
+95673003||paraesthesia of arm
+95673003||paresthesia of upper limb
+95673003||paraesthesia of upper limb
+95673003||paresthesia of upper extremity
+95673003||paraesthesia of upper extremity
+95673003||paresthesia of upper limb finding
+95673003||paresthesia numbness tingling of arm
+300956001||lumbar strain
+300956001||low back strain
+300956001||low back strain disorder
+118940003||neurological disorder
+118940003||nervous system disease
+118940003||disorder of nervous system
+118940003||disorder of nervous system disorder
+248256006||hyposomnia
+248256006||short of sleep
+248256006||not getting enough sleep
+248256006||insufficient sleep syndrome
+248256006||not getting enough sleep disorder
+7501002||increased lactic acid level
+7501002||increased lactic acid level finding
+281016006||incoordination
+281016006||lack of coordination
+281016006||incoordination finding
+239873007||gonarthrosis
+239873007||osteoarthritis of knee
+239873007||oa osteoarthritis of knee
+239873007||osteoarthritis of knee disorder
+239873007||degenerative joint disease of knee
+239873007||knee djd degenerative joint disease
+424131007||easy bruising
+424131007||easy bruising finding
+424131007||increased tendency to bruise
+192085004||anger reaction
+192085004||anger reaction finding
+161722004||menstrual loss increasing
+161722004||menstrual loss increasing finding
+69322001||psychosis
+69322001||psychotic disorder
+69322001||psychotic disorder disorder
+83225011000036106||maxalt
+28743005||loose cough
+28743005||moist cough
+28743005||chesty cough
+28743005||bronchial cough
+28743005||producing sputum
+28743005||productive cough
+28743005||productive cough finding
+63901009||orchialgia
+63901009||orchidalgia
+63901009||orchidodynia
+63901009||pain of testes
+63901009||pain in testis
+63901009||pain in testicle
+63901009||pain in testicle finding
+105504002||dependance on walking stick
+105504002||dependence on walking stick
+105504002||dependence on walking stick finding
+307413004||transient amnesia
+307413004||transient memory loss
+307413004||transient memory loss finding
+363406005||cancer of colon
+363406005||ca cancer of colon
+363406005||malignant tumor of colon
+363406005||malignant tumour of colon
+363406005||malignant neoplasm of colon
+363406005||malignant neoplasm of colon disorder
+271585001||cold feet
+271585001||cold feet finding
+82470000||writhing muscles
+82470000||fluttering muscles
+82470000||flickering muscles
+82470000||muscle fasciculation
+82470000||muscular fasciculation
+82470000||muscle fasciculation finding
+82470000||spontaneous contraction of muscle
+3475011000036104||plavix
+309256001||cold foot
+309256001||cold foot finding
+64779008||coagulopathy
+64779008||clotting disorder
+64779008||bleeding disorder
+64779008||bleeding tendency
+64779008||bleeding diathesis
+64779008||coagulation disorder
+64779008||disorder of hemostasis
+64779008||disorder of haemostasis
+64779008||blood clotting disorder
+64779008||blood coagulation disorder
+64779008||blood coagulation disorder disorder
+22631008||unstable when walking
+22631008||unsteady when walking
+22631008||disequilibrium when walking
+22631008||unsteady when walking finding
+279043006||pygalgia
+279043006||buttock pain
+279043006||pain in buttock
+279043006||pain in buttock finding
+32972011000036104||lyrica
+122481008||hammer toe
+122481008||hammer toe disorder
+35064005||dark feces
+35064005||dark faeces
+35064005||dark stools
+35064005||black stools
+35064005||dark stools finding
+3659011000036102||atacand
+162308004||throbbing headache
+162308004||throbbing headache finding
+95319004||skin nodule
+95319004||nodule of skin
+95319004||cutaneous nodule
+95319004||skin nodule finding
+95677002||vision disorder
+95677002||disorder of vision
+95677002||disorder of vision disorder
+79395009||dry hair
+79395009||dry hair finding
+23056005||sciatica
+23056005||sciatic neuralgia
+23056005||sciatica disorder
+23056005||sciatica neuralgia
+23056005||neuralgia neuritis of sciatic nerve
+37340000||motor neuron disease
+37340000||motor neurone disease
+37340000||mnd motor neurone disease
+37340000||motor neuron disease disorder
+225473001||feels everything is futile
+225473001||feels everything is futile finding
+274665008||chronic intractable pain
+274665008||chronic intractable pain finding
+271599002||contentedness
+271599002||feeling content
+271599002||feeling content finding
+21290011000036100|21290011000036109||testosterone
+236071009||chronic diarrhea
+236071009||chronic diarrhoea
+236071009||chronic diarrhea disorder
+21662011000036107||metoprolol
+282966001||unable to sit
+282966001||unable to sit finding
+443694000||type 2 diabetes mellitus uncontrolled
+443694000||type ii diabetes mellitus uncontrolled
+443694000||type ii diabetes mellitus poorly controlled
+443694000||type ii diabetes mellitus uncontrolled finding
+314642004||intermittent pain
+314642004||intermittent pain finding
+398114001||cutis elastica
+398114001||danlos disease
+398114001||india rubber skin
+398114001||cutis hyperelastica
+398114001||ehlers danlos syndrome
+398114001||hereditary collagen dysplasia
+398114001||ehlers danlos syndrome disorder
+398114001||meekeren ehlers danlos syndrome
+398114001||dystrophia mesodermalis congenita
+398114001||cutis hyperelastica dermatorrhexis
+398114001||fibrodysplasia elastica generalisata
+398114001||dermatorrhexis with dermatochalasis and arthrochalasis
+37703011000036109||dextropropoxyphene paracetamol
+286369003||unable to speak
+286369003||unable to speak finding
+48661000||peritonitis
+48661000||peritonitis disorder
+183202003||shin splint
+183202003||shin splint physical object
+301660008||difficulty getting out of a chair
+301660008||difficulty getting out of a chair finding
+67251005||increased liver function
+67251005||increased hepatic function
+67251005||increased liver function finding
+248268002||easily tired
+248268002||rapidly tired
+248268002||tires quickly
+248268002||tires quickly finding
+13746004||bipolar disorder
+13746004||manic depressive illness
+13746004||bipolar disorder disorder
+13746004||manic depressive psychosis
+13746004||bipolar affective disorder
+13746004||mdi manic depressive illness
+225005002||unable to control anger
+225005002||unable to control anger finding
+426120002||pain provoked by rest
+426120002||pain provoked by rest finding
+59781000168101||epipen auto injector
+41931001||abdominal distension
+307496006||diverticulitis
+307496006||diverticulitis disorder
+449618007||swelling of upper limb
+449618007||swelling of upper limb finding
+298241001||foot joint stiff
+298241001||foot joint stiff finding
+267038008||edema
+267038008||oedema
+267038008||edema finding
+267038008||interstitial edema
+267038008||interstitial oedema
+54150009||upper respiratory infection
+54150009||uri upper respiratory infection
+54150009||upper respiratory tract infection
+54150009||upper respiratory infection disorder
+54150009||urti infection of the upper respiratory tract
+239965002||tendonitis and or tenosynovitis of the elbow region
+77981007||decreased liver function
+77981007||decreased hepatic function
+77981007||decreased liver function finding
+24982008||diplopia
+24982008||double vision
+24982008||seeing double
+24982008||diplopia disorder
+444003007||disorder of joint of shoulder region
+444003007||disorder of joint of shoulder region disorder
+287045000||pain in left arm
+287045000||pain in left upper limb
+287045000||pain in left arm finding
+225581002||decreased vision
+225581002||sight deteriorating
+225581002||deteriorating vision
+225581002||eyesight deteriorating
+225581002||sight deteriorating finding
+279069000||rheumatic pain
+279069000||musculoskeletal pain
+279069000||musculoskeletal pain finding
+3716002||goitre
+3716002||goiter
+3716002||thyromegaly
+3716002||struma goitre
+3716002||struma goiter
+3716002||thyroid goitre
+3716002||thyroid goiter
+3716002||goiter disorder
+3716002||struma of thyroid
+3716002||thyroid enlargement
+3716002||enlargement of thyroid
+3716002||swelling of thyroid gland
+21317011000036101||enalapril
+162315007||morbid thoughts
+162315007||morbid thoughts finding
+272022009||c o feeling depressed
+272022009||complaining of feeling depressed
+272022009||complaining of feeling depressed finding
+32970011000036103||toprol xl
+249544004||abdominal muscles tense
+249544004||abdominal muscle resistance
+249544004||abdominal muscles tense finding
+80585000||chilly person
+80585000||feels the cold
+80585000||cold sensitivity
+80585000||sensitive to cold
+80585000||intolerant of cold
+80585000||intolerant of cold finding
+21809011000036108||diclofenac misoprostol
+44564008||loss of voice
+44564008||absence of voice
+44564008||does not phonate
+44564008||does not vocalise
+44564008||does not vocalize
+44564008||loss of voice finding
+44564008||does not produce voice
+23502006||lyme disease
+23502006||lyme borreliosis
+23502006||steere s disease
+23502006||lyme disease disorder
+23502006||infection due to borrelia burgdorferi sensu lato
+332982000||uncontrollable vomiting
+332982000||uncontrollable vomiting disorder
+70270011000036104||ibuprofen 5 gel
+4106009||rotator cuff tear
+4106009||rotator cuff rupture
+4106009||rotator cuff syndrome
+4106009||rotator cuff syndrome disorder
+4106009||rupture of rotator cuff of shoulder
+66383009||gingivitis
+66383009||gingivitis disorder
+247412007||labor pain
+247412007||labour pain
+247412007||childbirth pain
+247412007||labor pain finding
+248223005||feeling faint
+248223005||feeling faint finding
+90128006||photosensitivity
+90128006||photosensitivity finding
+90128006||photosensitivity of skin
+308909003||parkinsonian tremor
+308909003||parkinsonian tremor finding
+80515008||large liver
+80515008||hepatomegaly
+80515008||large liver disorder
+54586004||lower abdominal pain
+54586004||lower abdominal pain finding
+69821011000036104||capsaicin
+73442001||stevens johnson syndrome
+73442001||stevens johnson syndrome disorder
+299042006||weakness of hand
+299042006||weakness of hand finding
+236632007||functional voiding disorder
+236632007||functional disorder of bladder
+236632007||functional disorder of bladder disorder
+85828009||autoimmune disease
+85828009||autoimmune disorder
+85828009||autoimmune disease disorder
+44169009||anosmia
+44169009||absent smell
+44169009||no sense of smell
+44169009||sense of smell lost
+44169009||sense of smell absent
+44169009||loss of sense of smell
+44169009||loss of the sense of smell
+44169009||anosmia loss of sense of smell
+44169009||loss of sense of smell finding
+11381005||acne
+11381005||common acne
+11381005||acne vulgaris
+11381005||acne vulgaris disorder
+248581005||panting
+248581005||panting respiration
+248581005||rapid shallow breathing
+248581005||rapid shallow breathing finding
+125610000||joint injury
+125610000||joint injury disorder
+4156011000036108||deseril
+2940011000036100||premarin
+102608004||constant appetite
+102608004||excessive appetite
+102608004||voracious appetite
+102608004||excessive appetite finding
+202617003||clicking interphalangeal joint of toe
+202617003||clicking interphalangeal joint of toe finding
+267728009||blind or low vision one eye only
+267728009||blind or low vision one eye only disorder
+52526003||sweating problem
+52526003||sweating problem finding
+19155002||dysfunctional uterine bleeding
+166702002||raised serum calcium level
+166702002||raised serum calcium level finding
+18156008||abdominal hyperesthesia
+18156008||abdominal hyperaesthesia
+18156008||abdominal hyperesthesia finding
+253522006||right ventricular dilatation
+253522006||right cardiac ventricular dilatation
+253522006||dilatation of right cardiac ventricle
+253522006||dilatation of right cardiac ventricle disorder
+118930001||disorder of face
+118930001||disorder of face disorder
+282198006||unable to walk down stairs
+282198006||unable to walk down stairs finding
+56018004||wheeze
+56018004||wheezy
+56018004||wheezing
+56018004||wheezing finding
+56018004||asthmatic breathing
+56018004||asthmatic breath sounds
+67015007||large intestinal dysmotility
+67015007||abnormal large bowel motility
+67015007||deranged large bowel motility
+67015007||abnormal large bowel motility finding
+31681005||tic douloureux
+31681005||trifacial neuralgia
+31681005||trigeminal neuralgia
+31681005||fothergill s neuralgia
+31681005||tn trigeminal neuralgia
+31681005||trigeminal neuralgia disorder
+3527011000036101||xanax
+131053002||decreased progesterone level
+131053002||decreased progesterone level finding
+399068003||cancer of prostate
+399068003||ca cancer of prostate
+399068003||malignant prostatic tumor
+399068003||malignant prostatic tumour
+399068003||malignant tumor of prostate
+399068003||malignant tumour of prostate
+399068003||malignant tumor of prostate disorder
+298203008||joint laxity
+298203008||joint laxity finding
+21678011000036102||meloxicam
+248493003||swollen blood vessel
+248493003||bulging blood vessel
+248493003||distended blood vessel
+248493003||distention of blood vessel
+248493003||distention of blood vessel finding
+160591008||drinks wine
+160591008||drinks wine finding
+80967001||tooth decay
+80967001||tooth caries
+80967001||dental decay
+80967001||dental cavity
+80967001||tooth decayed
+80967001||teeth decayed
+80967001||dental caries
+80967001||carious lesion
+80967001||dental caries disorder
+70346000||gingival edema
+70346000||gingival oedema
+70346000||gingival edema finding
+3481000168101||nasonex aqueous
+14669001||acute renal failure
+14669001||arf acute renal failure
+14669001||acute renal failure syndrome
+14669001||acute renal failure syndrome disorder
+300895004||anxiety attack
+300895004||anxiety attack finding
+251377007||abdominal pressure
+251377007||pabd abdominal pressure
+251377007||abdominal pressure observable entity
+44018007||cholestatic jaundice
+44018007||cholestatic jaundice syndrome
+44018007||cholestatic jaundice syndrome disorder
+31645011000036106||olive oil
+59976005||increased belching
+59976005||increased belching finding
+276294005||isolated memory skills
+276294005||isolated memory skills finding
+202609006||clicking knee
+202609006||clicking knee finding
+267078001||involuntary movement
+267078001||involuntary movement finding
+267078001||observation of involuntary movement
+304297005||decreased range of shoulder movement
+304297005||decreased range of shoulder movement finding
+40445007||heart valve incompetence
+40445007||heart valve insufficiency
+40445007||heart valve regurgitation
+40445007||heart valve regurgitation disorder
+429661002||neuroma of foot
+429661002||neuroma of foot disorder
+284977008||difficulty dressing
+284977008||difficulty dressing finding
+34789001||coccydynia
+34789001||coccyalgia
+34789001||coccygalgia
+34789001||coccyodynia
+34789001||pain in the coccyx
+34789001||pain in the coccyx finding
+363058009||degenerative disorder of muscle
+363058009||degenerative disorder of muscle disorder
+225460000||constantly crying
+225460000||unable to stop crying
+225460000||constantly crying finding
+2922011000036103||fosamax
+89419008||loss of equilibrium
+89419008||loss of equilibrium finding
+36163009||nyctalgia
+36163009||night pain
+36163009||night pain finding
+271834000||burping
+271834000||belching
+271834000||eructation
+271834000||burping finding
+571000119103||daily headache
+571000119103||daily headache disorder
+82297005||sinus congestion
+82297005||congestion of nasal sinus
+82297005||congestion of nasal sinus disorder
+39701011000036102||voltaren rapid
+249916005||wrist stiff
+249916005||stiffness of wrist
+249916005||wrist stiff finding
+194828000||angina
+194828000||stenocardia
+194828000||cardiac angina
+194828000||angina pectoris
+194828000||angina disorder
+194828000||anginal syndrome
+194828000||ap angina pectoris
+194828000||ischemic heart disease angina
+194828000||ischaemic heart disease angina
+283416005||cut of hand
+283416005||cut of hand disorder
+111516008||blurring of visual image
+111516008||blurring of visual image finding
+445197008||white discoloration of skin
+445197008||white discolouration of skin
+445197008||white discoloration of skin finding
+298240000||sacroiliac joint stiff
+298240000||sacroiliac joint stiff finding
+17369002||miscarriage
+17369002||miscarriage disorder
+17369002||spontaneous abortion
+17369002||vaginal expulsion of fetus
+17369002||vaginal expulsion of foetus
+17369002||vaginal expulsion of product of conception
+279063004||lumbar facet syndrome
+279063004||lumbar facet joint pain
+279063004||facet syndrome of lumbar spine
+279063004||lumbar facet joint pain finding
+279063004||lumbar zygapophysial joint pain
+300955002||pain in thumb
+300955002||pain in thumb finding
+128609009||intracranial aneurysm
+128609009||intracranial aneurysm disorder
+420990001||tunnel vision
+420990001||tunnel visual field constriction
+420990001||tunnel visual field constriction finding
+52072009||heat stroke
+52072009||thermoplegia
+52072009||heat apoplexy
+52072009||heat hyperpyrexia
+52072009||heat stroke disorder
+274135002||arthritis arthrosis
+274135002||arthritis arthrosis disorder
+49563000||edema around eye
+49563000||periorbital edema
+49563000||oedema around eye
+49563000||periorbital oedema
+49563000||periorbital edema disorder
+161968007||bumping heart
+161968007||palpitations bumping
+161968007||bumping heart finding
+90834002||limb pain
+90834002||pain in limb
+90834002||pain in limb finding
+13481000168104||panadeine
+75408008||anger
+75408008||angry
+75408008||feeling angry
+75408008||feeling angry finding
+398152000||hypotonus
+398152000||hypotonia
+398152000||low muscle tone
+398152000||muscle hypotonia
+398152000||poor muscle tone
+398152000||loose muscle tone
+398152000||muscle hypotonicity
+398152000||poor muscle tone finding
+10085004||metatarsalgia
+10085004||pain in ball of foot
+10085004||metatarsalgia finding
+287046004||pain in right arm
+287046004||pain in right upper limb
+287046004||pain in right arm finding
+473008002||pain in cheek
+473008002||buccal region pain
+473008002||pain in cheek finding
+166603001||liver function tests abnormal
+166603001||liver function tests abnormal finding
+166603001||abnormal results of liver function studies
+61462000||malaria
+61462000||paludism
+61462000||plasmodiosis
+61462000||malaria disorder
+282872002||unable to stand up
+282872002||unable to stand up finding
+40739000||dysphagia
+40739000||dysphagia disorder
+40739000||can t get food down
+40739000||cannot get food down
+40739000||swallowing difficult
+40739000||difficulty in swallowing
+25458004||acute gastritis
+25458004||acute gastritis disorder
+249990003||unstable on legs
+249990003||unsteady on feet
+249990003||unstable when on feet
+249990003||unsteady when standing
+249990003||unstable when standing
+249990003||unsteady when standing finding
+248657009||pounding heart
+248657009||palpitations pounding
+248657009||pounding heart finding
+279028009||ovarian pain
+279028009||pain of ovary
+279028009||ovarian pain finding
+366979004||depressed mood
+366979004||depressed mood finding
+300888008||swelling of body region
+300888008||swelling of body region finding
+39592011000036106||cozaar
+77426011000036108||lysine
+267076002||lonely
+267076002||loneliness
+267076002||feeling lonely
+267076002||feeling lonely finding
+298870001||elbow joint swelling
+298870001||elbow joint swelling finding
+79015004||worry
+79015004||worried
+79015004||worrying
+79015004||worried finding
+79015004||anxious cognitions
+129899009||blood pressure alteration
+129899009||blood pressure alteration finding

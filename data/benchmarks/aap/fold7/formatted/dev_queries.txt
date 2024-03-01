@@ -1,0 +1,799 @@
+tendonitis||21545007||tendon pain||START tendonitis END
+leg muscle discomfort||68962001||muscle pain||START leg muscle discomfort END
+going into shock||414469009||impending shock||START going into shock END
+muscle pain||68962001||muscle pain||START muscle pain END
+depressed||35489007||depressed||START depressed END
+rotator cuff injury||307731004||injury of tendon of the rotator cuff of shoulder||START rotator cuff injury END
+stomach upset||162059005||upset stomach||START stomach upset END
+stiff neck||161882006||stiff neck||START stiff neck END
+stress||73595000||stress||START stress END
+muscle pain in my biceps||288227007||myalgia myositis upper arm||START muscle pain in my biceps END
+arthrotec||3384011000036100||arthrotec||START arthrotec END
+muscle problems||129565002||disorder of muscle||START muscle problems END
+fish oil||77436011000036106||fish oil natural||START fish oil END
+problems concentrating||26329005||poor concentration||START problems concentrating END
+headaches||25064002||headache||START headaches END
+loss of stamina||248277009||lack of stamina||START loss of stamina END
+pain in forearms||444899003||pain in forearm||START pain in forearms END
+feel all clammy||102598000||clammy skin||START feel all clammy END
+swelling feet||297142003||foot swelling||START swelling feet END
+needed to rest every few minutes||84229001||fatigue||START needed to rest every few minutes END
+muscles weak||26544005||muscle weakness||START muscles weak END
+heel pain||2733002||heel pain||START heel pain END
+left leg iliotial band syndrome||423849004||iliotibial band syndrome||START left leg iliotial band syndrome END
+loss of sex drv||8357008||low libido||START loss of sex drv END
+cramps||55300003||muscle cramps||START cramps END
+lipitor||3877011000036101||lipitor||START lipitor END
+tendonitis in my shoulders||202852009||shoulder tendonitis||START tendonitis in my shoulders END
+constipation||14760008||constipation||START constipation END
+severe muscle pain||76948002||severe pain||START severe muscle pain END
+zocor||3904011000036106||zocor||START zocor END
+pravachol||3848011000036104||pravachol||START pravachol END
+not be able to process thoughts||247640008||muddled thought||START not be able to process thoughts END
+lipitor||3877011000036101||lipitor||START lipitor END
+depression||35489007||depression||START depression END
+inflamation||128139000||inflammatory disorder||START inflamation END
+lipitor||3877011000036101||lipitor||START lipitor END
+muscle pain||68962001||muscle pain||START muscle pain END
+lipitor||3877011000036101||lipitor||START lipitor END
+sore muscles||68962001||aching muscles||START sore muscles END
+decreased libido||8357008||low libido||START decreased libido END
+bleeding problems||131148009||bleeding||START bleeding problems END
+fatigue||84229001||fatigue||START fatigue END
+hair loss||278040002||loss of hair||START hair loss END
+gained a lot of weight||8943002||weight gain||START gained a lot of weight END
+lipitor||3877011000036101||lipitor||START lipitor END
+shortness of breath||267036007||shortness of breath||START shortness of breath END
+loss of memory||48167000||loss of memory||START loss of memory END
+recall was slower||283902008||has delayed recall||START recall was slower END
+lipitor 20mg||6205011000036102||lipitor 20 mg tablet film coated||START lipitor 20mg END
+always exhausted||60119000||exhaustion||START always exhausted END
+feet hurt||47933007||foot pain||START feet hurt END
+restless leg syndrome||32914008||restless legs syndrome||START restless leg syndrome END
+headache||25064002||headache||START headache END
+dioreah||62315008||diarrhea||START dioreah END
+fatigue||84229001||fatigue||START fatigue END
+foggy||419723007||mentally dull||START foggy END
+lipitor||3877011000036101||lipitor||START lipitor END
+dizzy||404640003||dizziness||START dizzy END
+lipitor||3877011000036101||lipitor||START lipitor END
+felt like i was coming down with flu||95891005||flu like illness||START felt like i was coming down with flu END
+lipitor||3877011000036101||lipitor||START lipitor END
+aleve||53458011000036102||aleve||START aleve END
+constant twitching||249966004||twitching||START constant twitching END
+difficulty swallowing||288939007||difficulty swallowing||START difficulty swallowing END
+gastro problem||162076009||excessive upper gastrointestinal gas||START gastro problem END
+very poor appetite||64379006||poor appetite||START very poor appetite END
+coq10||77424011000036100||ubidecarenone||START coq10 END
+liver disease||235856003||liver disease||START liver disease END
+cramps||55300003||muscle cramps||START cramps END
+lipitor||3877011000036101||lipitor||START lipitor END
+cataract||193570009||cataract||START cataract END
+severe chest pain||76948002||severe pain||START severe chest pain END
+anemia||271737000||anemia||START anemia END
+sever swelling of feet||297144002||swollen feet||START sever swelling of feet END
+pain in knees||30989003||knee pain||START pain in knees END
+arthotec||3384011000036100||arthrotec||START arthotec END
+muscle twitching||60238002||muscle twitch||START muscle twitching END
+back pain||161891005||back pain||START back pain END
+pseudoephedrine||21540011000036109||pseudoephedrine||START pseudoephedrine END
+can not sleep||301345002||poor sleep||START can not sleep END
+muscle pain||68962001||muscle pain||START muscle pain END
+muscle pains||68962001||muscle pain||START muscle pains END
+migrane headaches||37796009||migraine||START migrane headaches END
+memory loss||48167000||memory loss||START memory loss END
+muscle fatigue||80449002||muscle fatigue||START muscle fatigue END
+diarrhea||62315008||diarrhea||START diarrhea END
+celebrex||4171011000036100||celebrex||START celebrex END
+headaches||25064002||headache||START headaches END
+mobic||3572011000036102||mobic||START mobic END
+lescol||47401000168109||lescol||START lescol END
+anorexic||79890006||anorexic||START anorexic END
+muscle cramps||55300003||muscle cramps||START muscle cramps END
+abdominal irritation||367466007||skin irritation||START abdominal irritation END
+painful||22253000||painful||START painful END
+tummy pains||271681002||sore tummy||START tummy pains END
+loss of muscel strength||26544005||muscle strength reduced||START loss of muscel strength END
+rematoid arthro||69896004||rheumatoid arthritis||START rematoid arthro END
+joint pain||57676002||joint pain||START joint pain END
+fatigue||84229001||fatigue||START fatigue END
+heavy limbs||373931001||sensation of heaviness in limbs||START heavy limbs END
+lipitor||3877011000036101||lipitor||START lipitor END
+joint pain||57676002||joint pain||START joint pain END
+lipitor||3877011000036101||lipitor||START lipitor END
+lipitor||3877011000036101||lipitor||START lipitor END
+breast pain||53430007||breast pain||START breast pain END
+rashes||271807003||skin rash||START rashes END
+codeine||21821011000036104||codeine||START codeine END
+hand feels like it s not mine||40806005||feeling of unreality||START hand feels like it s not mine END
+arthrotec||3384011000036100||arthrotec||START arthrotec END
+potassium||32643011000036106||potassium||START potassium END
+swollen feet||297142003||swollen foot||START swollen feet END
+gas||162076009||excessive upper gastrointestinal gas||START gas END
+deeper muscle twitches on arms sides||60238002||muscle twitch||START deeper muscle twitches on arms sides END
+gall bladder disease||39621005||gallbladder disease||START gall bladder disease END
+weakness in leg muscles||309774006||weakness of limb||START weakness in leg muscles END
+joint pain||57676002||joint pain||START joint pain END
+clonidine||21589011000036108||clonidine||START clonidine END
+bottoms of feet hurt||47933007||foot pain||START bottoms of feet hurt END
+insomnia||193462001||insomnia||START insomnia END
+movement is restricted and it is impossible to make a fist||70733008||joint movement restricted||START movement is restricted and it is impossible to make a fist END
+stumbeling||250991000119100||stumbling gait||START stumbeling END
+breast pain||53430007||breast pain||START breast pain END
+difficulty with speech||29164008||speech abnormality||START difficulty with speech END
+lipitor||3877011000036101||lipitor||START lipitor END
+feeling horrible like a severe flu just hit me||213257006||general feeling of illness||START feeling horrible like a severe flu just hit me END
+constipated||14760008||constipated||START constipated END
+heavy extra vaginal bleeding||315224006||heavy episode of vaginal bleeding||START heavy extra vaginal bleeding END
+vertigo||399153001||vertigo||START vertigo END
+some sort of g i problems||300439004||gastrointestinal tract problem||START some sort of g i  problems END
+lipitor||3877011000036101||lipitor||START lipitor END
+lipitor||3877011000036101||lipitor||START lipitor END
+constant aching pain||22253000||pain||START constant aching pain END
+good cholesterol is whacked lowered||124055002||decreased cholesterol esters||START good cholesterol is whacked  lowered END
+lack of concentration||60032008||concentration impairment||START lack of concentration END
+lipitor||3877011000036101||lipitor||START lipitor END
+heartburn||16331000||heartburn||START heartburn END
+muscle pain||68962001||muscle pain||START muscle pain END
+lipitor||3877011000036101||lipitor||START lipitor END
+extreme uterine cramping||29542008||uterine spasm||START extreme uterine cramping END
+extreme pain in my should and arm||76948002||severe pain||START extreme pain in my should and arm END
+lipitor||3877011000036101||lipitor||START lipitor END
+sweating||415690000||sweating||START sweating END
+crestor||4031011000036106||crestor||START crestor END
+voltaren||28551000168108||voltaren||START voltaren END
+coq10||77424011000036100||ubidecarenone||START coq10 END
+co q 10||77424011000036100||ubidecarenone||START co q 10 END
+lipitor||3877011000036101||lipitor||START lipitor END
+als||86044005||als amyotrophic lateral sclerosis||START als END
+stuffy nose||68235000||stuffed up nose||START stuffy nose END
+fatigue||84229001||fatigue||START fatigue END
+lipitor||3877011000036101||lipitor||START lipitor END
+arthritis||3723001||arthritis||START arthritis END
+discomfort in right side upper and lower of stomach area||271681002||stomach discomfort||START discomfort in right side upper and lower of stomach area END
+diarrhea||62315008||diarrhea||START diarrhea END
+hair loss||278040002||loss of hair||START hair loss END
+could not walk without falling||228158008||impaired walking||START could not walk without falling END
+bad balance||249985001||bad balance||START bad balance END
+general malaise||162076009||excessive upper gastrointestinal gas||START general malaise END
+pale yellow complexion||398979000||pale complexion||START pale yellow complexion END
+tired all the time||267032009||tired all the time||START tired all the time END
+brain vague||248236005||mentally vague||START brain vague END
+severe arthritis symptoms in knees||371081002||arthritis of knee||START severe arthritis symptoms in knees END
+numbness in ankles and toes||309537005||numbness of lower limb||START numbness in ankles and toes END
+paranoia||48500005||delusional disorder||START paranoia END
+muscles are like boards they re so tight||250069006||muscle tension||START muscles are like boards they re so tight END
+leg muscle pain||68962001||muscle pain||START leg muscle pain END
+pain||22253000||pain||START pain END
+ankles and the soles of my feet feels like i was walking on hot coals||36031001||burning feet||START ankles and the soles of my feet feels like i was walking on hot coals END
+aching joints||57676002||joint pain||START aching joints END
+lipitor||3877011000036101||lipitor||START lipitor END
+toe neuropathy||302226006||peripheral neuropathy||START toe neuropathy END
+muscle cramps||55300003||muscle cramps||START muscle cramps END
+shortness of breath||267036007||shortness of breath||START shortness of breath END
+sleeplessness||193462001||sleeplessness||START sleeplessness END
+shin pain||10601006||pain in lower limb||START shin pain END
+panic attacks||225624000||panic attack||START panic attacks END
+severe cramping||55300003||cramp||START severe cramping END
+itching||418290006||itching||START itching END
+dehydration||34095006||dehydration||START dehydration END
+can hardly walk||228158008||impaired walking||START can hardly walk END
+slurred speech||289195008||slurred speech||START slurred speech END
+achiness||22253000||pain||START achiness END
+hair loss||278040002||loss of hair||START hair loss END
+lipitor||3877011000036101||lipitor||START lipitor END
+liptor||3877011000036101||lipitor||START liptor END
+severe shoulder pain||76948002||severe pain||START severe shoulder pain END
+cholestorol which had jumped from 175 to 220||166830008||serum cholesterol raised||START cholestorol which had jumped from 175 to 220 END
+coq10||77424011000036100||ubidecarenone||START coq10 END
+fatigue||84229001||fatigue||START fatigue END
+joint pain||57676002||joint pain||START joint pain END
+fear||1402001||fear||START fear END
+hip pain||49218002||hip pain||START hip pain END
+severe headache||25064002||headache||START severe headache END
+paralysis||44695005||paralysis||START paralysis END
+dysmennorhea||266599000||dysmenorrhea||START dysmennorhea END
+lack of ability to concentrate||60032008||unable to concentrate||START lack of ability to concentrate END
+dizzines||404640003||dizziness||START dizzines END
+knuckles are so swollen||299060006||swollen finger||START knuckles are so swollen END
+anxiety||48694002||anxiety||START anxiety END
+flu||6142004||flu||START flu END
+discomfort in my legs||247347003||discomfort||START discomfort in my legs END
+lipitor||3877011000036101||lipitor||START lipitor END
+bleeding problems||131148009||bleeding||START bleeding problems END
+major cramps||55300003||muscle cramps||START major cramps END
+lipitor s||3877011000036101||lipitor||START lipitor s END
+tired||224960004||tired||START tired END
+knee pain||30989003||knee pain||START knee pain END
+loss of muscle mass in arms||88092000||muscle wasting||START loss of muscle mass in arms END
+pain||22253000||pain||START pain END
+lipitor||3877011000036101||lipitor||START lipitor END
+heaviness||161874006||heaviness sensation||START heaviness END
+soreness in thighs||78514002||thigh pain||START soreness in thighs END
+fatigue||84229001||fatigue||START fatigue END
+back pain||161891005||back pain||START back pain END
+flank pain||247355005||flank pain||START flank pain END
+lipitor||3877011000036101||lipitor||START lipitor END
+aches and pains||82991003||generalised aches and pains||START aches and pains END
+arthritis pain||57676002||articular pain||START arthritis pain END
+extreme fatigue||13791008||asthenia||START extreme fatigue END
+joint pain||57676002||joint pain||START joint pain END
+severe legs problems||128605003||disorder of extremity||START severe legs problems END
+painful inflamation of joints||57676002||painful joint||START painful inflamation of joints END
+lipitor||3877011000036101||lipitor||START lipitor END
+tingling sensation in the back of my neck||62507009||tingling||START tingling sensation in the back of my neck END
+joint soreness||57676002||joint pain||START joint soreness END
+lipitor||3877011000036101||lipitor||START lipitor END
+weakness||13791008||weakness||START weakness END
+lipitor||3877011000036101||lipitor||START lipitor END
+pain||22253000||pain||START pain END
+ms||24700007||ms multiple sclerosis||START ms END
+crestor||4031011000036106||crestor||START crestor END
+leg cramps||449917004||cramp in lower limb||START leg cramps END
+lack of sexual desire||248096004||lack of libido||START lack of sexual desire END
+lipitor||3877011000036101||lipitor||START lipitor END
+sick||39104002||sickness||START sick END
+bowel uterine cramping||9991008||abdominal colic finding||START bowel uterine cramping END
+elevated white blood cell count very high||165509000||white blood cell count abnormal||START elevated white blood cell count  very high  END
+falls||161898004||falls||START falls END
+peripheral neuropathy in arms||302226006||peripheral neuropathy||START peripheral neuropathy in arms END
+lots of pain in the muscles||68962001||muscle pain||START lots of pain in the muscles END
+lipitor||3877011000036101||lipitor||START lipitor END
+muscular pains||68962001||muscle pain||START muscular pains END
+bleeding||131148009||bleeding||START bleeding END
+muscle spasm||55300003||muscle cramp||START muscle spasm END
+irregullar heartbeat||361137007||irregular heart beat||START irregullar heartbeat END
+aspirin||21719011000036107||aspirin||START aspirin END
+lipitor||3877011000036101||lipitor||START lipitor END
+severe acid reflux||698065002||acid reflux||START severe acid reflux END
+soreness in upper back||279038004||thoracic back pain||START soreness in upper back END
+vaginal bleeding||289530006||vaginal bleeding||START vaginal bleeding END
+olmetec olmesartan||3066011000036105||olmetec||START olmetec olmesartan  END
+arthritis||3723001||arthritis||START arthritis END
+tore a calf muscle||262966007||torn muscle||START tore a calf muscle END
+demerol||34839011000036106||pethidine||START demerol END
+leg pain||10601006||pain in lower limb||START leg pain END
+migranes||37796009||migraine||START migranes END
+numbness in left toe||309539008||numbness of toe||START numbness in left toe END
+pain in chest||29857009||chest pain||START pain in chest END
+pravachol||3848011000036104||pravachol||START pravachol END
+numbness||44077006||numbness||START numbness END
+signs of osteoarthritis||396275006||osteoarthritis||START signs of osteoarthritis END
+chest pain||29857009||chest pain||START chest pain END
+muscle pain||68962001||muscle pain||START muscle pain END
+pain in leg||10601006||pain in lower limb||START pain in leg END
+blurred vision||246636008||blurred vision hazy||START blurred vision END
+muscle aches||68962001||muscle ache||START muscle aches END
+no energy||248274002||lack of energy||START no energy END
+ache||22253000||pain||START ache END
+lipitor||3877011000036101||lipitor||START lipitor END
+coronary problems||56265001||morbus cordis||START coronary problems END
+flu like symtoms||95891005||flu like symptoms||START flu like symtoms END
+vaginal bleeding||289530006||vaginal bleeding||START vaginal bleeding END
+weight gain||8943002||weight gain||START weight gain END
+lipitor||3877011000036101||lipitor||START lipitor END
+trouble swallowing||288939007||difficulty swallowing||START trouble swallowing END
+pain||22253000||pain||START pain END
+lipitor||3877011000036101||lipitor||START lipitor END
+extreme moodiness||286641001||moody||START extreme moodiness END
+tight throat||247323005||tightness in throat||START tight throat END
+blury vision||246636008||blurred vision hazy||START blury vision END
+lipitor||3877011000036101||lipitor||START lipitor END
+vertigo||399153001||vertigo||START vertigo END
+stomach problems||300306001||stomach problem||START stomach problems END
+fatigue||84229001||fatigue||START fatigue END
+cholestrol went up dramatically||166830008||serum cholesterol raised||START cholestrol went up dramatically END
+hematuria||34436003||hematuria||START hematuria END
+muscle pain||68962001||muscle pain||START muscle pain END
+extreme pain in back||76948002||severe pain||START extreme pain in back END
+bottom of my foot is extremely tender||47933007||foot pain||START bottom of my foot is extremely tender END
+lipitor||3877011000036101||lipitor||START lipitor END
+muscles had become weak and stressed||26544005||muscle weakness||START muscles had become weak and stressed END
+leg cramps||449917004||cramp in lower limb||START leg cramps END
+dehydration||34095006||dehydration||START dehydration END
+right upper quadrant abdominal pain||301717006||right upper quadrant pain||START right upper quadrant abdominal pain END
+urinery tract infection||68566005||urinary tract infection||START urinery tract infection END
+insomnia||193462001||insomnia||START insomnia END
+severe leg cramps||449917004||cramp in lower limb||START severe leg cramps END
+severe pain in both calfs||76948002||severe pain||START severe pain in both calfs END
+lipitor||3877011000036101||lipitor||START lipitor END
+lipitor||3877011000036101||lipitor||START lipitor END
+coronary disease||56265001||heart disease||START coronary disease END
+extreme ache in left leg||287047008||pain in left leg||START extreme ache in left leg END
+lipitor||3877011000036101||lipitor||START lipitor END
+back pain||161891005||back pain||START back pain END
+muscle pain||68962001||muscle pain||START muscle pain END
+muscle strain||48532005||muscle strain||START muscle strain END
+menopause||289903006||menopause||START menopause END
+agitation||24199005||agitation||START agitation END
+hurt to stand||425423002||pain provoked by movement||START hurt to stand END
+legs are killing me||10601006||pain in lower limb finding||START legs are killing me END
+back pain||161891005||back pain||START back pain END
+general stomach upset feeling||162076009||excessive upper gastrointestinal gas finding||START general stomach upset feeling END
+loss of appetite||79890006||loss of appetite||START loss of appetite END
+hot heated flushing sensation that began mid torso and continued up to the top of head top of scalp started tingling and burning||238810007||flushing||START hot heated flushing sensation that began mid torso and continued up to the top of head  top of scalp started tingling and burning  END
+shoulder pain||45326000||shoulder pain||START shoulder pain END
+ribs hurt||297217002||rib pain||START ribs hurt END
+lipitor||3877011000036101||lipitor||START lipitor END
+feel weak and almost fainted||271795006||malaise and fatigue||START feel weak and almost fainted END
+pain in every muscle||22253000||pain||START pain in every muscle END
+cramping events in my legs||449917004||cramp in lower limb finding||START cramping events in my legs END
+pain||22253000||pain||START pain END
+severe uterine cramping||29542008||uterine spasm||START severe uterine cramping END
+tingling hands||62507009||tingling||START tingling hands END
+nightmares||419145002||nightmares||START nightmares END
+could not lose weight even exercising and eating healthy food||83421005||failure to lose weight finding||START could not lose weight even exercising and eating healthy food END
+strength decrease dramatically||26544005||decreased muscle strength||START strength decrease dramatically END
+tightness in my throat||247323005||tightness in throat||START tightness in my throat END
+failed knee joits||428724006||disorder of knee joint||START failed knee joits END
+face had swollen up||278528006||swollen face||START face had swollen up END
+vitamins a||37787011000036104||vitamin a||START vitamins a END
+hip pain||49218002||hip pain||START hip pain END
+tingling in my arms||62507009||tingling||START tingling in my arms END
+gi difficulties||162076009||full of wind||START gi difficulties END
+heart attacks||22298006||heart attack||START heart attacks END
+taste loss||36955009||loss of taste||START taste loss END
+heart attack||22298006||heart attack||START heart attack END
+weird dreams||419581008||bizarre dreams||START weird dreams END
+pain||22253000||pain||START pain END
+insomnia||193462001||insomnia||START insomnia END
+headaches||25064002||headache||START headaches END
+weakness in the calves||309774006||weakness of limb||START weakness in the calves END
+tremor||26079004||tremor||START tremor END
+cymbalta||35918011000036106||cymbalta||START cymbalta END
+loss of speech||29164008||speech abnormality||START loss of speech END
+cramping||55300003||cramp||START cramping END
+muscle pain||68962001||muscle pain||START muscle pain END
+muscle spasms||55300003||muscle cramp||START muscle spasms END
+pain in hands||53057004||hand pain||START pain in hands END
+als||86044005||als amyotrophic lateral sclerosis||START als END
+pain in ankles||247373008||ankle pain||START pain in ankles END
+pain||22253000||pain||START pain END
+lipitor||3877011000036101||lipitor||START lipitor END
+shoulder pain||45326000||shoulder pain||START shoulder pain END
+avandia||3736011000036100||avandia||START avandia END
+breathlessness||267036007||breathlessness||START breathlessness END
+felt rotton all day long||213257006||generally unwell finding||START felt rotton all day long END
+weak wobbley ankles||309774006||weakness of limb||START weak & wobbley ankles END
+tingly hands||62507009||tingling||START tingly hands END
+sickness||39104002||sickness||START sickness END
+pain in shoulder joint||267949000||shoulder joint pain||START pain in shoulder joint END
+lipitor||3877011000036101||lipitor||START lipitor END
+charley horse in my side||54981004||charleyhorse||START charley horse in my side END
+very intense muscle pain with burning from the middle of my back and around my ribs to the center of my chest||288225004||myalgia myositis multiple finding||START very intense muscle pain with burning from the middle of my back and around my ribs to the center of my chest END
+zocor||3904011000036106||zocor||START zocor END
+shoulder pain||45326000||shoulder pain||START shoulder pain END
+bad headache||25064002||headache||START bad headache END
+lipitor||3877011000036101||lipitor||START lipitor END
+pain||22253000||pain||START pain END
+voltaren||28551000168108||voltaren||START voltaren END
+liver enzymes elevated||166643006||liver enzymes abnormal||START liver enzymes elevated END
+increased blood pressure||24184005||finding of increased blood pressure||START increased blood pressure END
+cramping||55300003||cramp||START cramping END
+tired or burning muscles||80449002||muscles tire easily||START tired or burning muscles END
+significan heart muscle weakness||85898001||myocardiopathy||START significan heart muscle weakness END
+can barely walk||228158008||impaired walking||START can barely walk END
+ached all over especially in legs||82991003||generalised body aches||START ached all over  especially in legs END
+lipitor||3877011000036101||lipitor||START lipitor END
+dificultly in walking||228158008||walking disability||START dificultly in walking END
+cramps||55300003||muscle cramps||START cramps END
+other foot problems||118932009||disorder of foot||START other foot problems END
+leg pain||10601006||pain in lower limb||START leg pain END
+itchy hands||418290006||itchy||START itchy hands END
+fatigue||84229001||fatigue||START fatigue END
+aches and pains||82991003||generalised aches and pains||START aches and pains END
+muscle pain||68962001||muscle pain||START muscle pain END
+in a fog||419723007||mentally dull||START in a fog END
+crestor||4031011000036106||crestor||START crestor END
+pain||22253000||pain||START pain END
+numbness in both legs||309537005||numbness of lower limb||START numbness in both legs END
+developed sore legs||10601006||pain in lower limb||START developed sore legs END
+dizziness||404640003||dizziness||START dizziness END
+muscle pain||68962001||muscle pain||START muscle pain END
+muscle pain||68962001||muscle pain||START muscle pain END
+c q10||77424011000036100||ubidecarenone||START c q10 END
+could hardly walk||228158008||impaired walking||START could hardly walk END
+memory loss||48167000||memory loss||START memory loss END
+constant back pain||161891005||back pain||START constant back pain END
+vision impaired||397540003||impaired vision||START vision impaired END
+elevated liver enzymes||166643006||liver enzymes abnormal||START elevated liver enzymes END
+sore and stiff ankles||247373008||ankle pain||START sore and stiff ankles END
+pain in neck||81680005||neck pain finding||START pain in neck END
+not being able to walk||282145008||unable to walk||START not being able to walk END
+vitamin c||77435011000036104||ascorbic acid||START vitamin c END
+live damage||235856003||liver disease||START live damage END
+voltaren||28551000168108||voltaren||START voltaren END
+stiff neck||161882006||stiff neck||START stiff neck END
+hyperactive||44548000||hyperactive behavior||START hyperactive END
+loss of balance||282299006||loss of balance||START loss of balance END
+hip pains||49218002||hip pain||START hip pains END
+lipitor||3877011000036101||lipitor||START lipitor END
+misoprostol||21520011000036107||misoprostol||START misoprostol END
+fingers hurt||18876004||finger pain||START fingers hurt END
+menstrual cramps||431416001||menstrual cramp||START menstrual cramps END
+dizziness||404640003||dizziness||START dizziness END
+pain in knee||30989003||knee pain||START pain in knee END
+intolerable itching||418290006||itching||START intolerable itching END
+omega iii||931804011000036107||omega 3 acid ethyl esters 90||START omega iii END
+falls||161898004||falls||START falls END
+lack of enthusiasm||277521002||loss of motivation||START lack of enthusiasm END
+pain in arm||102556003||pain in upper limb||START pain in arm END
+neuropathy||386033004||neuropathy||START neuropathy END
+zestril||4230011000036107||zestril||START zestril END
+general malaise||162076009||excessive upper gastrointestinal gas||START general malaise END
+shoulder pain||45326000||shoulder pain||START shoulder pain END
+sore throat||162397003||sore throat||START sore throat END
+severe stomach upset||162059005||upset stomach||START severe stomach upset END
+body aches||82991003||generalised body aches||START body aches END
+lipitor||3877011000036101||lipitor||START lipitor END
+q10||77424011000036100||ubidecarenone||START q10 END
+lipitor||3877011000036101||lipitor||START lipitor END
+irritable||55929007||feeling irritable||START irritable END
+dizziness fainting spells||404640003||dizziness||START dizziness  fainting spells  END
+slightly dizzy virtually all the time||404640003||dizziness||START slightly dizzy virtually all the time END
+extreme tiredness||84229001||weariness||START extreme tiredness END
+lipitor 40 mg||6206011000036109||lipitor 40 mg tablet film coated||START lipitor 40 mg END
+bad cramps||45352006||spasm||START bad cramps END
+rashes||271807003||skin rash||START rashes END
+muscle problems||129565002||disorder of muscle||START muscle problems END
+hurt to bend my knee||299377003||knee joint painful on movement||START hurt to bend my knee END
+sore legs||10601006||pain in lower limb||START sore legs END
+hemorrhoids||70153002||hemorrhoids||START hemorrhoids END
+lipitor||3877011000036101||lipitor||START lipitor END
+voltaren||28551000168108||voltaren||START voltaren END
+extra pains||22253000||pain||START extra pains END
+neurophathy||386033004||neuropathy||START neurophathy END
+felt lazy||26413003||low motivation||START felt lazy END
+tylonol||3080011000036109||tylenol||START tylonol END
+lipitor||3877011000036101||lipitor||START lipitor END
+jittery||424196004||feeling jittery||START jittery END
+memory loss||48167000||memory loss||START memory loss END
+slight nausea||422587007||nausea||START slight nausea END
+bad dreams||85418005||abnormal dreams||START bad dreams END
+liptitor||3877011000036101||lipitor||START liptitor END
+lipitor||3877011000036101||lipitor||START lipitor END
+depression||35489007||depression||START depression END
+hair was falling off||278040002||falling hair||START hair was falling off END
+inflammation||128139000||inflammatory disorder||START inflammation END
+lack of motivation||277521002||loss of motivation||START lack of motivation END
+upset stomach||162059005||upset stomach||START upset stomach END
+pain||22253000||pain||START pain END
+neck and shoulders ache||81680005||neck ache||START neck and shoulders ache END
+arthritis||3723001||arthritis||START arthritis END
+erithema||247441003||erythema||START erithema END
+severe pain in the muscles in the shoulder area||76948002||severe pain||START severe pain in the muscles in the shoulder area END
+arthrotec 75||3384011000036100||arthrotec||START arthrotec 75 END
+coq 10||77424011000036100||ubidecarenone||START coq 10 END
+gout||90560007||gout||START gout END
+fatigue||84229001||fatigue||START fatigue END
+lack of concentration||60032008||concentration impairment||START lack of concentration END
+severe cramps||55300003||muscle cramps||START severe cramps END
+zocor||3904011000036106||zocor||START zocor END
+leg cramps||449917004||cramp in lower limb||START leg cramps END
+plavix||3475011000036104||plavix||START plavix END
+lipitor||3877011000036101||lipitor||START lipitor END
+joint pain||57676002||joint pain||START joint pain END
+muscle weakness||26544005||muscle weakness||START muscle weakness END
+fatigue||84229001||fatigue||START fatigue END
+lipitor||3877011000036101||lipitor||START lipitor END
+osteoarthritis||396275006||osteoarthritis||START osteoarthritis END
+misoprostol||21520011000036107||misoprostol||START misoprostol END
+blood began showing up in my urine||34436003||blood in urine||START blood began showing up in my urine END
+memory loss||48167000||memory loss||START memory loss END
+poor concentration||26329005||poor concentration||START poor concentration END
+advil||53215011000036102||advil||START advil END
+peripheral neuropathy in my hands||302226006||peripheral neuropathy||START peripheral neuropathy in my hands END
+lipitor||3877011000036101||lipitor||START lipitor END
+fuzzy headed||247640008||muddled thought||START fuzzy headed END
+mnd||37340000||mnd motor neurone disease||START mnd END
+gas||162076009||excessive upper gastrointestinal gas||START gas END
+sleep loss||301345002||poor sleep||START sleep loss END
+lupus pain||200936003||lupus||START lupus pain END
+lipitor||3877011000036101||lipitor||START lipitor END
+burning feet||36031001||burning feet||START burning feet END
+pain||22253000||pain||START pain END
+testosterone||21290011000036100||testosterone||START testosterone END
+muscle aching||68962001||aching muscles||START muscle aching END
+coq10||77424011000036100||ubidecarenone||START coq10 END
+dry skin||16386004||dry skin||START dry skin END
+severe back pain||76948002||severe pain||START severe back pain END
+spike in my blood sugar||166892002||random blood sugar raised||START spike in my blood sugar END
+general body stiffness||271587009||stiffness||START general body stiffness END
+dizzy||404640003||dizziness||START dizzy END
+severe muscle cramping||55300003||muscle cramp||START severe muscle cramping END
+couldn t eat or drink||288885009||unable to eat||START couldn t eat or drink END
+sore joints||57676002||joint pain||START sore joints END
+stroke||230690007||stroke||START stroke END
+type ii diabetes became uncontrolled||443694000||type ii diabetes mellitus uncontrolled||START type ii diabetes became uncontrolled END
+intermittent pain||314642004||intermittent pain||START intermittent pain END
+lipitor||3877011000036101||lipitor||START lipitor END
+lipitor||3877011000036101||lipitor||START lipitor END
+weaknesses in my legs||309774006||weakness of limb||START weaknesses in my legs END
+aching joints knees||30989003||knee joint pain||START aching joints knees END
+night sweats||42984000||night sweats||START night sweats END
+elbow pain||74323005||elbow pain||START elbow pain END
+pain in foot||47933007||foot pain||START pain in foot END
+ankle pain||247373008||ankle pain||START ankle pain END
+leg pains||10601006||pain in lower limb||START leg pains END
+blurred vision||246636008||blurred vision hazy||START blurred vision END
+stomach problems||300306001||stomach problem||START stomach problems END
+lipitor||3877011000036101||lipitor||START lipitor END
+bad gas||162076009||excessive upper gastrointestinal gas||START bad gas END
+agony||102498003||agony||START agony END
+muscle pain in shoulders||288226003||myalgia myositis shoulder||START muscle pain in shoulders END
+arthritis||3723001||arthritis||START arthritis END
+pain in my shoulder||45326000||shoulder pain||START pain in my shoulder END
+cramping||55300003||cramp||START cramping END
+muscle pain||68962001||muscle pain||START muscle pain END
+gastric problems||162076009||excessive upper gastrointestinal gas||START gastric problems END
+weight gain||8943002||weight gain||START weight gain END
+parkinson s||49049000||parkinson s disease||START parkinson s END
+edema||267038008||edema||START edema END
+belly blew up||271835004||abdominal distension gaseous||START belly blew up END
+can hardly walk||228158008||impaired walking||START can hardly walk END
+exhausted||60119000||exhaustion||START exhausted END
+face and scalp tingling||274676007||tingling of skin||START face and scalp tingling END
+lipitor||3877011000036101||lipitor||START lipitor END
+affected my memory||386807006||bad memory||START affected my memory END
+charley horses in abdomen||54981004||charleyhorse||START charley horses in abdomen END
+anxious||48694002||feeling anxious||START anxious END
+glutes muscle pain in the||288230000||myalgia myositis pelvis thigh||START glutes muscle pain in the END
+insomnia||193462001||insomnia||START insomnia END
+muscle aches||68962001||muscle ache||START muscle aches END
+difficulties to swallow||288939007||difficulty swallowing||START difficulties to swallow END
+pain||22253000||pain||START pain END
+massive diarrhea||62315008||diarrhea||START massive diarrhea END
+stiffness in legs||225609009||stiff legs||START stiffness in legs END
+knee pain||30989003||knee pain||START knee pain END
+pain has gone into my upper arm on my left side||287045000||pain in left arm||START pain has gone into my upper arm on my left side END
+lipitor||3877011000036101||lipitor||START lipitor END
+cramping||55300003||cramp||START cramping END
+rage||61372001||aggression||START rage END
+muscle knots up||55300003||muscle cramp||START muscle knots up END
+gas||162076009||excessive upper gastrointestinal gas||START gas END
+leg pain||10601006||pain in lower limb||START leg pain END
+breathing difficulties||230145002||difficulty breathing||START breathing difficulties END
+joint pain||57676002||joint pain||START joint pain END
+weakness||13791008||weakness||START weakness END
+lipitor||3877011000036101||lipitor||START lipitor END
+cramps||55300003||muscle cramps||START cramps END
+back aches||161891005||back ache||START back aches END
+lipitor||3877011000036101||lipitor||START lipitor END
+menopausal||289903006||menopause||START menopausal END
+provastatin||21606011000036107||pravastatin||START provastatin END
+lipitor||3877011000036101||lipitor||START lipitor END
+feel flu like||95891005||flu like illness||START feel flu like END
+cramping of the leg muscles||449917004||cramp in lower limb finding||START cramping of the leg muscles END
+insomnia||193462001||insomnia||START insomnia END
+rarely sleep well||301345002||poor sleep||START rarely sleep well END
+gas wind||162076009||full of wind||START gas wind END
+coq10||77424011000036100||ubidecarenone||START coq10 END
+discoloration of skin blotchy on the neck||3253007||discoloration of skin||START discoloration of skin  blotchy  on the neck END
+weak||13791008||feeling weak||START weak END
+lyme disease||23502006||lyme disease||START lyme disease END
+couldn t walk straight||228158008||impaired walking||START couldn t walk straight END
+disability||21134002||disability||START disability END
+lipitor||3877011000036101||lipitor||START lipitor END
+fish oil salmon||77436011000036106||fish oil natural||START fish oil  salmon  END
+cramping||55300003||cramp||START cramping END
+increase in level of fatigue||84229001||fatigue||START increase in level of fatigue END
+arms painful||102556003||pain of upper limb||START arms painful END
+no sex drive||8357008||low libido||START no sex drive END
+loss of sleep||130989002||sleep deprivation||START loss of sleep END
+muscle pain||68962001||muscle pain||START muscle pain END
+general fatigue||162076009||excessive upper gastrointestinal gas||START general fatigue END
+rash||271807003||skin rash||START rash END
+pain in the knees and feet||30989003||knee pain||START pain in the knees and feet END
+terrible abdominal pain||21522001||abdominal pain||START terrible abdominal pain END
+severe back pain||76948002||severe pain||START severe back pain END
+eyes get blury||246636008||mist over eyes||START eyes get blury END
+nerve damage||57182000||nerve damage||START nerve damage END
+lipitor||3877011000036101||lipitor||START lipitor END
+very bad pains in shoulders||45326000||shoulder pain||START very bad pains in shoulders END
+pain in shoulders||45326000||shoulder pain||START pain in shoulders END
+insomnia||193462001||insomnia||START insomnia END
+fatigue||84229001||fatigue||START fatigue END
+neck pain||81680005||neck pain finding||START neck pain END
+menstrual cramps without vaginal bleeding||431416001||menstrual cramp||START menstrual cramps without vaginal bleeding END
+had no energy||248274002||lack of energy||START had no energy END
+lipitor||3877011000036101||lipitor||START lipitor END
+foot ankle pain||47933007||foot pain||START foot ankle pain END
+can barely walk||228158008||impaired walking||START can barely walk END
+fibromyalgia||24693007||fibromyalgia||START fibromyalgia END
+charley horses in legs||54981004||charleyhorse||START charley horses in legs END
+backpain||161891005||back pain||START backpain END
+lipitor||3877011000036101||lipitor||START lipitor END
+auto immune diseases||85828009||autoimmune disease||START auto immune diseases END
+stomach pains||271681002||stomach ache||START stomach pains END
+tinnitus left ear||60862001||tinnitus||START tinnitus  left ear  END
+numbness in my hands||309521004||numbness of hand||START numbness in my hands END
+cramping in my hands||250082003||hand cramps||START cramping in my hands END
+acid reflux||698065002||acid reflux||START acid reflux END
+diarhea||62315008||diarrhea||START diarhea END
+leg cramps||449917004||cramp in lower limb||START leg cramps END
+neck pains||81680005||neck pain finding||START neck pains END
+lipitor||3877011000036101||lipitor||START lipitor END
+exhaustion||60119000||exhaustion||START exhaustion END
+advil||53215011000036102||advil||START advil END
+joint pain in spine||48926009||pain in spine||START joint pain in spine END
+pain in my lower leg||10601006||pain in lower limb||START pain in my lower leg END
+asthma||195967001||asthma||START asthma END
+irregular periods||80182007||irregular periods||START irregular periods END
+cambia||21288011000036105||diclofenac||START cambia END
+lipitor||3877011000036101||lipitor||START lipitor END
+charley horses in sides||54981004||charleyhorse||START charley horses in sides END
+cramps||55300003||muscle cramps||START cramps END
+severe infections||40733004||infection||START severe infections END
+lipitor||3877011000036101||lipitor||START lipitor END
+lipitor||3877011000036101||lipitor||START lipitor END
+lipitor||3877011000036101||lipitor||START lipitor END
+pain in the shoulders||45326000||shoulder pain||START pain in the shoulders END
+pain under ribs||297217002||rib pain||START pain under ribs END
+vertigo||399153001||vertigo||START vertigo END
+muscle pain calf area||288231001||myalgia myositis lower leg||START muscle pain calf area END
+loss of drive||277521002||loss of motivation||START loss of drive END
+stomache ulcers||397825006||stomach ulcer||START stomache ulcers END
+headache||25064002||headache||START headache END
+lipitor||3877011000036101||lipitor||START lipitor END
+increased menstruation||386692008||profuse menstrual flow||START increased menstruation END
+vagueness||248236005||mentally vague||START vagueness END
+lipitor||3877011000036101||lipitor||START lipitor END
+memory problems||386807006||memory problem||START memory problems END
+lipitor 40||6206011000036109||lipitor 40 mg tablet film coated||START lipitor 40 END
+kidney injury||40095003||injury of kidney||START kidney injury END
+insomnia||193462001||insomnia||START insomnia END
+joints aching||57676002||joint pain||START joints aching END
+arthrotec||3384011000036100||arthrotec||START arthrotec END
+pain from the headache||25064002||headache||START pain from the headache END
+irrecular heartbeat||361137007||irregular heart beat||START irrecular heartbeat END
+allergy||473011001||allergic condition||START allergy END
+hands have little or no grip||299042006||weakness of hand||START hands  have little or no grip END
+anxiety||48694002||anxiety||START anxiety END
+loss of strength||26544005||muscle strength reduced||START loss of strength END
+weakness in arms||309774006||weakness of limb||START weakness in arms END
+stiffness in legs||225609009||stiff legs||START stiffness in legs END
+hard to pick up feet||228158008||impaired walking||START hard to pick up feet END
+omega 3||931804011000036107||omega 3 acid ethyl esters 90||START omega 3 END
+lipitor||3877011000036101||lipitor||START lipitor END
+zetia||21930011000036101||ezetimibe||START zetia END
+severe chest pain||76948002||severe pain||START severe chest pain END
+tingling in fingers||62507009||tingling||START tingling in fingers END
+gums swelling||70346000||gingival edema finding||START gums swelling END
+breathing problems||230145002||difficulty breathing||START breathing problems END
+dizziness||404640003||dizziness||START dizziness END
+nausea||422587007||nausea||START nausea END
+aches in hands||53057004||hand pain||START aches in hands END
+lipitor||3877011000036101||lipitor||START lipitor END
+wieght gain||8943002||weight gain||START wieght gain END
+leg cramps||449917004||cramp in lower limb||START leg cramps END
+constipation||14760008||constipation||START constipation END
+very severe pains||76948002||severe pain||START very severe pains END
+predisone||21496011000036106||prednisone||START predisone END
+went down stamina||248277009||lack of stamina||START went down stamina END
+pain||22253000||pain||START pain END
+memory problem||386807006||memory problem||START memory problem END
+lipitor||3877011000036101||lipitor||START lipitor END
+bleeding several times a month menstrual cycle is completely out of whack||80182007||irregular menstrual bleeding||START bleeding several times a month menstrual cycle is completely out of whack END
+neck ache||81680005||neck ache||START neck ache END
+muscle pain||68962001||muscle pain||START muscle pain END
+weakness||13791008||weakness||START weakness END
+pain in joints||57676002||joint pain||START pain in joints END
+doesnt sleep very well at night||301345002||poor sleep||START doesnt sleep very well at night END
+diziness||404640003||dizziness||START diziness END
+feet numbing||309538000||numbness of foot finding||START feet numbing END
+constant headaches||25064002||headache||START constant headaches END
+swollen knees||248491001||swollen knee||START swollen knees END
+flatulance||267052005||flatulence wind||START flatulance END
+diabetes||73211009||diabetes mellitus||START diabetes END
+forgetfulness||55533009||forgetful||START forgetfulness END
+balance problems||387603000||problem with balance||START balance problems END
+right knee always sore||30989003||knee pain||START right knee always sore END
+nausea||422587007||nausea||START nausea END
+fever||386661006||fever||START fever END
+heart attack||22298006||heart attack||START heart attack END
+uterus contractions||29542008||spasm of uterus||START uterus contractions END
+lipitor||3877011000036101||lipitor||START lipitor END
+difficulty speaking||47004009||difficulty speaking||START difficulty speaking END
+crying all the time||225460000||constantly crying||START crying all the time END
+lipitor||3877011000036101||lipitor||START lipitor END
+fosamax 35||2922011000036103||fosamax||START fosamax 35 END
+terrible pain in shoulders||45326000||shoulder pain||START terrible pain in shoulders END
+fatigue||84229001||fatigue||START fatigue END
+depressed||35489007||depressed||START depressed END
+forgetfulness||55533009||forgetful||START forgetfulness END
+sinus congestion||82297005||sinus congestion||START sinus congestion END
+voltaren rapid||39701011000036102||voltaren rapid||START voltaren rapid END
+tired||224960004||tired||START tired END
+lipitor||3877011000036101||lipitor||START lipitor END
+nausea||422587007||nausea||START nausea END
+memory loss||48167000||memory loss||START memory loss END
+horrible fatigue||84229001||fatigue||START horrible fatigue END
+pain in the lower legs||300954003||pain in calf||START pain in the lower legs END
+in both legs pain||10601006||pain in lower limb||START in both legs pain END
+stress||73595000||stress||START stress END
+lipitor||3877011000036101||lipitor||START lipitor END
+legs ached||10601006||pain in lower limb||START legs ached END
+headaches||25064002||headache||START headaches END
+bloating||248490000||bloating symptom||START bloating END
+lipitor||3877011000036101||lipitor||START lipitor END
+chest pains||29857009||chest pain||START chest pains END
+lipitor||3877011000036101||lipitor||START lipitor END
+bad cramps||45352006||spasm||START bad cramps END
+ringing in my left ear increased||162352007||ringing in ear||START ringing in my left ear increased END
+hip and back pain||49218002||hip pain||START hip and back pain END
+lipitor||3877011000036101||lipitor||START lipitor END
+fibromyalgia||24693007||fibromyalgia||START fibromyalgia END
+lower back pain||279039007||low back pain||START lower back pain END
+no sex drive||8357008||low libido||START no sex drive END
+lipitor||3877011000036101||lipitor||START lipitor END
+heat stress||52072009||heat stroke||START heat stress END
+chronic arthritic type issues||274135002||arthritis arthrosis||START chronic arthritic type issues END
+pain in side muscles on one side of chest||95421005||intercostal myalgia||START pain in side muscles on one side of chest END
+lipitor||3877011000036101||lipitor||START lipitor END
+sun sensitivity||258155009||photosensitivity due to sun||START sun sensitivity END
+less muscle mass||88092000||muscle wasting||START less muscle mass END
+lipitor||3877011000036101||lipitor||START lipitor END
+strong tingling in one hand||309086004||paresthesia of hand finding||START strong tingling in one hand END
+swollen feet||297142003||swollen foot||START swollen feet END
+stiffness||271587009||stiffness||START stiffness END
+pain||22253000||pain||START pain END
+plantar fasciitis||202882003||plantar fasciitis||START plantar fasciitis END
+back pain||161891005||back pain||START back pain END
+severe myalgias||68962001||myalgia||START severe myalgias END
+brain fog||419723007||mentally dull||START brain fog END
+pain||22253000||pain||START pain END
+zocor||3904011000036106||zocor||START zocor END
+crabby||55929007||fussiness||START crabby END
+hand numbness||309521004||numbness of hand||START hand numbness END
+pain||22253000||pain||START pain END
+shortness of breath||267036007||shortness of breath||START shortness of breath END
+lowering of energy||248274002||lack of energy||START lowering of energy END
+nightmares||419145002||nightmares||START nightmares END
+skin was all red||444827008||erythema of skin||START skin was all red END
+pain||22253000||pain||START pain END
+feel like i got hit by a truck||102480002||generalised acute body aches||START feel like i got hit by a truck END
+joint pains||57676002||joint pain||START joint pains END
+burning sensations||90673000||burning sensation||START burning sensations END
+lipitor||3877011000036101||lipitor||START lipitor END
+drowsiness||271782001||drowsiness||START drowsiness END
+edema||267038008||edema||START edema END
+lipitor||3877011000036101||lipitor||START lipitor END
+pains in hands||53057004||hand pain||START pains in hands END
+simvastatin||21242011000036102||simvastatin||START simvastatin END
+severe abdominal pain||76948002||severe pain||START severe abdominal pain END
+charley horses in sides||54981004||charleyhorse||START charley horses in sides END
+malaria||61462000||malaria||START malaria END
+stiffness||271587009||stiffness||START stiffness END
+terrible headaches||25064002||headache||START terrible headaches END
+severe and chronic tendonitis in my elbows||239965002||tendonitis and or tenosynovitis of the elbow region||START severe and chronic tendonitis in my elbows END
+nausea||422587007||nausea||START nausea END
+no smoking||8392000||non smoker||START no smoking END
+pain||22253000||pain||START pain END
+loss of vison||63102001||visual disturbance disorder||START loss of vison END
+lipitor||3877011000036101||lipitor||START lipitor END
+pain||22253000||pain||START pain END
+lipitor||3877011000036101||lipitor||START lipitor END
+lipitor||3877011000036101||lipitor||START lipitor END
+seriously upset my stomach||162059005||upset stomach||START seriously upset my stomach END
+shoulder pain||45326000||shoulder pain||START shoulder pain END
+endo pain||30473006||pain in pelvis||START endo pain END
+gerd||162076009||full of wind||START gerd END
+balance problems when turning around or standing to walking movements||249990003||unstable when standing||START balance problems when turning around or standing to walking movements END
+feel exhausted||314109004||feeling tired||START feel exhausted END
+diabetes||73211009||diabetes mellitus||START diabetes END
+could barely walk across the room||228158008||impaired walking||START could barely walk across the room END
+heartburn||16331000||heartburn||START heartburn END
+severe muscle pain||76948002||severe pain||START severe muscle pain END
+cramping in legs||449917004||cramp in lower limb finding||START cramping in legs END
+overall weakness||13791008||weakness||START overall weakness END
+pain in legs||10601006||pain in lower limb||START pain in legs END
+gas pains in abdomen||271832001||flatulence eructation and gas pain||START gas pains in abdomen END
+vitamin c||77435011000036104||ascorbic acid||START vitamin c END
+lipitor||3877011000036101||lipitor||START lipitor END
+muscels hurts||68962001||muscle pain||START muscels hurts END
+abdominal pains||21522001||abdominal pain||START abdominal pains END
+muscle aches||68962001||muscle ache||START muscle aches END
+cramping||55300003||cramp||START cramping END
+extreme constant pain||426206001||constant pain||START extreme constant pain END
+hair falling out||278040002||falling hair||START hair falling out END
+pain||22253000||pain||START pain END

@@ -1,0 +1,4561 @@
+76376003||endometriosis of uterus
+399153001||vertigo
+3877011000036101||lipitor
+68962001||myalgia
+57676002||arthralgia
+54020011000036108||voltaren rapid 25 mg tablet sugar coated
+72405004||increased appetite
+271587009||stiffness
+162059005||upset stomach
+55300003||muscle cramp
+698065002||acid reflux
+48167000||amnesia
+300954003||pain in calf
+449917004||cramp in lower limb
+247592009||poor short term memory
+161891005||backache
+51197009||stomach cramps
+162076009||excessive upper gastrointestinal gas
+102598000||clammy skin
+13791008||asthenia
+297142003||foot swelling
+84229001||fatigue
+87486003||aphasia
+398032003||loose stool
+55533009||forgetful
+83547004||cold sweat
+301026000||loss of confidence
+35489007||depression
+49218002||hip pain
+25064002||headache
+278040002||loss of hair
+422587007||nausea
+84445001||joint stiffness
+271807003||rash
+271807003||rash
+22298006||myocardial infarction
+271737000||anaemia
+47933007||foot pain
+102556003||pain in upper limb
+95891005||influenza like illness
+418290006||itching
+74323005||pain in elbow
+22253000||pain
+46635009||type 1 diabetes mellitus
+16269008||neuralgia
+29857009||chest pain
+21522001||abdominal pain
+34839011000036106||pethidine
+197321007||steatosis of liver
+44186003||dyssomnia
+419723007||mentally dull
+3723001||arthritis
+39400004||hepatic trauma
+30989003||knee pain
+81680005||neck pain
+81680005||neck pain
+76948002||severe pain
+10601006||pain in lower limb
+246676003||hyperaemia of surface of eye
+16331000||heartburn
+278528006||facial swelling
+26544005||muscle weakness
+77422011000036109||pyridoxine
+28551000168108||voltaren
+60238002||muscle twitch
+193462001||insomnia
+248490000||bloating symptom
+162290004||dry eyes
+289530006||vaginal bleeding
+102565005||oedema of finger
+282299006||unable to balance
+386807006||memory impairment
+249918006||shoulder stiff
+62315008||diarrhoea
+3904011000036106||zocor
+302226006||peripheral neuropathy
+279039007||low back pain
+373931001||sensation of heaviness in limbs
+53430007||mastalgia
+404640003||dizziness
+239720000||tear of meniscus of knee
+427475007||pain radiating to lumbar region of back
+277521002||loss of motivation
+367391008||malaise
+209777000||rupture tendon thigh
+271681002||stomach ache
+289903006||menopause present
+3848011000036104||pravachol
+397825006||gastric ulcer
+309774006||weakness of limb
+247347003||discomfort
+21839011000036103||bisoprolol
+21930011000036101||ezetimibe
+267045008||gastrointestinal symptom
+8943002||weight gain
+77424011000036100||ubidecarenone
+166643006||liver enzymes abnormal
+21885011000036105||ibuprofen
+3563011000036102||zantac
+45326000||shoulder pain
+228158008||walking disability
+423052008||frequent night waking
+286641001||moody
+418363000||itching of skin
+73595000||stress
+4031011000036106||crestor
+102911000||thoughts of self harm
+24700007||multiple sclerosis
+82991003||generalised aches and pains
+250069006||muscle tension
+53741008||coronary arteriosclerosis
+387801000||cervical arthritis
+3934011000036103||capoten
+299060006||swelling of finger
+267031002||tiredness symptom
+77435011000036104||ascorbic acid
+75694006||pancreatitis
+101000119102||numbness and tingling sensation of skin
+26079004||tremor
+128139000||inflammatory disorder
+409589004||scab of skin
+60119000||exhaustion
+386806002||impaired cognition
+62507009||pins and needles
+249913002||knee stiff
+80449002||muscle fatigue
+426899007||pain provoked by walking
+124042003||increased lipid
+309087008||paraesthesia of foot
+248255005||cannot sleep at all
+39621005||gallbladder disorder
+17971005||sedated
+424647005||cramp in limb
+124054003||increased cholesterol esters
+248236005||mentally vague
+203095000||spasm of back muscles
+248277009||lack of stamina
+24693007||fibromyalgia
+3253007||discolouration of skin
+44077006||numbness
+419145002||nightmares
+361137007||irregular heart beat
+36349006||burning pain
+21288011000036105||diclofenac
+267052005||flatulence wind
+230145002||difficulty breathing
+48694002||anxiety
+431416001||menstrual cramp
+55929007||feeling irritable
+90673000||burning sensation
+14760008||constipation
+387603000||impairment of balance
+53215011000036102||advil
+88092000||muscle atrophy
+422400008||vomiting
+56265001||heart disease
+44054006||type 2 diabetes mellitus
+44054006||type 2 diabetes mellitus
+63102001||visual disturbance
+420038007||feeling unhappy
+240131006||rhabdomyolysis
+284136008||unable to move all four limbs
+239725005||rupture of anterior cruciate ligament
+162352007||ringing in ear
+70076002||rhinitis
+86044005||amyotrophic lateral sclerosis
+426206001||constant pain
+247323005||tightness in throat
+38181000168109||voltaren emulgel
+8357008||reduced libido
+271782001||drowsy
+419581008||bizarre dreams
+371081002||arthritis of knee
+111224002||derangement of meniscus
+50415004||moderate pain
+238810007||flushing
+21814011000036109||hydrochlorothiazide
+45979003||abdominal wind pain
+79890006||loss of appetite
+8510008||reduced mobility
+429783005||paraesthesia of lower extremity
+129565002||myopathy
+271832001||flatulence eructation and gas pain
+4740000||herpes zoster
+26171000168109||lasix
+43116000||eczema
+56608008||pain in wrist
+6142004||influenza
+445178008||burning sensation of vagina
+249366005||bleeding from nose
+310495003||mild depression
+271870002||low blood pressure reading
+247472004||hives
+267949000||shoulder joint pain
+417237009||blister
+134407002||chronic back pain
+24184005||finding of increased blood pressure
+202882003||plantar fasciitis
+87715008||aptyalism
+21433011000036107||paracetamol
+34840004||tendonitis
+248274002||lack of energy
+161882006||stiff neck
+405729008||haematochezia
+162031009||indigestion
+161898004||falls
+49049000||parkinson s disease
+166892002||random blood sugar raised
+162397003||pain in throat
+275319005||swollen legs
+267036007||dyspnoea
+285365001||pain in toe
+70153002||haemorrhoids
+246636008||blurred vision hazy
+420103007||watery eye
+224960004||tired
+238539001||hand eczema
+4171011000036100||celebrex
+95359001||mucosal numbness
+230690007||cerebrovascular accident
+83225011000036106||maxalt
+131148009||bleeding
+307413004||transient memory loss
+248132003||craving for food or drink
+249915009||hand joint stiff
+288228002||myalgia myositis forearm
+129103003||endometriosis
+225624000||panic attack
+3659011000036102||atacand
+162308004||throbbing headache
+95319004||skin nodule
+449918009||cramp in lower leg
+53057004||hand pain
+36955009||loss of taste
+3384011000036100||arthrotec
+9126005||menstrual spotting
+282966001||unable to sit
+443694000||type ii diabetes mellitus uncontrolled
+249489001||choking
+48661000||peritonitis
+13746004||bipolar disorder
+282145008||unable to walk
+84017003||bursitis
+59781000168101||epipen auto injector
+102498003||agony
+309557009||numbness of face
+249940002||shoulder girdle weakness
+32798002||parkinsonism
+271835004||abdominal distension gaseous
+54150009||upper respiratory tract infection
+287045000||pain in left arm
+282195009||difficulty walking up stairs
+301676004||unable to get off a bed
+386033004||neuropathy
+279069000||musculoskeletal pain
+200936003||lupus erythematosus
+29542008||uterine spasm
+262286000||weight increased
+310497006||severe depression
+70733008||limitation of joint movement
+34095006||dehydration
+57406009||carpal tunnel syndrome
+3545003||diastolic dysfunction
+280816001||facial palsy
+77436011000036106||fish oil natural
+202482009||wrist joint pain
+16973004||limping
+248096004||lack of libido
+57182000||nerve injury
+69791001||increased venous pressure
+39104002||illness
+250084002||cramp in calf
+214264003||lethargy
+125610000||joint injury
+48926009||pain in spine
+4156011000036108||deseril
+21290011000036109||testosterone
+102480002||generalised acute body pains
+16386004||dry skin
+399114005||adhesive capsulitis of shoulder
+288939007||difficulty swallowing
+90560007||gout
+118930001||disorder of face
+60032008||unable to concentrate
+31681005||trigeminal neuralgia
+258155009||photosensitisation due to sun
+267039000||swollen ankle
+6206011000036109||lipitor 40 mg tablet film coated
+89362005||weight loss
+931804011000036107||omega 3 acid ethyl esters 90
+448589005||arthritis of hand
+102551008||cramp in foot
+309521004||numbness of hand
+249472009||always hungry
+399122003||swallowing problem
+309538000||numbness of foot
+65124004||swelling
+40445007||heart valve regurgitation
+76742009||postmenopausal bleeding
+34436003||haematuria
+284977008||difficulty dressing
+363058009||degenerative disorder of muscle
+89419008||loss of equilibrium
+249966004||spasmodic movement
+571000119103||daily headache
+82297005||congestion of nasal sinus
+249916005||wrist stiff
+275921007||scalp itchy
+80313002||palpitations
+298753001||numbness of upper limb
+53458011000036102||aleve
+53523011000036100||diovan
+12063002||rectal haemorrhage
+300955002||pain in thumb
+420990001||tunnel vision
+21242011000036102||simvastatin
+75408008||feeling angry
+54981004||charleyhorse
+21290011000036100||testosterone
+42399005||renal failure
+301345002||difficulty sleeping
+274279008||renal pain
+432352001||increased creatine kinase level
+77461011000036109||alpha tocopherol
+298870001||elbow joint swelling
+108367008||dislocating
+21545007||tendonitis
+21545007||tendonitis
+230690007||stroke
+230690007||stroke
+166717003||cpk mildly elevated
+68962001||leg muscle discomfort
+68962001||leg muscle discomfort
+429783005||tingling in my legs
+429783005||tingling in my legs
+162221009||restless
+225013001||feel bad
+235856003||damaged my liver permanently
+235856003||damaged my liver permanently
+288230000||pain in my thighs muscle cramping
+267032009||persisten feeling of tiredness
+267032009||persisten feeling of tiredness
+62315008||diarrhea
+62315008||diarrhea
+88092000||muscle atrophy arms
+161891005||muscle pain in back
+161891005||muscle pain in back
+414469009||going into shock
+166717003||elevated cpk levels
+166717003||elevated creatine
+250084002||cramps in calves
+3848011000036104||pravichol
+415690000||sweated
+45326000||left shoulder aches
+248490000||bloated
+248490000||bloated
+55145008||stabbing pain
+402234004||eczema on feet
+2733002||right heel pain
+248491001||swelling at knee
+88092000||muscle wasting in the arms
+88092000||muscle wasting in the arms
+271681002||stomach is still sore
+82991003||pain all over my body
+82991003||pain all over my body
+404640003||dizzy
+82991003||body aches
+82991003||body aches
+15188001||deafness
+289669005||uterus pain and cramping
+271681002||pain in the pit of my stomach
+21565011000036108||vytorin
+288231001||leg muscle soreness
+3191011000036109||prinivil
+161891005||slight muscle aches in my back
+161891005||slight muscle aches in my back
+76948002||extreme muscle pain in shoulders
+68962001||sore weak muscles
+68962001||sore weak muscles
+278040002||hair falling out
+278040002||hair falling out
+307731004||injury of tendon of the rotator cuff of shoulder
+248490000||bloating
+396275006||osteoarthritis
+36031001||burning feet
+248274002||have no energy
+55300003||mussle spasm
+55300003||cramp
+55300003||cramp
+267032009||always tired
+68962001||muscle aches and pains
+68962001||muscle aches and pains
+62507009||tingling
+62507009||tingling
+76948002||imence pain in legs
+238131007||over weight
+76948002||very bad pain
+32398004||bronchitis
+55300003||night muscle cramps
+55300003||night muscle cramps
+57676002||joint pain
+57676002||joint pain
+90708001||kidney troubles
+42399005||kidney malfunction
+102943000||changed my personality from happy to a grouch
+76948002||severe intense left arm and shoulder pain
+271767006||ankle skin flaked off like dermatitis
+271767006||ankle skin flaked off like dermatitis
+288227007||muscle pain in my biceps
+277521002||lazyness i don t feel like doing anything
+277521002||lazyness i don t feel like doing anything
+22253000||hurt
+22253000||hurt
+4969004||sinus pain
+25064002||terrible headaches
+76948002||severe lower back pain
+48167000||memory loss
+48167000||memory loss
+77422011000036109||b6
+73211009||diabetes
+21417011000036105||tricor
+60119000||exhausting
+32643011000036106||potassium
+68962001||muscles in my chest started aching
+68962001||muscles in my chest started aching
+30989003||pain in my knee
+309774006||weakness in back
+418363000||skin itching sensations all over body
+88092000||loss of muscle mass in hands
+88092000||loss of muscle mass in hands
+267031002||tiredness
+162076009||gas
+424647005||feet and leg cramps
+609410002||avascular necrosis
+129565002||muscle problems
+129565002||muscle problems
+35489007||intense depression
+309774006||weakness in legs
+25064002||headaches
+10601006||sore legs
+247592009||short term memory loss
+21565011000036108||vitorin
+75694006||acute pancreatic attack
+77436011000036106||fish oil
+51197009||severe abdominal cramping
+51197009||severe abdominal cramping
+15203004||sudden loss of vision
+62507009||tingling in my feet
+62507009||tingling in my feet
+271681002||stomach discomfort
+271681002||stomach discomfort
+399153001||room spinning
+399153001||room spinning
+246636008||blurred vision
+698247007||severe arrythmias
+698247007||severe arrythmias
+3723001||arthrites
+35678005||arthralgia of multiple joints
+271767006||skin began to come off
+271767006||skin began to come off
+44695005||paralysis
+38341003||hypertension
+62507009||tingling on left side of face
+62507009||tingling on left side of face
+3877011000036101||liptor
+300381009||frequent defaecation
+386705008||light headedness problem keeping balance
+386705008||light headedness problem keeping balance
+449917004||occasional leg cramps
+68962001||muscle soreness
+68962001||muscle soreness
+26329005||problems concentrating
+274663001||acute pain
+271801002||taste perversion
+271801002||taste perversion
+60862001||tinnitus
+55300003||cramping
+55300003||cramping
+248277009||loss of stamina
+76948002||severe hip pain
+25064002||head hurt
+25064002||head hurt
+62507009||finger tingling
+62507009||finger tingling
+4216011000036104||norvasc
+32914008||legs are restless
+76948002||horriable crippeling pain hit both knees at same moment
+76948002||horriable crippeling pain hit both knees at same moment
+444899003||pain in forearms
+271870002||hypotension
+267044007||exercise intolerance
+77424011000036100||coq10
+56731001||tight neck muscles
+56731001||tight neck muscles
+271782001||drowsiness
+271782001||drowsiness
+225549006||yellow color to my skin
+88092000||loss of muscle in left leg
+88092000||loss of muscle in left leg
+84229001||feel fatigued
+418092006||congestion
+302226006||periphael neuropathy
+162043005||hunger pangs
+3530011000036104||lopid
+70733008||movement restriction
+70733008||movement restriction
+68962001||muscle pain
+68962001||muscle pain
+76948002||severe pain in back
+386807006||memory problems
+386807006||memory problems
+37796009||migrane headaches
+62315008||diarhea
+62315008||diarhea
+85418005||bad dreams
+69813011000036107||glucoasamine
+51197009||sever stomach cramps
+271807003||rashes
+271807003||rashes
+40196000||mild pain
+60862001||tinnitis
+370143000||major depression
+370143000||major depression
+69813011000036107||glucosamine
+419511003||increased sensitivity to other drugs
+419511003||increased sensitivity to other drugs
+22253000||sore
+69215007||sever heat intolerance
+26544005||weak muscles
+62507009||tingling on left arm
+62507009||tingling on left arm
+85418005||abnormal dreams
+55300003||cramps
+55300003||cramps
+46991000||absent mindendness
+13791008||debilitating
+13791008||debilitating
+81680005||pains neck
+81680005||pains neck
+165247006||unable to climb stairs
+26544005||muscles weak
+277521002||laziness
+2733002||heel pain
+2733002||left heel pain
+90673000||burning
+308925008||digestion problems
+76948002||severe pain in one ankle
+47933007||pain in feet
+300954003||severe pain in left leg
+124054003||high cholesterol
+3210011000036104||lexapro
+40733004||infection
+386807006||effect on your memory
+386807006||effect on your memory
+423849004||left leg iliotial band syndrome
+423849004||left leg iliotial band syndrome
+62507009||tingling in back of neck
+62507009||tingling in back of neck
+90446007||pruritus ani
+267953003||leg joint pain similar to arthritis
+62507009||tingling in feet
+62507009||tingling in feet
+45534005||sore tingly tongue glossitis
+162043005||hungry feeling
+102551008||severe cramps in toes
+102551008||severe cramps in toes
+62507009||tingling in toes and feet
+62507009||tingling in toes and feet
+13791008||extreme fatigue
+8357008||loss of sex drv
+8357008||loss of sex drv
+386692008||heavy menstrual bleeding
+386692008||heavy menstrual bleeding
+386807006||memory lapses
+386807006||memory lapses
+162076009||gasto discomfort
+10601006||leg pains
+225609009||stiffness in my feet
+9126005||spotting
+9126005||spotting
+22298006||heart attack
+22298006||heart attack
+10601006||legs ache
+202852009||tendonitis in my shoulders
+57676002||jointaches
+57676002||jointaches
+309774006||muscle weakness in my left arm
+59927004||liver disfunction
+59927004||liver disfunction
+162059005||sick to my stomach
+249902000||trouble standing for longer periods of time
+249902000||trouble standing for longer periods of time
+235856003||liver problems
+235856003||liver problems
+247640008||fuzzy
+247640008||fuzzy
+161891005||back pain
+161891005||back pain
+279039007||back pain lower
+161891005||aching in back
+161891005||aching in back
+88092000||muscle wasting in the shoulders
+88092000||muscle wasting in the shoulders
+225014007||stomach emptiness and pain
+55300003||muscle spasms
+387603000||balance is off at times
+387603000||balance is off at times
+80449002||fatigue in arms
+249931001||weakness in neck
+49218002||pain in hip
+118932009||foot problems
+43364001||abdominal discomfort
+87715008||dry mouth
+87715008||dry mouth
+224960004||very tired
+102556003||pain in arm
+55300003||mild cramps
+55300003||mild cramps
+162031009||indegestion
+3572011000036102||mobic
+55300003||cramping in back muscles
+55300003||cramping in back muscles
+128139000||inflammation
+162076009||generaly feeling unwell like walking in a daze zombie like
+162076009||generaly feeling unwell like walking in a daze zombie like
+161156004||language problems
+76948002||severe muscle pain
+235856003||liver damage
+235856003||liver damage
+247640008||difficulty thinking
+247640008||difficulty thinking
+76948002||severe pain in my calf muscles
+266257000||tia s
+266257000||tia s
+271681002||stomach pain
+399114005||frozen shoulder
+399114005||frozen shoulder
+69896004||ra
+69896004||ra
+247640008||not be able to process thoughts
+247640008||not be able to process thoughts
+267052005||windy
+200936003||lupus
+200936003||lupus
+235594008||bowel dysfunction
+10601006||legs are sore
+21288011000036105||cataflam
+18963009||emotional changes
+18963009||emotional changes
+21930011000036101||zetia
+84946008||extreme exhaustion
+10601006||leg pain
+300043006||muscles of whole body dilution in size
+33308003||back problems
+166830008||serum cholesterol raised
+26544005||decrease in muscle strength
+26544005||decrease in muscle strength
+49218002||severe muscle pain in hip joints
+49218002||severe muscle pain in hip joints
+426206001||constant leg pain
+60119000||exhausted all the time
+3384011000036100||arthritis strength tylenol
+82272006||cold
+82272006||cold
+309774006||weakness in upper arm muscles
+9126005||spotting problems
+9126005||spotting problems
+3559011000036109||zoloft
+22253000||aches
+103281005||plugged ears
+103281005||plugged ears
+18963009||mood change
+18963009||mood change
+82971005||slowness in movement
+82971005||slowness in movement
+304534000||crying
+248277009||stength and stamina destroyed
+419723007||diminished mental acuity
+27355003||toothache
+48167000||memory loss severe
+48167000||memory loss severe
+76000011000036107||b complex
+246636008||vision is so blurry
+431416001||period cramps
+62315008||dioreaha
+62315008||dioreaha
+162397003||sore throat
+162397003||sore throat
+444827008||skin was very red and rough
+80954004||lungs detoriation like less intake of oxigen
+80954004||lungs detoriation like less intake of oxigen
+443798008||shoulders are inflammed
+443798008||shoulders are inflammed
+62476001||disorientation
+62476001||disorientation
+297217002||sore ribs
+162059005||upset my stomach
+309557009||face has felt numb
+25064002||very bad headaches
+162059005||stomach upset
+35918011000036106||cymbalta
+6211002||autoimmune polyarthritis
+386807006||increased memory loss
+386807006||increased memory loss
+82991003||body ached
+82991003||body ached
+246636008||blurry vision
+68962001||sore muscles
+68962001||sore muscles
+267953003||arthralgia of the lower leg
+55929007||irritability
+55929007||irritability
+95891005||flu like symptoms
+279038004||muscle pain in upper back
+54981004||charley horses in abdomen
+45352006||spasms
+35489007||depressions
+8357008||decreased libido
+8357008||decreased libido
+57676002||pain in joints
+57676002||pain in joints
+249966004||twitching
+249966004||twitching
+61599003||phlebitis
+78584011000036106||lecithin granules
+230736007||transient global amnesia
+30989003||terrible pains in knee
+386661006||feverish
+432352001||high cpk level
+432352001||high cpk level
+22253000||pains
+367391008||feel pretty lousy
+367391008||feel pretty lousy
+128239009||neurological damage
+128239009||neurological damage
+165232002||urinary incontinence
+282195009||can barely make it up one flight of stairs
+22253000||pain and stiffness
+289903006||menopause
+289903006||menopause
+167232003||urine dark concentrated
+278040002||hair loss
+8943002||gained a lot of weight
+162076009||gi distress
+3723001||arthritus
+25064002||extreme headaches
+193093009||bell s palsey
+300306001||recurrent stomach problems
+301345002||difficult to sleep
+300954003||calves tire and burn
+300954003||calves tire and burn
+52613005||sweating a lot
+52613005||sweating a lot
+76948002||severe thigh muscle pain both legs involved
+76948002||severe left knee pain
+46206005||mood problems
+10601006||pain in both legs
+271713000||feeling shakey
+271713000||feeling shakey
+39575007||dark urine
+21545007||lower tendon pain
+21545007||lower tendon pain
+77692006||excessive sleep
+77692006||excessive sleep
+51197009||sporadic lower abdominal cramping
+51197009||sporadic lower abdominal cramping
+429340002||muscle injury
+931804011000036107||omega 3
+48167000||loss of memory
+48167000||loss of memory
+74323005||pain in both elbows
+699302001||lower lumbar arthritis
+271807003||red dots on skin all over body
+271807003||red dots on skin all over body
+271594007||syncope
+26329005||terrible concentration
+68962001||pain in muscles
+68962001||pain in muscles
+57676002||joint pain very arthritic
+57676002||joint pain very arthritic
+18963009||mood swings
+63102001||visual disturbances
+248255005||couldn t sleep
+248255005||couldn t sleep
+418290006||itchiness
+76948002||severe muscle pain in ankles
+228158008||could nt walk
+228158008||could nt walk
+76948002||severe pain in calves
+55300003||muscles cramp
+3424008||fast and slow heartbeat
+3424008||fast and slow heartbeat
+444312002||bleeding in my abdomen after coughing and rupturing a blood vessel
+444312002||bleeding in my abdomen after coughing and rupturing a blood vessel
+283902008||recall was slower
+288231001||aching muscles in legs
+297142003||swollen feet and ankles
+297142003||swollen feet and ankles
+21676011000036101||omeprazole
+25064002||head hurting
+25064002||head hurting
+6205011000036102||lipitor 20mg
+58901008||easily excited
+267949000||joint pain in shoulder
+165509000||elevated wbc
+165509000||elevated wbc
+26079004||tremors in right hand
+161833006||significant weight gain
+418290006||itchy
+418290006||itchy
+277223000||swollen nasal mucosa
+248255005||could not sleep
+60119000||always exhausted
+81680008||pain neck
+288226003||very sore muscle pain in both shoulders
+271681002||stomach hurt soooo bad
+52448006||dementia
+250082003||cramping in wrists hands
+56608008||wrist pain
+56608008||wrist pain
+258155009||sun sensitivity
+258155009||sun sensitivity
+50219008||husky vocal chords
+50219008||husky vocal chords
+32914008||restless leg syndrome
+32914008||restless leg syndrome
+35489007||very serious depression
+193000002||temporal lobe epilepsy
+22325002||affected gait small steps
+160685001||bedridden
+68962001||muscle pains
+68962001||muscle pains
+225609009||stiff legs
+300954003||calf pain
+300954003||calf pain
+282937004||can t bend over
+82639001||pms symptoms
+82639001||pms symptoms
+76948002||extreme pain in all my joints
+62315008||dioreah
+62315008||dioreah
+102551008||foot cramps
+102551008||foot cramps
+309774006||weakness in my legs
+81680005||neck hurt
+81680005||neck hurt
+8357008||decrease in sexual desire
+8357008||decrease in sexual desire
+302226006||peripheral neuropathy in feet and legs
+18193002||hyprochondria
+18193002||hyprochondria
+35489007||mmdepression
+62507009||tingling hands
+62507009||tingling hands
+3384011000036100||arthrotec 75
+77435011000036104||vitamin c
+280816001||facial paralysis
+280816001||facial paralysis
+49218002||pain in my hip
+284149003||very little mobility in my right hand
+228158008||dragging legs
+228158008||dragging legs
+13791008||weakness
+13791008||weakness
+41652007||eye pain
+308925008||digestive changes
+274141009||tendon contracture
+197321007||fatty liver
+197321007||fatty liver
+128601007||infection in her lungs
+128601007||infection in her lungs
+22298006||miocardial infarction
+95891005||felt like i had the flu
+247592009||short term memory issues
+449918009||muscle cramps in lower legs
+4344011000036106||neurontin
+249966004||constant twitching
+249966004||constant twitching
+248653008||skipping heart beats
+39104002||sickness
+39104002||sickness
+63102001||vision problems
+76948002||so much pain
+278999000||tender to the touch
+278999000||tender to the touch
+249902000||could barely stand and walk
+271137009||circulatory problems
+422400008||vomitting
+202484005||pain in knuckles
+202480001||joint pain elbows
+386807006||lost some memory
+386807006||lost some memory
+18101008||hyperactive bowel sounds
+18101008||hyperactive bowel sounds
+105981003||altered my heart function
+267036007||loss of breath
+267036007||loss of breath
+162076009||gastro problem
+289903006||menopausal phase
+289903006||menopausal phase
+43724002||shaking with chills uncontrollably
+309774006||weakness in thighs
+46991000||absentminded
+64379006||very poor appetite
+64379006||very poor appetite
+301679006||difficulty getting out of bed in the morning
+166717003||cpk was elevated
+62315008||diaharrea
+62315008||diaharrea
+67849003||excruciating unusual abdominal pain
+301679006||getting out of bed is painful
+161891005||pains in her back
+161891005||pains in her back
+250069006||hideously increased muscle tension
+235856003||liver disease
+166848004||elevated levels of triglycerides
+90708001||kidney problems
+62507009||tingling of feet
+62507009||tingling of feet
+230645003||pinched nerve in my back
+76948002||severe pain in legs
+22253000||painfull
+22253000||painfull
+247408001||high tolerance for pain
+193462001||insomia
+69896004||rheumatoid arthriitis
+76948002||severe knee pain
+193570009||cataract
+76948002||severe pain in feet
+228158008||difficulty walking
+76948002||severe chest pain
+9991008||abdominal colic
+77461011000036109||vitamin e
+426899007||painful to walk
+68962001||terrible migratory joint pain all over my body
+68962001||terrible migratory joint pain all over my body
+60119000||exhausted
+102556003||aches and pain in both arms
+300381009||several bowel movements
+300381009||several bowel movements
+3298011000036103||lipex
+297144002||sever swelling of feet
+88092000||muscle loss
+88092000||muscle loss
+267044007||impaired exercise tolerance
+449917004||leg cramps
+45326000||shoulders ache
+309536001||numbness in fingers
+401269004||fear of falling over
+82991003||aches and pains
+56265001||heart desease
+76948002||extreme muscle pain
+25064002||mild headache
+22253000||pain pain pain
+102556003||back pain in the am
+3384011000036100||arthrotec 50
+228158008||hardly walk
+228158008||hardly walk
+30473006||lower pelvic pain
+40917007||memory confusion
+57676002||joint pains
+57676002||joint pains
+76948002||horrible pain
+282145008||cant walk
+49218002||pains hips
+57676002||feet joint pain similar to arthritis
+57676002||feet joint pain similar to arthritis
+62476001||disorientated
+363499005||malignant tumour of spleen
+267032009||tired all the time
+21885011000036105||iubrofen
+3384011000036100||arthotec
+422587007||nauseous
+422587007||nauseous
+77547008||degenerative back disease
+77547008||degenerative back disease
+124055002||hdl dropped
+95418008||severe neck cramps
+69791001||high blood pressure
+363346000||cancer
+363346000||cancer
+86044005||als
+86044005||als
+10601006||lower legs have been hurting
+10601006||lower legs have been hurting
+80690008||neurodegenerative diseases
+76948002||severe leg pain
+68962001||muscle aches
+68962001||muscle aches
+21540011000036109||pseudoephedrine
+44077006||numbness in muscles
+3003011000036100||tagamet
+301345002||can not sleep
+301345002||can not sleep
+398151007||overall loss of muscle tone
+432352001||high pck level
+432352001||high pck level
+68962001||muscles hurt
+68962001||muscles hurt
+25064002||on the back of the head pain in every tendon
+25064002||on the back of the head pain in every tendon
+386806002||cognitive disfunction
+386806002||cognitive disfunction
+71262003||gum ulcerations
+71262003||gum ulcerations
+267950000||joint aches in arms
+288939007||difficulty in swallowing
+35489007||depressed
+35489007||depressed
+162031009||occasional indigestion
+267039000||swollen ankles
+283121001||blisters in my mouth
+283121001||blisters in my mouth
+55929007||irritable
+161882006||neck stiff
+3424008||tachycardia
+3424008||tachycardia
+386705008||lightheadedness
+62507009||weird toe tingling
+62507009||weird toe tingling
+131148009||heavy bleeding
+250084002||leg calf cramps
+2929011000036108||nexium
+76948002||severe pains
+65124004||swollen
+65124004||swollen
+238810007||excessive hot flashes
+282299006||un balanced type feeling
+29857009||chest ache
+47401000168109||lescol
+193462001||sleeplessness
+193462001||sleeplessness
+247373008||sore ankles
+225601007||impossible to move
+68962001||muscle aches in chest
+68962001||muscle aches in chest
+128139000||inflamation
+79890006||anorexic
+79890006||anorexic
+22253000||painful
+22253000||painful
+76948002||extreme back pain
+426899007||discomfort when i walk
+418290006||constant itching
+429360005||tendonitis of knee
+57676002||aching joints
+57676002||aching joints
+102598000||clamy feeling
+102598000||clamy feeling
+299037003||sever swelling of hands
+228158008||could not walk
+228158008||could not walk
+29542008||uterus starting to have spasms
+29542008||uterus starting to have spasms
+76948002||extremly bad pains in hands
+49601007||cardiovascular disease
+24184005||rise in bp
+24184005||rise in bp
+247441003||erithema
+61372001||aggression
+29857009||chest hurt
+14304000||thyroid disease
+62315008||diarea
+62315008||diarea
+116289008||extreme bloating
+367466007||abdominal irritation
+8392000||don t smoke
+271681002||tummy pains
+271681002||tummy pains
+73211009||diabetics
+69896004||rematoid arthro
+449917004||leg cramping
+449917004||leg cramping
+26329005||some concentration problems
+297142003||swelling feet
+386807006||memory failure
+386807006||memory failure
+91019004||tingle
+91019004||tingle
+60032008||loss of concentration levels
+60032008||loss of concentration levels
+279039007||muscle aches in my lower back
+202882003||plantar fasciitis in my feet
+4249000||little circulation in my fingers
+57676002||joints hurt
+57676002||joints hurt
+279038004||pain between my shoulder blades
+10601006||pains in legs
+387603000||problems with my balance
+387603000||problems with my balance
+267064002||couldnt pass urine
+267064002||couldnt pass urine
+248966006||extended bleeding during menstruation
+248966006||extended bleeding during menstruation
+62507009||constant pins and needles in the ball of the foot
+386661006||fevers
+77435011000036104||vit c
+21005005||burning my esophagus
+76948002||severe neck pain
+86651002||rapid pulse
+86651002||rapid pulse
+86651002||resting pulse jumped to between 100 and 105
+429513001||tore my left achilles tendon by simply jumping in the air
+429513001||tore my left achilles tendon by simply jumping in the air
+76948002||extremely tender calves
+11072008||extreme abdominal issues
+10601006||legs ached
+249903005||difficulty standing up
+248096004||sex drive became non existant
+84114007||weak heart muscle
+84114007||weak heart muscle
+16046003||muscles stiff
+16046003||muscles stiff
+48694002||anzity
+224960004||very very tired
+61387006||hightened anxiety levels
+418363000||skin itchiness
+4138011000036106||lipidil micro
+30989003||chronic knee pain
+399044006||burning of tongue
+399044006||burning of tongue
+68962001||aching muscles
+68962001||aching muscles
+76948002||back pain
+288228002||muscle aches in elbows
+102556003||pain in arms
+162076009||get tired vry easily
+162076009||get tired vry easily
+13791008||weak
+13791008||weak
+247640008||blurred thinking
+247640008||blurred thinking
+21395011000036107||ramipril
+386661006||fever
+309537005||numbness in upper legs from knee to thigh
+278040002||thinning hair
+278040002||thinning hair
+267052005||mild flatuelence
+88092000||muscle wasting
+88092000||muscle wasting
+193093009||bell s palsy
+247806005||uneasiness
+50219008||dry throat hoarseness
+50219008||dry throat hoarseness
+367391008||feel like shit all the time
+367391008||feel like shit all the time
+62315008||diahhrea
+62315008||diahhrea
+82991003||ache all over
+82991003||ache all over
+309774006||arm weakness
+90673000||elbows would burn like fire
+26544005||when i went to sit down instead of sitng normaly i would almost fall down in the chair no control no strength upon getting up i had to hold on to something to get up
+26544005||when i went to sit down instead of sitng normaly i would almost fall down in the chair no control no strength upon getting up i had to hold on to something to get up
+76948002||ache was extreme almost unbearable
+161874006||feeling like i was walking through waist deep mud
+161874006||feeling like i was walking through waist deep mud
+246636008||very blurry eyesight
+6206011000036109||lipitor 40mg
+21821011000036104||codeine
+26544005||loss of strength
+26544005||loss of strength
+247640008||fuzzy thinking
+247640008||fuzzy thinking
+45326000||left shoulder is terribly painful
+40806005||hand feels like it s not mine
+40806005||hand feels like it s not mine
+16046003||muscle stiffness
+16046003||muscle stiffness
+77692006||increase in sleep requirement
+77692006||increase in sleep requirement
+49218002||pain in hips
+15611000168108||naprosyn
+3424008||rapid heart beat
+3424008||rapid heart beat
+248255005||unable to sleep
+248255005||unable to sleep
+16331000||heart burn
+21242011000036102||simvistatin
+8510008||decreased mobility
+161873000||felt like i had lead in my legs
+60238002||deeper muscle twitches on arms sides
+22253000||afterpain
+39621005||gall bladder disease
+39621005||gall bladder disease
+49218002||pains in my hip
+23924001||tighening of the chest
+309774006||weakness in leg muscles
+404640003||dizzines
+250084002||calf cramps
+40917007||confusion
+250084002||cramps in my left calf
+77424011000036100||ubiquinol
+161891005||pain in back
+161891005||pain in back
+76948002||severe pain in my limbs
+82991003||body pains
+75694006||pancreas is very swollen
+62507009||fingers and toes were tingling
+62507009||fingers and toes were tingling
+315642008||coming down with the flu
+3424008||my heart rate jumped to 106
+3424008||my heart rate jumped to 106
+161891005||back ache
+161891005||back ache
+56731001||muscle tightness
+56731001||muscle tightness
+250084002||muscle cramps in my calf muscles
+21589011000036108||clonidine
+279039007||lower back pain
+449918009||leg cramps
+166830008||cholesterol climbed
+300954003||calves are sore and tender to the touch
+300954003||calves are sore and tender to the touch
+8708008||sharp pain in my stomach
+271782001||sleepy
+271782001||sleepy
+83901003||sorgren s syndrome
+449917004||thigh cramps
+26889001||inflammation of my foot muscles
+26889001||inflammation of my foot muscles
+55300003||muscle cramps
+55300003||muscle cramps
+249940002||in shoulders weakness
+6389006||changes in physical activity
+6389006||changes in physical activity
+250082003||cramps in my fingers
+250082003||cramps in my fingers
+21930011000036101||ezetimbe
+301345002||trouble sleeping
+224960004||very very tired all the time
+309537005||top outer thigh muscle starts to feel very warm then get numb and lastly it starts to feel very cool like the icy hot patch
+249489001||choking the throat
+236423003||renal impairment
+95847005||muscle damage
+95847005||muscle damage
+4249000||poor circulation
+300650009||biking most difficult
+300650009||biking most difficult
+235999009||abdominal hematoma
+429783005||legs tingling in
+429783005||legs tingling in
+55300003||severe cramping
+55300003||severe cramping
+70733008||movement is restricted and it is impossible to make a fist
+70733008||movement is restricted and it is impossible to make a fist
+162059005||sick to stomach
+40917007||mental confusion
+29857009||chest pains
+238810007||body flushes
+278040002||hair thinning
+278040002||hair thinning
+250991000119100||stumbeling
+25064002||frequent headaches
+249938007||in back weakness
+167232003||urine dark brown
+301345002||poor sleep
+301345002||poor sleep
+125667009||bruising
+125667009||bruising
+76948002||severe joint pain
+250082003||serious cramping hands
+53430007||breast pain
+53430007||breast pain
+49218002||hip hurt
+254935002||brain tumor
+254935002||brain tumor
+57676002||painful joints
+57676002||painful joints
+29164008||difficulty with speech
+29164008||difficulty with speech
+61777011000036104||codeine ibuprofen
+248255005||no sleep
+248255005||no sleep
+60032008||not being able to concentrate
+36349006||calf of left leg began to burn
+76948002||severe muscle pain in legs
+129565002||damaging my muscles
+129565002||damaging my muscles
+48500005||paranoia
+367391008||ill feeling
+367391008||ill feeling
+289195008||slurpy speach
+55300003||excessive cramping
+55300003||excessive cramping
+309774006||weakness in arms
+57676002||severe joint aches
+57676002||severe joint aches
+25701000168107||enbrel injections
+931804011000036107||omega 3 6 9 capsules
+32798002||parkinson s symptoms
+425423002||hurts to go up stairs
+40930008||hypothyroidism
+213257006||feeling horrible like a severe flu just hit me
+213257006||feeling horrible like a severe flu just hit me
+68962001||muscule aches pains
+68962001||muscule aches pains
+258155009||sensitive to sunlight
+258155009||sensitive to sunlight
+47268002||reflux
+82423001||chronic pain
+14760008||constipated
+14760008||constipated
+18876004||pain in my fingers
+315224006||heavy extra vaginal bleeding
+60238002||mussel twitches
+60238002||mussel twitches
+248132003||crave sweets
+84229001||increased fatigue
+473011001||allergies
+76948002||severe hip feet pain
+267079009||trembling
+37796009||migrains
+49727002||unexplained cough
+300439004||some sort of g i problems
+371632003||coma
+282145008||unable to walk or stand
+60862001||severe tintitinitis ringing in ears
+60862001||severe tintitinitis ringing in ears
+13791008||extreme weakness
+13791008||extreme weakness
+386692008||heavy menstral bleeding with clots even though i had just finished my cycle a week before
+386692008||heavy menstral bleeding with clots even though i had just finished my cycle a week before
+73211009||adiabetic
+246636008||blurry eyesight
+30989003||right knee is so painful
+69791001||high bp
+16973004||limp
+16973004||limp
+225610004||stiffness of limbs
+4422011000036109||noten
+284140004||couldn t lift my arms
+248274002||low energy
+248274002||no energy all day
+90673000||elbows burning
+55300003||cramping in back
+55300003||cramping in back
+248491001||swelling in knee
+53741008||coronary artery disease
+53741008||coronary artery disease
+22253000||constant aching pain
+116289008||bloating of stomach
+53057004||pain in my hands
+301345002||comfortably couldn t sleep
+301345002||comfortably couldn t sleep
+193462001||sleepless nights
+193462001||sleepless nights
+34840004||tendonits
+30989003||sore and stiff knees
+923927011000036105||melatonin
+266601003||menstruating with heavy bleeding every 11 days
+266601003||menstruating with heavy bleeding every 11 days
+124055002||good cholesterol is whacked lowered
+82971005||mobility was going from bad to worse
+271587009||stiffness in whole body
+60032008||lack of concentration
+60032008||lack of concentration
+21242011000036102||sinivastatin
+387603000||decrease in balance
+387603000||decrease in balance
+21885011000036105||ibu
+68962001||pain in almost every muscle
+68962001||pain in almost every muscle
+386807006||memory difficulties
+386807006||memory difficulties
+54981004||charley horses in shoulders
+282145008||cannot walk even a short distance due to pain
+60238002||legs twitching
+60238002||legs twitching
+81680005||muscle aches in my neck
+81680005||muscle aches in my neck
+449917004||severe cramping in my legs
+449917004||severe cramping in my legs
+64766004||ulcerative colitis
+274646000||crankiness and irritability
+55300003||buttocks cramps
+55300003||buttocks cramps
+76948002||severe pain in left calf
+282475008||unable to run
+386033004||nerve problems in shoulder
+386033004||nerve problems in shoulder
+3877011000036101||lipiltor
+78584011000036106||lecithin
+8510008||could not walk 75 feet
+54981004||charlie horses
+233604007||pneumonia
+276444007||itching all over
+276444007||itching all over
+34840004||heel tendon bruising
+84445001||stiffness in joints
+102551008||cramping in toes
+129859006||inability to pull myself from bed
+282145008||lost my ability to walk
+309086004||hand being asleep
+309086004||hand being asleep
+230490003||sleeping all day and night
+68566005||severe urinary tract infections
+279093005||cramping pain
+197321007||fatty strands in my liver
+197321007||fatty strands in my liver
+247753000||no enthusaism
+426206001||deep constant pain
+29542008||extreme uterine cramping
+6285003||elevated heart rate
+47933007||right foot hurts
+68962001||terrible musche aches
+68962001||terrible musche aches
+415690000||sweating
+32914008||restless legs
+68962001||muscles aches
+68962001||muscles aches
+81680005||neck and shoulders are sore all the time
+81680005||neck and shoulders are sore all the time
+225609009||stiffness in leg joint
+248274002||loss of energy
+278528006||slight swelling of cheeks
+45326000||pain in shoulders joints
+80449002||fatigue in legs
+236423003||kidney readings became so high
+62315008||diarreah
+62315008||diarreah
+195967001||asthma
+35489007||suicidal depression
+13791008||debilitated
+13791008||debilitated
+21499005||severe aggitation
+225549006||yellow skin
+288231001||muscle aches in calves
+246636008||blured vision
+162076009||stomach gas
+89362005||loss of weight
+429783005||no feeling in right leg
+429783005||no feeling in right leg
+45326000||pain has gone into my shoulder
+46040000||ulcer lower bowel
+46040000||ulcer lower bowel
+102897001||grogginess
+102897001||grogginess
+21238011000036103||estrace
+77424011000036100||co q 10
+82991003||everything on my body hurts
+82991003||everything on my body hurts
+415749005||tendon ruptures
+228158008||cannot walk more than 5 yards
+228158008||cannot walk more than 5 yards
+426206001||intense and constant pain in arms
+68235000||stuffy nose
+68235000||stuffy nose
+267036007||breathlessness
+267036007||breathlessness
+26544005||lost all strength
+26544005||lost all strength
+248255005||not sleeping
+162076009||gastrointestinal problems
+281245003||muscle pain in my chest
+247373008||ankle pain
+419723007||brain fog
+247753000||lost all interest in everything
+55929007||irritibility
+55929007||irritibility
+302188001||bad taste in mouth
+10601006||pains in his legs
+13543005||pressure in the stomach
+102572006||severe edema with swelling of limbs
+102572006||severe edema with swelling of limbs
+422587007||light nausea
+162059005||stomach irritation
+228158008||could not walk without falling
+228158008||could not walk without falling
+30989003||pains in my left knee
+249985001||bad balance
+249985001||bad balance
+2733002||pain in my right heel
+298751004||hands tender
+76948002||extreme joint pain
+299954009||tightness in shoulders
+398032003||loose stools
+398032003||loose stools
+55533009||forget things all the time
+267032009||persistent triedness
+5662003||large dark bruise on hand
+5662003||large dark bruise on hand
+14151009||hypersensitivity that wrapped around my abdomen
+14151009||hypersensitivity that wrapped around my abdomen
+162076009||general malaise
+166830008||cholesterol was very high
+62507009||tingling and sunny sensation on my face
+62507009||tingling and sunny sensation on my face
+47933007||very painful feet
+398979000||pale yellow complexion
+224962007||hot sweats
+103002009||hot and cold on and off
+22298006||cardio event
+22298006||cardio event
+55300003||severe muscle cramping
+129565002||muscle damage
+129565002||muscle damage
+386806002||decreased cognitive skills
+386806002||decreased cognitive skills
+428061005||brain cancer
+248236005||brain vague
+371081002||severe arthritis symptoms in knees
+309537005||numbness in my shins
+271596009||mental distress
+38341003||high blood pressure
+38341003||high blood pressure
+26237000||sever swelling of ankles
+26237000||sever swelling of ankles
+309537005||numbness in ankles and toes
+21496011000036106||prednisone
+60032008||cannot concentrate
+48500005||delusional disorder
+424582000||over stressed
+49049000||parkinson
+309521004||hands numb
+55145008||stabbing pain in my spine
+84229001||extreme tiredness
+84229001||extreme tiredness
+284140004||unable to reach the top of my head with my hands
+68962001||leg muscle pain
+68962001||leg muscle pain
+3877011000036101||lipior
+271681002||pain in my stomach
+309774006||weak legs
+309086004||hands tingling
+309086004||hands tingling
+278040002||hairloss
+444702007||irregular bowel
+36031001||ankles and the soles of my feet feels like i was walking on hot coals
+55300003||muscle spasams in face and neck
+55300003||muscle spasams in face and neck
+8009008||bed wetting
+8009008||bed wetting
+8357008||decreased sex drive
+21322011000036108||amlodiphine
+162076009||general degradation
+60238002||muscle twitching on calves
+399122003||swallowing problems
+309774006||weakness in my arms
+41982003||male menopause
+41982003||male menopause
+161873000||heavy legs
+42399005||kidney failure
+42345000||polyneuropathy
+247640008||diffuculty thinking
+247640008||diffuculty thinking
+6471006||thoughts of suicide
+419145002||vivid nightmares
+271835004||stomach is bloated with excess gas
+248491001||swollen knees
+102551008||cramping in feet
+302226006||toe neuropathy
+249938007||lower back weakness
+262286000||big weight gain in stomach area
+267036007||shortness of breath
+267036007||shortness of breath
+35489007||deep depression
+36349006||burning in back of neck
+81680005||pain neck
+81680005||pain neck
+61387006||extreme anxiety
+95320005||skin condition
+95320005||skin condition
+309774006||muscle weakness in ankle
+10601006||shin pain
+68962001||muscle ache
+68962001||muscle ache
+237602007||metabolic syndrome
+237602007||metabolic syndrome
+225624000||panic attacks
+419723007||mentally weaker
+62507009||tingling face
+62507009||tingling face
+249912007||ankles seized up
+166830008||elevated cholesterol
+129565002||damaging your muscles
+129565002||damaging your muscles
+102943000||change in personality
+25064002||severe headache
+609600000||neuropathy in left foot
+416675009||my skin in boils
+416675009||my skin in boils
+301676004||unable to get out of bed
+165232002||no control over urination
+165232002||no control over urination
+60862001||tinnitus in my left ear
+267052005||lots of gas
+249913002||stiff knees
+129565002||disorder of muscle
+129565002||disorder of muscle
+262558009||deep bruising
+309257005||severe weight loss
+3848011000036104||pravochol
+44054006||type 11 diabetic
+44054006||type 11 diabetic
+249917001||elbows stiff
+95453001||subdural hematoma
+95453001||subdural hematoma
+289195008||slurred speech
+22253000||achiness
+37796009||migraine
+62315008||diarrea
+62315008||diarrea
+161891005||sore back
+161891005||sore back
+129565002||muscle problem
+129565002||muscle problem
+299037003||swollen hands
+299037003||swollen hands
+49218002||joint pain in hips
+49218002||joint pain in hips
+68962001||muscular aches
+68962001||muscular aches
+249913002||knees seized up
+386705008||light head
+386705008||light head
+57182000||nerve damage
+57182000||nerve damage
+62315008||diarreha
+62315008||diarreha
+76948002||server pain
+418290006||itch
+418290006||itch
+445445006||high ldl
+16973004||caused me to limp
+16973004||caused me to limp
+213257006||generally unwell
+4740000||shingles
+4740000||shingles
+26237000||edema of ankles
+26237000||edema of ankles
+59050008||difficulty getting to sleep
+59050008||difficulty getting to sleep
+77424011000036100||coq 10
+76948002||severe shoulder pain
+57676002||arthritic pain
+57676002||arthritic pain
+3080011000036109||tylenol 3
+166830008||cholestorol which had jumped from 175 to 220
+129565002||myopathies
+275319005||swelling of the legs and feet
+271870002||low pulse
+1402001||fear
+309521004||numbness and tingling in my hands
+76742009||post menopausal and have now had a six day period
+59026006||eye muscle spasms
+59026006||eye muscle spasms
+80690008||neurodegeneration
+166892002||elevated blood sugar
+88092000||shrinking muscels arms
+88092000||shrinking muscels arms
+49218002||hip joint pain
+49218002||hip joint pain
+9829001||gastric ulcer with perforation
+3080011000036109||tylenol extra
+386705008||lightheaded
+386705008||lightheaded
+60862001||ringing in the ears
+60862001||ringing in the ears
+53057004||hands hurt
+80449002||fatigue in forearms
+57676002||joint and muscle pain
+57676002||joint and muscle pain
+439953004||high cholestrol triglycerides
+76948002||severe pain in buttocks
+125667009||contusion
+53057004||right hand has been hurting
+248490000||bloat
+266599000||dysmennorhea
+266599000||dysmennorhea
+274667000||jaw pains
+12441001||nosebleeds
+60032008||lack of ability to concentrate
+396275006||oa
+396275006||oa
+68962001||musclesoreness
+68962001||musclesoreness
+228158008||the heel i couldn t walk on very well
+228158008||the heel i couldn t walk on very well
+299060006||knuckles are so swollen
+299060006||knuckles are so swollen
+82971005||needed help getting out of bed and off a chair
+82971005||needed help getting out of bed and off a chair
+419076005||allergic reaction
+76948002||severe abdominal pain
+6142004||flu
+6142004||flu
+426206001||hideous constant pain
+284143002||could not lift arm
+162059005||sick at stomach
+52613005||pronounced sweating
+52613005||pronounced sweating
+76948002||severe pain in shoulder
+22253000||pressure pain
+449917004||muscles in my left leg locked up
+131148009||bleeding problems
+301679006||couldn t get out of bed
+267052005||severe gas
+449917004||cramping in both quads above knee back of leg
+449917004||cramping in both quads above knee back of leg
+86651002||resting pulse had jumped to about 120
+131148009||bleeding constantly
+300306001||stomach trouble
+300954003||pain in my calves
+60032008||loss of concentration
+60032008||loss of concentration
+13644009||hypercholesterolemia
+13644009||hypercholesterolemia
+3877011000036101||lipitor s
+236620008||bladder infection
+236620008||bladder infection
+43724002||chills
+279038004||thoracic back pain
+51197009||stomach cramping
+288226003||nagging muscle pain between and just below my shoulder blades
+301202006||sinus problems
+67849003||excruciating pain
+202490009||joints in my angles hurt
+13791008||weak feeling
+13791008||weak feeling
+26079004||tremors
+202472008||joints in my hands hurt
+422587007||severe nausea
+228158008||trouble walking
+228158008||trouble walking
+301676004||not being able to get out of bed in the morning
+301676004||not being able to get out of bed in the morning
+76948002||extreme pain
+300954003||pain in lower legs
+88092000||loss of muscle mass in arms
+88092000||loss of muscle mass in arms
+449917004||cramps in thighs
+429783005||legs started tingling
+429783005||legs started tingling
+418092006||congestion with clear phlem
+30989003||joint pain in my knees
+30989003||joint pain in my knees
+48694002||anxious
+48694002||anxious
+95655001||ophthalmic migraine
+301345002||sleep is not very sound
+301345002||sleep is not very sound
+449917004||leg and foot cramping
+449917004||leg and foot cramping
+7393007||more problems with my sinuses
+7393007||more problems with my sinuses
+300954003||persistent pain in calf
+21624011000036105||atenolol
+271787007||collapades in the floor
+84229001||fatigued
+161874006||heavy feeling
+162397003||throat pain
+162397003||throat pain
+386705008||light headedness
+386705008||light headedness
+84229001||feelings of fatigue
+78514002||soreness in thighs
+129565002||permanent muscle damage
+129565002||permanent muscle damage
+102556003||very severe pain in arms
+6471006||suicidal thoughts
+367391008||feel dreadful
+367391008||feel dreadful
+68566005||urinary tract infection
+284146005||could not open my hands
+26889001||muscle inflamation
+26889001||muscle inflamation
+162076009||geneal aches and pains
+162076009||geneal aches and pains
+64206003||bleeding mini periods
+64206003||bleeding mini periods
+224962007||sweats
+422587007||nausia
+18165001||jaundice
+162059005||stomach distress
+24184005||blood pressure had gone sky high
+24184005||blood pressure had gone sky high
+3877011000036101||lipitol
+76948002||debilitating muscle pains
+76948002||debilitating muscle pains
+162290004||extremely dry eyes
+49049000||parkinsons
+10601006||legs painful to the touch
+286381004||couldn t find words
+271951008||tearfulness
+271951008||tearfulness
+419723007||brain feel kind of foggy
+419723007||brain feel kind of foggy
+286651000||feeling a fragility
+288231001||pain in leg muscles
+68449006||arthritis of hip
+405729008||passing blood and clots with stoals
+405729008||passing blood and clots with stoals
+247355005||flank pain
+13791008||very weak
+13791008||very weak
+248096004||sex drive gone
+102556003||arm pain
+88092000||wasting of muscles
+88092000||wasting of muscles
+68962001||acute muscle pain
+68962001||acute muscle pain
+165247006||limits my ability climb stairs
+57676002||arthritis pain
+57676002||arthritis pain
+267032009||tired most of the time
+248255005||couldn t sleep at night
+166830008||elevated levels of high cholesterol
+18718003||gum trouble
+18718003||gum trouble
+60119000||always feeling tired
+60119000||always feeling tired
+309537005||numbness legs
+3702011000036109||oxycotin
+4308002||repetitive stress syndrome
+4308002||repetitive stress syndrome
+7973008||visual anomalies
+271771009||swollen joints
+271771009||swollen joints
+78514002||thigh pain
+84229001||fatique
+77424011000036100||coenzymeq10
+45326000||shoulders hurt
+60728008||intestinal distention
+60728008||intestinal distention
+228158008||hobbling
+228158008||hobbling
+128605003||severe legs problems
+25064002||low grade headache
+57676002||painful inflamation of joints
+57676002||painful inflamation of joints
+26929004||alzheimer s
+386807006||problems with memory
+386807006||problems with memory
+428281000||bone cancer
+428281000||bone cancer
+80313002||heart palpitations
+281245003||chest muscle pains
+301676004||can t get out of bed in the morning
+301676004||can t get out of bed in the morning
+82423001||chronic pain condition
+62507009||tingling sensation in the back of my neck
+62507009||tingling sensation in the back of my neck
+2297011000036108||magnesium
+44548000||extremely hyper
+44548000||extremely hyper
+247592009||memory sht term loss
+57676002||joint soreness
+57676002||joint soreness
+274663001||sudden grabbing pain in ankle
+162116003||frequent sudden urges to go pee that came out with a force that sprayed everywhere
+102556003||severe pain in arm
+73589001||bulging disc
+73589001||bulging disc
+13791008||weak and wobbly unbalanced
+13791008||weak and wobbly unbalanced
+277223000||swollen nasal passages
+248648003||palpitations rapid
+228158008||can barely walk
+228158008||can barely walk
+13164000||vision reduced
+70733008||loss of range of motion
+70733008||loss of range of motion
+11654001||achilles peritendonitis
+237130006||bleeding and i was on day 12 of my cycle
+237130006||bleeding and i was on day 12 of my cycle
+3559011000036109||zorloft
+8357008||low sex drive
+8357008||low sex drive
+228158008||bearly walk
+228158008||bearly walk
+278040002||hair is getting very thin
+278040002||hair is getting very thin
+63102001||vision problems seeing two or three of everything
+95359001||numbness in mouth
+39651011000036100||solaraze
+24693007||fibromalgia
+68962001||very bad pain in my muscles
+68962001||very bad pain in my muscles
+82883008||disturbance in speech rhythm
+248096004||lack of sexual desire
+55350005||hunger
+55350005||hunger
+240014001||tore a tendon in my ankle
+271807003||bumps on both sides of my stomach that looks like chicken pots
+271807003||bumps on both sides of my stomach that looks like chicken pots
+78514002||pain in right thigh
+288885009||could not eat
+39104002||sick
+39104002||sick
+49218002||joint pain in my hips
+49218002||joint pain in my hips
+386692008||heavy menstral cycles
+386692008||heavy menstral cycles
+224960004||drained and tired
+9991008||bowel uterine cramping
+9991008||bowel uterine cramping
+81680005||neck pains
+81680005||neck pains
+10743008||irritable colon
+10743008||irritable colon
+165509000||elevated white blood cell count very high
+21779011000036103||corti cortisones
+419581008||weird dreams
+302226006||peripheral neuropathy in arms
+288228002||muscle aches in arms
+62507009||tingly feeling in scalp
+62507009||tingly feeling in scalp
+81308009||brain problems
+81308009||brain problems
+103298005||extreme vertigo
+68962001||muscular pains
+68962001||muscular pains
+271807003||skin rash
+271807003||skin rash
+271587009||finger stiffness
+82991003||aches and pain from head to toe
+162076009||general weak feeling overall
+162076009||general weak feeling overall
+418290006||itches
+418290006||itches
+21885011000036105||motrin
+274676007||arms tingling in
+18876004||aching in my fingers
+18876004||aching in my fingers
+55300003||muscle spasm
+250082003||hand cramps
+68962001||all over muscle pain
+68962001||all over muscle pain
+21719011000036107||aspirin
+386807006||memory deficits
+386807006||memory deficits
+247761005||dificulty in concentrating
+271587009||stiff
+309536001||finger numbness
+7006003||clumsiness
+62507009||tingling in the soles of my feet
+62507009||tingling in the soles of my feet
+23520002||bp was very low
+23919004||labyrinthitis
+45326000||pain in shoulder
+698065002||severe acid reflux
+371405004||eye trouble
+371405004||eye trouble
+279038004||soreness in upper back
+14351000168102||seroquel
+299322007||right knee always swollen
+288885009||couldn t eat or drink
+78860006||heaviness in eyes
+166717003||slightly elevated cpk
+399122003||swallowing so bad
+95418008||cramping neck muscels
+23924001||chest tightness
+23924001||chest tightness
+166717003||cpk spike
+162076009||general overal weakness
+47933007||left foot started hurting
+247373008||hurt from my ankles to my hips
+21252011000036100||morphine
+248422003||hands are warm to touch
+76948002||horrible leg pain
+271681002||stomach pains
+286641001||metal moods
+101000119102||buzzing sensation in leg
+404640003||occasional dizziness
+47933007||feet still hurt
+62315008||diahrrea
+62315008||diahrrea
+386806002||cognitive impairments
+386806002||cognitive impairments
+177241000036105||mypaid forte
+68962001||intense muscle pain with intense burning in my neck
+68962001||intense muscle pain with intense burning in my neck
+278040002||thinning at the back and sides of my head
+278040002||thinning at the back and sides of my head
+83156004||decreased sense of smell
+83156004||decreased sense of smell
+60238002||muscle twitches
+76948002||extreme pain in upper back area
+55350005||hunger feeling
+55350005||hunger feeling
+404640003||dizzy spells
+74323005||major sorness in elbows
+70733008||movement is restricted
+70733008||movement is restricted
+162059005||stomach upsets
+248234008||constant alert
+3066011000036105||olmetec olmesartan
+431416001||menstrual cramps with vaginal bleeding
+102556003||aching pain in my arms
+102556003||aching pain in my arms
+262966007||tore a calf muscle
+262966007||tore a calf muscle
+34839011000036106||demerol
+45979003||massive gas cramps
+45979003||massive gas cramps
+425772008||tendonitisis in heels
+64226004||colitis
+301657001||unable to get out of chairs without help
+26544005||loss of muscle strength
+26544005||loss of muscle strength
+278286009||right hemiparesis
+37796009||migranes
+284262007||reduced hand grip power
+309539008||numbness in left toe
+49218002||pain in my hipjoints
+49218002||pain in my hipjoints
+21779011000036103||cortisone injection
+29857009||pain in chest
+21779011000036103||cortison shots
+57676002||joints aching
+57676002||joints aching
+202480001||joint pain in elbows
+224960004||tired more than ususal
+74732009||mental illness
+74732009||mental illness
+44077006||numb like
+396275006||signs of osteoarthritis
+55891002||trouble focusing while reading
+55891002||trouble focusing while reading
+166717003||serum creatinine raised
+267045008||abdominal flu symptoms
+70076002||aggrivates my rhinitis
+285365001||pain in their toes
+68962001||bad muscle pains
+68962001||bad muscle pains
+238810007||hot flashes
+78514002||pain in upper legs
+225482007||destroyed my self confidence
+225482007||destroyed my self confidence
+6496011000036105||celebrex 200mg
+3877011000036101||liptior
+166892002||increased blood glucose
+298753001||numbness in arms
+277521002||lack of motivation
+274279008||kidney pain
+274279008||kidney pain
+386807006||poor memory
+386807006||poor memory
+282195009||could barely walk had to use a cane
+248274002||no energy
+309539008||numbness in all of my toes
+49218002||aches in hip joint
+49218002||aches in hip joint
+22253000||ache
+21496011000036106||prednisone 10mg
+13791008||felt weak
+13791008||felt weak
+449614009||swelling thighs
+49218002||pain of the hip joint
+49218002||pain of the hip joint
+249472009||extreme hunger
+249472009||extreme hunger
+277890004||toes swell up
+161873000||heaviness in the legs
+440630006||irritable bowel syndrome of the sigmoid area and descending colon with obstipation and constipation
+440630006||irritable bowel syndrome of the sigmoid area and descending colon with obstipation and constipation
+415692008||bunion
+62507009||very painful pins and needles over entire foot
+247373008||terrible pain in my ankles
+95891005||flu like symtoms
+307077003||hopelessness
+307077003||hopelessness
+80449002||weariness of the leg muscles
+80449002||weariness of the leg muscles
+68962001||pain muscle
+68962001||pain muscle
+102556003||pain in my arms
+22298006||heart attacks
+22298006||heart attacks
+309838005||emotional
+309838005||emotional
+35209006||sensitivity
+202855006||lateral epicondylitis
+4171011000036100||celebrx
+443892003||neuroma
+267953003||sore leg joints
+102938007||hand writting had deteriorated
+76948002||servere pain
+62507009||tingling in my fingers
+62507009||tingling in my fingers
+228158008||difficult to walk
+8708008||major sharp pain in the side
+26544005||inflammatory muscle weakness degeneration
+299954009||weird tight feeling in my head
+299954009||weird tight feeling in my head
+399269003||arthropathy
+288939007||trouble swallowing
+301345002||hard to sleep
+301345002||hard to sleep
+95891005||flu like syptoms
+69896004||rheumatoid arthritis
+288226003||muscle pain in the shoulder
+63102001||eyesight problems
+162076009||general weakness
+202882003||severe plantar faciitis
+249966004||head has been twitching
+249966004||head has been twitching
+286641001||extreme moodiness
+64531003||runny nose
+64531003||runny nose
+247373008||ankle hurt
+37796009||migranes during sexual intercourse
+166830008||cholesterol has been high
+246636008||blury vision
+24184005||blood pressure slightly elevated
+24184005||blood pressure slightly elevated
+404640003||dizzyness
+288231001||muscle pain in legs
+90708001||damaging my kidneys
+3589011000036101||ezetrol
+166717003||cpk elevated
+250084002||cramping in both calves
+45326000||painful shoulder
+166584001||high c reactive protein level
+118932009||problems with feet
+247592009||loss of short term memory
+309539008||numb feet in toe area
+11654001||achilles tendonitis
+81680005||very sore neck
+81680005||very sore neck
+162076009||gassy
+18101008||gurgling stomach
+18101008||gurgling stomach
+51590001||head pressure
+21659011000036107||gemfibrozil
+55145008||stabbing pain between shoulder blades
+86651002||pulse is still extremely high
+202472008||painful inflamation of knuckles
+300306001||stomach problem
+6020002||athlete s foot
+6020002||athlete s foot
+397541004||vision severe impairment
+299060006||fingertips got puffy
+299060006||fingertips got puffy
+426899007||pain trying to walk
+166830008||cholestrol went up dramatically
+283050005||eyes microabrasions on
+34436003||hematuria
+34436003||hematuria
+74323005||elbow pain
+74323005||elbow pain
+373932008||feel hot
+214264003||leathargy
+161891005||back and hip pain
+161891005||back and hip pain
+202855006||tennis elbow type pain
+202855006||tennis elbow type pain
+53057004||very severe pain in hands
+300954003||lower leg pain
+7011001||halucinations
+419723007||mental fog
+131078003||decreased testosterone
+420103007||watery
+76948002||extreme pain in back
+76948002||major stomach pain
+161903000||dificult to stand or walk for too long
+75088002||urge to urinate
+75088002||urge to urinate
+55300003||mussel spasms
+3877011000036101||lipitor atorvastatin
+277521002||drive is knocked down
+88092000||atrophy
+30989003||knees hurt
+418363000||pruritus
+418363000||pruritus
+236620008||infections of the blader
+236620008||infections of the blader
+449918009||severe leg muscle cramps
+301345002||could not sleep well
+301345002||could not sleep well
+299110002||finger joint locking
+49218002||sore hip tightit band
+165247006||walking up the stairs was intolerable
+165247006||walking up the stairs was intolerable
+8357008||lack libido
+8357008||lack libido
+162076009||general weakness in my hands
+26544005||muscles had become weak and stressed
+309086004||hands tingle
+309086004||hands tingle
+67849003||excruciatig pain
+21911011000036104||glyburide
+24700007||ms
+24700007||ms
+8510008||i can t stand or walk for any lengths of time
+8510008||i can t stand or walk for any lengths of time
+301717006||right upper quadrant abdominal pain
+297142003||lumpy swelling on both feet in same place on each
+166848004||high triglycerides
+18876004||fingers hurt
+18876004||fingers hurt
+55300003||horrific cramps
+55300003||horrific cramps
+279084009||chest discomfort
+285395009||calf muscle strains
+82991003||mild aches
+82991003||mild aches
+81680005||neck pain up to the back of the head
+81680005||neck pain up to the back of the head
+43005009||shufflihg gait
+76948002||severe pain in both calfs
+284151004||unable to move leg
+309521004||numbness hands
+76948002||severe pain in the neck
+373932008||feels hot
+449614009||legs feel swollen
+361122008||partial loss of sight
+26329005||thinking problems
+26329005||thinking problems
+162076009||general feeling of weakness
+162076009||general feeling of weakness
+56265001||coronary disease
+287047008||extreme ache in left leg
+37714011000036108||zinc
+228158008||difficulty picking my feet up
+228158008||difficulty picking my feet up
+161903000||unable to stand
+314109004||feel tired
+13791008||constantly weak
+13791008||constantly weak
+38341003||elevated bp
+38341003||elevated bp
+699376002||lips started to swell
+420038007||veneer of sadness
+420038007||veneer of sadness
+247592009||short term memory dysfunction
+10601006||leg soreness
+49727002||cough
+23924001||feel like a bubble of air is stuck in my chest
+23924001||feel like a bubble of air is stuck in my chest
+246975001||yellow eyes
+246975001||yellow eyes
+16001004||ear aches
+16001004||ear aches
+249938007||weakness in upper back
+249472009||constant hunger
+249472009||constant hunger
+62507009||tingling in the neck
+62507009||tingling in the neck
+449917004||severe leg cramping
+449917004||severe leg cramping
+45326000||shouldar ache
+386807006||memory weakened
+386807006||memory weakened
+48532005||muscle strain
+386705008||light headed
+386705008||light headed
+166892002||high sugar attack
+284140004||couldn t use my arm
+12584003||bone pain
+284143002||could not raise my arms
+309521004||prickling numbness in hand
+267953003||joint aches in calves
+40144003||stiff upon waking
+54981004||charley horses
+289195008||slurred speach
+76948002||severe leg muscle pains
+24199005||agitation
+24199005||agitation
+45326000||pain in the back in shoulder muscles
+425423002||hurt to stand
+44077006||numb
+10601006||legs are killing me
+10601006||legs are killing me
+77424011000036100||co enzyme q
+271681002||pain in stomach
+420038007||sadness
+420038007||sadness
+70153002||hemorrhoids
+70153002||hemorrhoids
+57676002||painfull stiff joints
+57676002||painfull stiff joints
+373931001||extreme heaviness in limbs
+161876008||neck swollen
+59050008||initial insomnia
+191736004||bad ocd
+267950000||arm joints sore
+444899003||pain in my forearms
+8510008||could barely get out of bed in the morning
+8510008||could barely get out of bed in the morning
+309774006||muscle weakness in my legs
+271681002||stomache aches
+48532005||muscle pull
+48532005||muscle pull
+308921004||neuro symptoms
+26329005||concentration is poor
+161891005||back muscle pain in the
+161891005||back muscle pain in the
+26889001||muscle inflammation
+26889001||muscle inflammation
+419723007||mind was starting to deteriorate
+419723007||mind was starting to deteriorate
+76948002||severe pain close to my the crotch area
+193462001||cant sleep
+193462001||cant sleep
+162076009||general stomach upset feeling
+162076009||general stomach upset feeling
+309249007||loss of muscle strenth mainly calves
+361138002||erratic heart beat
+228158008||limits my ability to walk
+30989003||pain in knees
+301345002||lousy sleeping at night
+214264003||lethargic
+214264003||lethargic
+82272006||common cold
+7011001||halucinations during day
+288231001||muscle pain in the leg
+297217002||ribs hurt
+80449002||tiredness in leg
+80449002||tiredness in leg
+225014007||empty stomach feeling
+38013005||decreased immune system
+22193007||osteoarthrosis of hand
+79890006||loss of apetite
+26079004||right hand tremor
+230690007||mini strokes
+230690007||mini strokes
+55929007||crabby
+55929007||crabby
+271795006||feel weak and almost fainted
+262286000||added weight
+81680005||pain in my neck
+81680005||pain in my neck
+22253000||pain in every muscle
+449917004||cramping events in my legs
+449917004||cramping events in my legs
+193462001||insomina
+30989003||pain in knee
+29542008||severe uterine cramping
+45291000168107||effexor
+309774006||weakness in his knees
+288231001||soreness in calf muscles
+95421005||muscles pain on the left side of my chest
+397540003||slip in vision
+397540003||slip in vision
+83421005||could not lose weight even exercising and eating healthy food
+83421005||could not lose weight even exercising and eating healthy food
+3080011000036109||tylenol
+26544005||strength decrease dramatically
+26544005||strength decrease dramatically
+247323005||tightness in my throat
+76948002||severe muscle pain especially in lower calfs of both legs
+33308003||bad back
+43498006||fluid retention
+428724006||failed knee joits
+428724006||failed knee joits
+278528006||face had swollen up
+278528006||face had swollen up
+162352007||ringing in my ears
+162076009||gastric upsets
+37787011000036104||vitamins a
+55300003||severe muscle cramps
+55300003||severe muscle cramps
+48500005||paranoid
+57676002||achy joints
+57676002||achy joints
+12063002||rectal bleed
+12063002||rectal bleed
+309521004||hands are somewhat numb
+422587007||stomach queasy
+203095000||horrible back spasms
+47933007||feet hurt
+26544005||lost all the strength in my muscles
+26544005||lost all the strength in my muscles
+48926009||joint pain in spine
+314983004||kidney function became a problem
+289621007||something wrong with my uterus
+289621007||something wrong with my uterus
+56273005||muscle function irregularities
+75183008||abnormal liver function
+21486011000036105||ultram
+161891005||muscular pain in the back
+161891005||muscular pain in the back
+36630001||deep pain like gas pains
+76948002||severe pain shoulder
+59050008||cannot get to sleep on my own
+59050008||cannot get to sleep on my own
+248274002||decreased energy
+161891005||back soreness
+161891005||back soreness
+76948002||gut wrenching pain
+76948002||gut wrenching pain
+54981004||charley horses in calves
+38936003||bp problems
+367391008||i didn t feel right
+367391008||i didn t feel right
+285397001||right arm is tight
+24184005||high blood pressure
+24184005||high blood pressure
+284252000||can t make a fist
+15336001||cold extremities
+246682000||blood clots that traveled to my eye
+386807006||couldnt remember anything
+386807006||couldnt remember anything
+88092000||shrinking muscels leg
+88092000||shrinking muscels leg
+68962001||deep muscle pain
+68962001||deep muscle pain
+55300003||mussel cramps
+55300003||mussel cramps
+162076009||gi difficulties
+162076009||gi difficulties
+83547004||cold sweat shaking uncontrollably
+267064002||difficulty urinating
+267064002||difficulty urinating
+36955009||taste loss
+162076009||extreme gas in stomach and intestines
+37796009||worse migraines
+102480002||felt like a truck hit me
+102480002||felt like a truck hit me
+309249007||loss of support in calf musells
+449917004||spasms in leg muscles
+45326000||muscle aches in my shoulders
+250084002||cramping in calf
+32914008||restlessness in my legs
+76948002||extreme pain in shoulders
+310501001||numbness tingling aching heavy feeling in limps
+310501001||numbness tingling aching heavy feeling in limps
+31911000168108||rhinocort
+21304011000036105||naproxen sodium
+73589001||pain from the herniated discs
+73589001||pain from the herniated discs
+247441003||erythema
+161891005||back aches
+161891005||back aches
+81680005||neck muscle pain
+81680005||neck muscle pain
+9991008||abdominal cramps and pain
+9991008||abdominal cramps and pain
+125667009||bruising problems
+125667009||bruising problems
+56265001||heart problems
+102551008||serious feet cramping
+102551008||serious feet cramping
+309774006||weak wobbley knees
+249898006||move slow
+10601006||pain in my lower legs
+228148009||inability to perform fine motor skills
+228148009||inability to perform fine motor skills
+102480002||severe upper body pain
+52702003||severe chronic fatigue
+193462001||sleepless nites
+193462001||sleepless nites
+77692006||hypersomnia
+248277009||reduced stamina
+76948002||severe pain muscles
+49218002||pain in my hips
+309774006||weakness in the calves
+162076009||gastritis
+53057004||pain in hands
+8357008||taking one s appetite for sex away
+8357008||taking one s appetite for sex away
+21322011000036108||istin amlodipine
+443120002||inflammed ligaments
+22253000||so much pain
+77692006||sleep alot
+77692006||sleep alot
+68962001||muscles pain
+68962001||muscles pain
+47004009||speech problems
+47004009||speech problems
+29164008||loss of speech
+29164008||loss of speech
+21747011000036106||glcotrol
+417237009||blisters
+266257000||tia
+266257000||tia
+228158008||couldn t walk across the room
+228158008||couldn t walk across the room
+60032008||could nt concentrate
+250069006||tightness in legs
+68962001||muscles pains
+68962001||muscles pains
+267044007||exhaustion after exercise
+301345002||inability to sleep well
+301345002||inability to sleep well
+301676004||dosent want to get out of bed
+3530011000036104||lopid gemfibrozil
+271801002||altered taste
+10743008||ibs
+10743008||ibs
+161882006||neck stiffness
+161882006||neck stiffness
+246636008||very very blurry vision
+425423002||turning in bed is painful
+425423002||turning in bed is painful
+247373008||pain in ankles
+419723007||not as smart as i use to be
+3877011000036101||litpitor
+3904011000036106||zorcor
+76948002||severe leg muscle pain
+193093009||bell s
+228158008||could hardly walk
+228158008||could hardly walk
+449917004||muscle spasms in leg
+53741008||blockage of the lad
+53741008||blockage of the lad
+373931001||felt like i was walking though sludge
+373931001||felt like i was walking though sludge
+76948002||extreme pain in thigh muscles
+213257006||feeling sick
+213257006||feeling sick
+162020001||chewing swallowing difficulties like biting my tongue and inside my cheek
+3736011000036100||avandia
+161891005||wicked back pain
+161891005||wicked back pain
+77692006||high sleep requirement
+77692006||high sleep requirement
+279038004||back pain upper
+22253000||worst pain i have ever experienced
+213257006||felt rotton all day long
+213257006||felt rotton all day long
+279039007||pain in my lower back
+131148009||bled heavily
+36031001||burning in the soles of my feet
+68962001||very bad muscle pain
+68962001||very bad muscle pain
+55260003||heel spurs
+48926009||spinal pain
+24199005||extreme agitation
+24199005||extreme agitation
+162076009||gas wind
+162076009||gas wind
+309774006||weak wobbley ankles
+25064002||severe headaches
+39400004||liver injury
+39400004||liver injury
+202480001||aching joints elbows
+102551008||feet are cramping
+102551008||feet are cramping
+62507009||tingly hands
+62507009||tingly hands
+21286011000036106||co codamol
+69813011000036107||glucosamine sulfate
+247464001||blistering rash
+21605011000036100||medrol
+271832001||diarreah cramping
+248255005||inability to sleep
+248255005||inability to sleep
+102480002||had pains throughout my upper body
+54981004||charley horse in my side
+288225004||very intense muscle pain with burning from the middle of my back and around my ribs to the center of my chest
+73595000||stressed
+309086004||tingeling in fingers
+309086004||tingeling in fingers
+422400008||throw up
+422400008||throw up
+6471006||thoughts about suicide
+50219008||hoarse voice
+50219008||hoarse voice
+288226003||muscle pain related to shoulders
+235856003||wrong with my liver
+235856003||wrong with my liver
+56925008||sexual dysfunction
+76948002||severe muscle pains
+25064002||bad headache
+267949000||joint pain in my shoulders
+47933007||feel achy
+103002009||sensation of hot and cold
+45326000||aches and pain in both shoulders
+282180007||couldn t climb stairs
+225624000||mild panic attack
+80313002||palpatations
+247373008||ankles started aching
+90673000||burning feeling
+90673000||burning feeling
+2531000168109||tums
+267036007||short of breath
+267036007||short of breath
+44077006||numbness on left side
+47933007||pain in feet and legs
+76948002||pain was too severe
+102491009||highly immobile
+289195008||slurring in speech
+56317004||alopecia
+67849003||excruciating pain in neck
+49049000||parkinson s
+55300003||knotting muscles
+32798002||symptoms of parkison s disease
+32798002||symptoms of parkison s disease
+50219008||hoarseness coughing
+50219008||hoarseness coughing
+47933007||my feet feel like i have stone bruises just in front of the heel
+309538000||numbness in my feet
+300954003||calf muscles painful to touch
+300954003||calf muscles painful to touch
+44054006||type2 diabetes
+44054006||type2 diabetes
+62507009||in arms tingling
+62507009||in arms tingling
+8708008||sharp pain shoulder
+166643006||liver enzymes elevated
+95570007||kidney stone
+95570007||kidney stone
+21005005||burning in my stomach
+47933007||sore feet
+228148009||loss of fine motor skills
+228148009||loss of fine motor skills
+8357008||loss of sexual desire
+8357008||loss of sexual desire
+288231001||leg muscle inflamed
+267044007||impaired my ability to exercise
+57676002||sore joints
+57676002||sore joints
+45352006||spasms all throughout my legs
+240015000||achilles tendon tightness
+419723007||fogginess
+419723007||fogginess
+80449002||tired or burning muscles
+80449002||tired or burning muscles
+85898001||significan heart muscle weakness
+85898001||significan heart muscle weakness
+68962001||muscles ached
+68962001||muscles ached
+288228002||muscle soreness in my forearms
+81680005||neck muscle pain in the
+81680005||neck muscle pain in the
+22253000||it hurts
+22253000||it hurts
+419723007||mental fogginess
+419723007||mental fogginess
+26544005||loss of support in all muscels in particular calf and leg
+124054003||high cholesteral
+82991003||ached all over especially in legs
+82991003||ached all over especially in legs
+282145008||can t walk
+76948002||severe muscle pain in shoulders
+131148009||bleeding inside
+76948002||extreme right shoulder pain
+193031009||cluster headaches
+67849003||excruciating pain in shoulders
+77692006||excessive sleep requirements
+77692006||excessive sleep requirements
+60238002||muscle twitching
+69867011000036102||caffeine
+63102001||vision is giving me problems
+55145008||stabbing pain above a knee
+202855006||tennis elbow
+202855006||tennis elbow
+118932009||other foot problems
+45326000||pain in the shoulder
+95847005||injury of muscle
+21465011000036101||lisinopril
+22253000||worse pain
+161891005||pain in my abdomen
+161891005||pain in my abdomen
+37567005||my sense of well being has taken a sudden decline
+37567005||my sense of well being has taken a sudden decline
+247640008||loss of coherent thought
+247640008||loss of coherent thought
+267073005||suicidal
+289530006||bleeding from the vagina
+289530006||bleeding from the vagina
+51197009||stomach trouble or cramps
+70323002||sight gets tired
+70323002||sight gets tired
+418290006||itchy hands
+418290006||itchy hands
+309087008||sensations of tingling in my feet
+309087008||sensations of tingling in my feet
+16386004||skin is so dry
+24184005||raised blood pressure
+24184005||raised blood pressure
+271873000||senile
+419723007||feeling of being in a fog
+419723007||feeling of being in a fog
+77424011000036100||coenzyme q10
+238131007||overweight
+399153001||vertigo like symptons
+59927004||liver failure
+59927004||liver failure
+102480002||felt like i had been run over by a truck
+102480002||felt like i had been run over by a truck
+76948002||severe back pains
+55929007||very grouchy
+55929007||very grouchy
+419723007||in a fog
+288332005||limits my ability lift anything
+288332005||limits my ability lift anything
+286755001||impatient
+3848011000036104||provachol
+30989003||joint pain in knee
+30989003||joint pain in knee
+249477003||every 3 hrs drinking water
+249477003||every 3 hrs drinking water
+309537005||numbness in both legs
+10601006||developed sore legs
+246636008||blurring vision
+162290004||eyes are so dry
+76948002||pain is so intense
+103002009||freezing cold like arms plunged into freezing water then burning sensations
+103002009||freezing cold like arms plunged into freezing water then burning sensations
+9991008||intestinal stomach pain
+9991008||intestinal stomach pain
+76948002||severe muscle pain in calves
+34436003||blood clots in urine
+34436003||blood clots in urine
+271870002||low bp
+77424011000036100||coq
+60032008||inability to concentrate
+84480002||dry heaves
+84480002||dry heaves
+73211009||diabetes mellitus
+45352006||spasms in upper thighs
+271807003||rush all over my face
+271807003||rush all over my face
+60862001||tintinitus
+12063002||rectal bleeding
+12063002||rectal bleeding
+225610004||joint stiffness in feet
+22253000||pain so bad
+315224006||heavy vaginal bleeding
+95891005||i felt like i always had the flu
+60032008||not concentrating well
+60032008||not concentrating well
+25064002||head pain
+25064002||head pain
+24184005||increase in blood pressure
+166643006||elevated liver enzymes
+45326000||b l shoulder pain
+26329005||difficulty concentratiing
+88092000||muscles have diminished
+88092000||muscles have diminished
+30989003||pain in both knees
+161891005||constant back pain
+161891005||constant back pain
+26929004||alzheimers
+116289008||tummy bloating
+397540003||visual impairment
+247373008||sore and stiff ankles
+57676002||finger joint pain similar to arthritis
+57676002||finger joint pain similar to arthritis
+45326000||shoulder pain was unbearable
+282145008||not being able to walk
+52754008||frequent menstral periods
+52754008||frequent menstral periods
+282299006||loss of balance
+282299006||loss of balance
+202482009||joint pain in wrist
+39423001||stuttering
+39423001||stuttering
+88092000||muscle atrophy legs
+281794004||viral upper respiratory infection
+235856003||live damage
+68962001||painful muscles
+68962001||painful muscles
+161873000||leg heaviness
+76948002||severe muscle pain in my shoulders
+21296011000036107||aciphex
+309538000||numbness in toes
+418648005||black outs
+310497006||extreme depression
+26413003||unmotivated
+449918009||cramping in my lower legs
+426965005||canker sores
+426965005||canker sores
+62507009||tingly
+62507009||tingly
+16973004||significant limp
+16973004||significant limp
+79890006||lack of appetite
+79890006||lack of appetite
+271832001||gas pains around my abdomen
+426206001||constint shoulder pain
+10601006||aches in legs
+21606011000036107||pravastatin
+73589001||herniated discs
+73589001||herniated discs
+62315008||bathroom with the runs
+62315008||bathroom with the runs
+44548000||hyperactive
+44548000||hyperactive
+57676002||pain in major joints
+57676002||pain in major joints
+62507009||pins and needles feeling
+82991003||whole body hurts
+82991003||whole body hurts
+49218002||hip pains
+31384009||polymyositis
+367391008||general malaise
+88092000||lost a lot of muscle and replacedit with fat
+88092000||lost a lot of muscle and replacedit with fat
+25064002||dull headaches
+371405004||eye problem
+371405004||eye problem
+271587009||body stiffness
+80449002||in the triceps arm fatigue
+22253000||increasing pain
+309538000||numbness in left foot
+21520011000036107||misoprostol
+14151009||senistivity in the palms and soles of my feet
+14151009||senistivity in the palms and soles of my feet
+42984000||night sweats
+3848011000036104||provacal
+18876004||pain in finger
+22253000||soreness
+299933002||vibrating sensation
+67233009||fitfull sleep
+67233009||fitfull sleep
+250069006||constant muscle tension in legs
+431416001||menstrual cramps
+82991003||pain throughout my body
+82991003||pain throughout my body
+288230000||muscle pains in my hips
+55929007||a lot grouchier
+55929007||a lot grouchier
+202852009||acute shoulder tendonitis
+399153001||severe vertigo
+3253007||black and blue marks
+3253007||black and blue marks
+76000011000036107||vit b complex
+127354003||elevated urine albumin
+931804011000036107||omega 3 fish oil
+419723007||foggy headedness
+419723007||foggy headedness
+418648005||blackout
+1402001||scared feeling
+1402001||scared feeling
+18193002||hypochondriac
+18193002||hypochondriac
+80449002||muscel fatigue
+267949000||aching joints shoulders
+282180007||could not walk up the stairs
+275921007||itch on my head
+40917007||very confused
+40917007||very confused
+309774006||muscle weakness in plantar muscle
+161891005||pain in the back
+161891005||pain in the back
+282145008||could not walk for three weeks
+129565002||severe myopathy
+274663001||sudden horriable grabbing pain in one ankle
+55222007||tender breasts
+418290006||intolerable itching
+26544005||weakness in muscles
+931804011000036107||omega iii
+267052005||flatulence
+26544005||losing strength
+26544005||losing strength
+421262002||swollen tongue
+166830008||cholesterol is high
+418290006||very severe itching
+449917004||toe cramps
+73211009||diabetic
+26329005||poor concentration
+129565002||recks my muscles severly
+129565002||recks my muscles severly
+202480001||joint aches in elbows
+82991003||aching like the flu
+82991003||aching like the flu
+161873000||lead legs
+56731001||tightening of neck muscles
+56731001||tightening of neck muscles
+57676002||joint ache
+57676002||joint ache
+50829006||learning problems
+289001005||unable to feed himself
+425423002||leg muscles painful to light pressure
+62507009||finger pins and needles
+274279008||pain in my kidney area
+274279008||pain in my kidney area
+249915009||stiffness in hands
+80313002||heart palputations
+61372001||rage
+49218002||pains through my hips
+271681002||stomach aches
+36031001||heel is hot
+30989003||sore knee
+309538000||numbing of my feet
+309538000||numbing of my feet
+76948002||severe pain in hips
+282180007||could not walk up stairs with anything in my hands more than about 5 10 lbs
+4230011000036107||zestril
+299322007||knee swells
+16386004||persistent dry skin spots
+309086004||tingling hands
+309086004||tingling hands
+162059005||severe stomach upset
+80449002||muscle weariness in legs
+80449002||muscle weariness in legs
+47933007||pain in their feet
+274676007||arms started tingling
+399153001||vertigo like attack
+55300003||severe muscle spasms in my legs
+55300003||severe muscle spasms in my legs
+285365001||toes hurt
+285365001||toes hurt
+77424011000036100||q10
+298941006||swelling of wrist joint
+286387000||words would not form
+162116003||5 6 times at night to pee normally 1 or 2
+162116003||5 6 times at night to pee normally 1 or 2
+102617004||swelling of throat
+45352006||spasms in left arm
+30811009||esofogual uclers
+30811009||esofogual uclers
+1402001||scared to death
+1402001||scared to death
+278040002||hair losss
+309774006||legs were so weak and tired
+282926000||could not lie on either side in bed
+404640003||dizziness fainting spells
+161891005||aches and pains in my back
+161891005||aches and pains in my back
+26544005||no strength
+26544005||no strength
+10001005||septicaemia
+10001005||septicaemia
+301676004||difficult for me to get out of bed
+56265001||heart issues
+309086004||losing the feeling in his right hand
+309086004||losing the feeling in his right hand
+228158008||couldn t walk
+228158008||couldn t walk
+6206011000036109||lipitor 40 mg
+45352006||bad cramps
+26329005||trouble concentrating
+424372002||edema swelling of the hands feet legs
+424372002||edema swelling of the hands feet legs
+286755001||less patience
+35678005||severe polyathralgia in leg joints
+35678005||severe polyathralgia in leg joints
+110288007||tender joints
+110288007||tender joints
+55300003||increase in cramping
+55300003||increase in cramping
+288231001||slight muscle soreness in legs
+162076009||general muscle weakness
+299377003||knee joint painful on movement
+8357008||decreased libdo
+8357008||decreased libdo
+34436003||urine full of blood
+34436003||urine full of blood
+57676002||minor joint soreness
+57676002||minor joint soreness
+10601006||pain cramps in both my legs
+23388006||blind spot
+23388006||blind spot
+240131006||rhabdomyolosis
+448589005||severe swolen inflamation of the fingers hand
+448589005||severe swolen inflamation of the fingers hand
+77436011000036106||fish oils
+161874006||feet felt like led
+288231001||debilitating muscle pain in my legs
+76948002||extreme pain in neck
+80449002||legs are very weak
+80449002||legs are very weak
+24199005||agitated
+24199005||agitated
+76948002||extreme ache in left arm
+399153001||vertigo like episodes
+32402008||muscle cramps in face
+271782001||hard to stay awake
+271782001||hard to stay awake
+246636008||very blurred vision
+95891005||flu like malaise
+95891005||flu like synptoms
+267052005||horrible gas
+285365001||pain in toes and feet
+22253000||extra pains
+274663001||sudden knee pain
+288335007||could hardly lift a glass
+386033004||neurophathy
+77436011000036106||fish oil capsules
+162076009||gerd
+162076009||gerd
+10601006||lower legs hurt
+10601006||pain in my legs
+26413003||felt lazy
+22325002||walk a little funny
+22325002||walk a little funny
+285305004||spots on my body
+285305004||spots on my body
+248262001||wanted to sleep all of the time
+3080011000036109||tylonol
+386692008||clotting and horrible periods
+386692008||clotting and horrible periods
+186748004||active parvovirus infection
+161891005||pains back
+161891005||pains back
+271787007||collapse
+247323005||tightness of throat
+418290006||extreme itching on legs and arms
+45326000||pain in my shoulders
+424196004||jittery
+424196004||jittery
+424196004||nervousness
+424196004||nervousness
+21343011000036103||atorvastatin
+298753001||numbness on left arm
+68962001||soreness in muscles
+68962001||soreness in muscles
+80182007||timing off for a true period
+80182007||timing off for a true period
+271832001||gas pains
+422587007||slight nausea
+36971009||sinus infection
+1806006||abdominal rash
+1806006||abdominal rash
+228158008||can hardly walk
+228158008||can hardly walk
+95673003||left shoulder tingles
+95673003||left shoulder tingles
+26544005||mussel weakness
+246636008||fuzzy vision
+76948002||severe pain in my thighs
+307074005||feel drugged
+309087008||toe tinglingling
+309087008||toe tinglingling
+55300003||muscle cramping
+3877011000036101||liptitor
+288230000||muscle pain in thighs
+279039007||muscle pain lower back
+247592009||short term memory lacking
+203095000||muscle cramps in ribs
+88092000||losing muscle
+88092000||losing muscle
+300956001||pulled my lower back
+47933007||pain in bottom of feet
+118940003||nervous system problems
+118940003||nervous system problems
+77692006||only wanted to sleep
+77692006||only wanted to sleep
+54981004||charley horse in one or both breasts
+225610004||arm stiffness
+247347003||discomfort in my left hand
+225609009||left leg below the knee experienced stiffness
+248256006||couldn t get enough sleep
+285849008||short tempered
+285849008||short tempered
+16046003||tightened muscles in neck
+278040002||hair loss diffuse alopecia
+7501002||serial lactic acid levels consitently well above normal range
+162351000||buzzing in both ears
+281016006||poor coordination while walking
+239873007||severe osteoarthritis in the knees
+57676002||painful inflammed joints
+57676002||painful inflammed joints
+26544005||muscles feel like a wet dish rag
+424131007||easy bruising
+367391008||malaisse
+25064002||headace
+76948002||severe pain in both thighs
+84017003||inflammed bursae
+84017003||inflammed bursae
+192085004||violent anger
+225508006||self loathing
+81680005||pain in neck and shoulders
+81680005||pain in neck and shoulders
+387603000||lost some body balance
+387603000||lost some body balance
+699368004||weird symptoms eg popping in ankle
+86651002||pulse was high
+16973004||hobbling around
+16973004||hobbling around
+444827008||skin was all red
+161722004||increased menstrual blood flow
+26079004||tremors although the body
+84229001||feeling exausted
+84229001||feeling exausted
+69322001||psychotic disorder
+274667000||tmj pain
+372283008||breasts getting more and more and more
+372283008||breasts getting more and more and more
+301345002||hard time sleeping
+8510008||could only walk less than 100 meters
+81680005||neck and shoulders ache
+81680005||neck and shoulders ache
+277521002||lack of enthusiasm
+422587007||extreme nausea
+38341003||elevated bloodb pressure
+38341003||elevated bloodb pressure
+76948002||severe pain in the muscles in the shoulder area
+161898004||falling over
+21719011000036107||asprin
+387603000||balance off
+387603000||balance off
+387603000||off balanced ness
+387603000||off balanced ness
+37796009||migraines
+28743005||productive cough
+418363000||itching of the skin
+81498004||bursitis of hip
+76948002||severe back and hip pain
+75088002||urge to urinate constantly
+75088002||urge to urinate constantly
+298170003||knee inflammation
+63901009||sore left testicle
+63901009||sore left testicle
+105504002||had to use a cane to walk
+105504002||had to use a cane to walk
+76948002||severe back pain
+81680005||pain in neck
+81680005||pain in neck
+386807006||couldn t remember where i left my dog 10 minutes before
+386807006||couldn t remember where i left my dog 10 minutes before
+62507009||tingling legs
+62507009||tingling legs
+77547008||degenerative disk
+77547008||degenerative disk
+62507009||tingling in arms
+62507009||tingling in arms
+363406005||colin cancer
+363406005||colin cancer
+237130006||vaginal bleeding and i am only 11 days into my cycle
+237130006||vaginal bleeding and i am only 11 days into my cycle
+62315008||diarrhoa
+6142004||flu bug
+6142004||flu bug
+55300003||severe cramps
+55300003||severe cramps
+2733002||painful heels
+76948002||severe joint pain in the shoulders
+271585001||cold toes and feet
+32914008||attack of restless leg syndrome
+32914008||attack of restless leg syndrome
+55300003||cramping feeling
+55300003||cramping feeling
+309537005||started going numb legs
+309537005||started going numb legs
+8392000||do not smoke and have never smoked
+300954003||aches in calf muscles
+25064002||severe sudden onset headache in the back of head
+82470000||fasciculations muscle twitches
+281016006||problems with coordination
+17971005||sedation
+17971005||sedation
+3475011000036104||plavix
+21545007||pain in every tendon in my body
+21545007||pain in every tendon in my body
+309256001||sensation of cold toes
+64779008||impairment in blood clotting
+64779008||impairment in blood clotting
+90708001||kidney damage
+247753000||wanting to quit everything and give up
+247753000||wanting to quit everything and give up
+193462001||moderate insomnia
+81680005||sore neck
+81680005||sore neck
+60862001||tinititis
+36971009||sinus colds
+289903006||menopausal
+289903006||menopausal
+22631008||waking felt unsteady
+279043006||pain in my buttocks
+26544005||extreme muscle weakness
+76948002||gut renching abdominal pain
+76948002||gut renching abdominal pain
+246636008||foggy vision
+32972011000036104||lyrica
+78514002||pain in both upper legs
+122481008||hammer toe
+83421005||unable to lose weight even when on strict diet
+83421005||unable to lose weight even when on strict diet
+419723007||like im in a fog all the time
+309774006||weakness in knees
+288885009||can t eat normal
+250069006||in forearms tightness
+35064005||stool was black
+35064005||stool was black
+2764000||joints poping and cracking
+2764000||joints poping and cracking
+699262001||post traumaic osteoarthritis
+44054006||type 2 diabetes
+44054006||type 2 diabetes
+224960004||zombie like tired
+162076009||general depression
+77424011000036100||co q10
+102551008||muscle cramps in feet
+102551008||muscle cramps in feet
+45352006||spasm
+13791008||week
+13791008||week
+76948002||severe muscle pain in sholder
+76948002||extrem pain in knee joints
+309774006||weakness in both legs
+129565002||muscle problems legs
+129565002||muscle problems legs
+34436003||blood began showing up in my urine
+34436003||blood began showing up in my urine
+55300003||cramped
+55300003||cramped
+95677002||disorder of vision
+161891005||back discomfort
+161891005||back discomfort
+74323005||elbow painful
+74323005||elbow painful
+67849003||crippling back pain
+67849003||crippling back pain
+79395009||hair dryness
+267949000||aching in shoulders
+302226006||peripheral neuropathy in my hands
+419723007||feel like an airhead
+271594007||fainting spells
+271594007||fainting spells
+247640008||fuzzy headed
+247640008||fuzzy headed
+425423002||moving in bed is painful
+425423002||moving in bed is painful
+419581008||vivid weird dreams
+23056005||sciatica
+59050008||can t get to sleep
+59050008||can t get to sleep
+37340000||mnd
+37340000||mnd
+267064002||couldn t urinate
+30989003||joint pain knees
+30989003||joint pain knees
+82991003||deep ache from my waist down to the heels of my feet
+82991003||deep ache from my waist down to the heels of my feet
+309774006||arms weak
+82991003||everything hurts
+82991003||everything hurts
+225473001||negative about everything in my life
+274665008||irretractable lower back pain
+60238002||muscles quivering
+60238002||muscles quivering
+8943002||gaining excess weight
+78514002||pain in my thighs
+26544005||went down muscles
+82991003||hurt every where
+82991003||hurt every where
+84445001||stiff swollen joints
+84445001||stiff swollen joints
+72405004||appetite increase
+301345002||sleep loss
+301345002||sleep loss
+200936003||lupus pain
+200936003||lupus pain
+228158008||could not even walk in the morning
+228158008||could not even walk in the morning
+57676002||chronic pain in all my joints
+57676002||chronic pain in all my joints
+14151009||senistivity in scalp
+14151009||senistivity in scalp
+271599002||mellows me out
+271599002||mellows me out
+76948002||pain severe
+3424008||increase my heart rate
+3424008||increase my heart rate
+161873000||my legs became lead
+49218002||hip soreness
+202482009||wrist joints sore
+166892002||spike in my blood sugar
+90673000||burning of ankles
+84229001||constant fatigue
+47933007||pain in left foot
+68962001||debilitating muscle pain in my back
+68962001||debilitating muscle pain in my back
+236071009||chronic diarrhea
+236071009||chronic diarrhea
+271587009||general body stiffness
+267039000||swelling in one ankle
+267039000||swelling in one ankle
+62507009||tingling extremities
+62507009||tingling extremities
+449917004||leg foot cramps
+278040002||hair has started falling out
+278040002||hair has started falling out
+237130006||vaginal bleeding when it was not time for my period
+287047008||pain in my my left leg
+76742009||little vaginal bleeding in spite of being menopausal for 10 years
+26677001||disturbed sleep patterns
+26677001||disturbed sleep patterns
+102572006||severe edema of lower extremities
+102572006||severe edema of lower extremities
+21662011000036107||metoptolol
+3723001||sever arthritic condition
+386807006||couldn t remember who i had dinner with last night
+386807006||couldn t remember who i had dinner with last night
+26544005||significant strength reduction
+26544005||significant strength reduction
+55300003||very severe cramps
+55300003||very severe cramps
+80313002||heart palpatations
+224960004||extremely tired
+247464001||rash with blisters
+309774006||leg support weak
+37796009||worse headache than usual i have migraine
+72405004||increase appetite
+57406009||carpal tunnal
+57406009||carpal tunnal
+309774006||leg weakness
+314642004||intermittent pain
+47933007||feet pain
+398114001||eds
+267032009||feeling tired all the time
+37703011000036109||darvacet
+162076009||gi hemmorage
+162076009||gi hemmorage
+286369003||unable to speak
+309774006||weaknesses in my legs
+80690008||neurological problems
+429783005||lost most of my feeling in feet legs and hands
+429783005||lost most of my feeling in feet legs and hands
+77424011000036100||cq10
+49727002||cough heavily
+367391008||felt just strange
+367391008||felt just strange
+24184005||increased bp
+129565002||muscle issues
+129565002||muscle issues
+90673000||burning sensations in upper chest
+68962001||muscule pain
+68962001||muscule pain
+74323005||pain in elbows
+235856003||damaged his liver
+235856003||damaged his liver
+18963009||mood changes
+18963009||mood changes
+30989003||aching joints knees
+30989003||aching joints knees
+278040002||losing my hair
+299060006||fingers are swollen
+299060006||fingers are swollen
+161873000||legs feel leaden
+47933007||pain in foot
+224960004||more tiered
+35489007||growing depression
+183202003||felt like shin splints
+301660008||difficulty getting up out of a chair
+67251005||elevated liver function
+420038007||overall misery
+420038007||overall misery
+698247007||cardiac arrhythmia
+248268002||easily fatigued
+248268002||easily fatigued
+285365001||terrible pains in big toe
+224960004||so tired
+288228002||muscle pain in left arm
+45326000||pain in shoulders
+68962001||terrible muscle pain
+68962001||terrible muscle pain
+225609009||stiffness in both legs
+3080011000036109||tylenol pm
+3723001||arthritice
+21286011000036106||paracetamol codeine
+449917004||muscle cramping in leg
+449917004||muscle cramping in leg
+60032008||ability to concentrate
+102564009||edema of hands
+102564009||edema of hands
+36955009||loss of taste for salt and sugars
+225005002||quick to snap
+13791008||feeling weak
+13791008||feeling weak
+10601006||debillitating leg pain
+10601006||debillitating leg pain
+426120002||contact pain where weight presses against things
+43005009||shuffle when i walk
+300306001||stomach problems
+386807006||barely remember anything that has happened recently
+386807006||barely remember anything that has happened recently
+64226004||collitis
+162076009||bad gas
+449917004||cramping in hamstrings
+449917004||cramping in hamstrings
+13791008||felt very weak
+13791008||felt very weak
+246636008||slightly blurred vision
+309536001||numbness in all of my finger tips
+310501001||arms are always falling asleep
+310501001||arms are always falling asleep
+80449002||legs feel tired
+80449002||legs feel tired
+425423002||painful time lifting my own arm
+425423002||painful time lifting my own arm
+48532005||strained muscles
+41931001||abdominal distention feel full
+288226003||muscle pain in shoulders
+21565011000036108||ezetimibe simvastatin
+77692006||fell asleep while driving
+77692006||fell asleep while driving
+45326000||pain in my shoulder
+285365001||aching in toes
+285365001||aching in toes
+47004009||speech so bad
+47004009||speech so bad
+76948002||severe calf pain
+63102001||at times felt like i m going blind
+22631008||unsteady when walking
+13791008||drained
+230145002||hard to breathe
+116289008||bloated stomach
+422587007||nauseated
+422587007||nauseated
+228158008||struggling walking too far
+228158008||struggling walking too far
+47933007||feet pains
+57676002||chronic bone joint pain
+57676002||chronic bone joint pain
+8708008||quick sharp pain in center of chest
+300306001||stomach issues
+271832001||gas pains back
+307496006||diverticulitis
+449618007||swelling left arm
+30989003||knees aches
+68962001||severe myalgia
+3904011000036106||zochor
+298241001||feet seized up
+76948002||extreme muscle pain in arms
+267038008||edema
+267038008||edema
+30989003||in my knees joint pain
+30989003||in my knees joint pain
+134407002||chronic and acute back pain
+387603000||balance problems
+387603000||balance problems
+90708001||kidney disease
+36349006||severe burning pain in upper left arm
+397803000||impotence
+397803000||impotence
+236423003||kidney readings became bad
+250084002||severn calf cramps
+73589001||slipped vertabrae
+73589001||slipped vertabrae
+274676007||face and scalp tingling
+26329005||concentration is worse than ever
+12584003||bone joint pain
+166830008||elevated levels of cholesterol
+235856003||damaged my liver
+235856003||damaged my liver
+239965002||tendonitis in elbows
+23056005||sciatic pain
+419723007||not as sharp mentally
+26544005||lost muscular strength
+26544005||lost muscular strength
+69896004||rhuematoid arthritis
+26237000||ankle oedema
+77981007||liver was functioning at only 50
+281016006||poor coordination while walking kept bumping into things
+281016006||poor coordination while walking kept bumping into things
+271584002||cold hands
+24982008||double vision
+24982008||double vision
+193462001||mild insomnia
+386807006||affected my memory
+386807006||affected my memory
+282145008||inability to walk
+429040005||ulcerations
+444003007||damage to my shoulder joints
+314109004||extremely tired feeling
+301345002||cannot sleep
+301345002||cannot sleep
+26079004||shaky
+26079004||shaky
+288230000||glutes muscle pain in the
+609600000||leg neuropathy
+230690007||strokes
+230690007||strokes
+68962001||muscle pain over the entire body
+68962001||muscle pain over the entire body
+426206001||intense and constant pain in legs
+288939007||difficulties to swallow
+102617004||swelling in throat
+225581002||diminished eyesight
+225581002||diminished eyesight
+239720000||torn miniscus
+239720000||torn miniscus
+13791008||declining physical ability
+13791008||declining physical ability
+62315008||massive diarrhea
+62315008||massive diarrhea
+225609009||stiffness in legs
+287045000||pain has gone into my upper arm on my left side
+8357008||no sex drive
+8357008||no sex drive
+67849003||excrutiating pain
+62315008||diahrea
+62315008||diahrea
+425423002||hurt to get up
+387603000||affected my balance
+387603000||affected my balance
+21134002||disabled
+300954003||pain in both calves and thighs
+3716002||goiter
+3716002||goiter
+247373008||ankles ache so bad
+102897001||groggy
+102897001||groggy
+63102001||at times felt that i m going blind
+45326000||soreness in shoulders
+76948002||severe pain legs
+54981004||charley horses in breasts
+285395009||pulled strained calf
+285395009||pulled strained calf
+68962001||sore cheek muscles
+68962001||sore cheek muscles
+309774006||weakness in both arms
+22253000||little pain
+21317011000036101||vasotec
+162315007||obsessively focused on morbid
+60728008||abdominal swelling
+55300003||muscle knots up
+230145002||breathing difficulties
+428061005||brain cancer glial cell related cancer
+428061005||brain cancer glial cell related cancer
+272022009||feeling depressed
+308925008||difficulty with digestive system
+308925008||difficulty with digestive system
+250084002||calf leg cramps
+32970011000036103||toprol
+95891005||flu symptoms
+249544004||muscles in my lower abdomen started to contract
+429783005||reduced feeling below the knees
+429783005||reduced feeling below the knees
+250084002||calf muscle cramping
+76948002||severe pain in left shoulder
+162076009||constant gas
+247592009||short term memory disappeared
+193462001||insommnia
+11072008||abdominal problems
+80585000||very sensative to the cold
+80585000||very sensative to the cold
+29857009||chest aches
+68962001||severe muscle aches
+68962001||severe muscle aches
+304534000||crying for no reason
+21606011000036107||provastatin
+3424008||increased heart rate
+3424008||increased heart rate
+49218002||hips hurt
+48694002||anxiety issues
+247592009||short term memory affected
+95891005||feel flu like
+52702003||chronic fatigue
+284151004||unable to lift my legs
+21809011000036108||diclofenac and misoprostol
+88092000||loss of muscle mass in face
+88092000||loss of muscle mass in face
+449917004||cramping of the leg muscles
+449917004||cramping of the leg muscles
+16046003||muscles were very stiff
+16046003||muscles were very stiff
+301345002||rarely sleep well
+301345002||rarely sleep well
+84229001||unexplained fatigue
+3253007||discoloration of skin blotchy on the neck
+3253007||discoloration of skin blotchy on the neck
+55533009||forgetfulness
+47004009||dysphonia
+44564008||loss of vocal sound
+10601006||pain in the leg
+29542008||period like cramps
+13791008||lassitude
+13791008||lassitude
+35489007||depresion
+23502006||lyme disease
+21134002||disability
+297142003||swollen feet ankles
+297142003||swollen feet ankles
+309557009||numbness on left side of face
+278528006||face looks puffy
+278528006||face looks puffy
+24184005||high bp
+24184005||high bp
+53057004||hands sore
+271713000||feel shaky
+271713000||feel shaky
+35489007||unwarranted depression
+371405004||eye problems
+371405004||eye problems
+10601006||aching in legs
+10601006||aching in legs
+332982000||extreme vomiting
+162076009||glossitis
+166830008||cholesterol high
+162397003||hurts throat
+162397003||hurts throat
+62507009||tingly feeling in hands
+62507009||tingly feeling in hands
+84229001||increase in level of fatigue
+57676002||joint discomfort
+57676002||joint discomfort
+70270011000036104||ibruprofen gel
+4106009||torn rotator cuff
+4106009||torn rotator cuff
+130989002||loss of sleep
+63102001||eyesight has changed
+13791008||weak all the time
+13791008||weak all the time
+195967001||asthmatic
+195967001||asthmatic
+449917004||leg and foot cramps
+162076009||general fatigue
+76948002||extreme pain in legs
+81498004||bursitis in the hips
+30989003||pain in the knees and feet
+52702003||chronic fatigue syndrome
+66383009||gingivitis
+21659011000036107||gemfibrosil
+162116003||frequent urination
+301345002||problems sleeping
+21522001||terrible abdominal pain
+432352001||high cpk
+432352001||high cpk
+46635009||type one diabetic
+130989002||lack of sleep
+130989002||lack of sleep
+282145008||i simply could not walk
+247412007||labor pain
+247412007||labor pain
+102551008||foot and leg cramps
+102551008||foot and leg cramps
+248223005||i felt like i was going to pass out
+248223005||i felt like i was going to pass out
+3723001||severe arthritis
+45352006||spazms
+18876004||sore fingers
+18876004||sore fingers
+49218002||muscle pain in right hip
+90128006||photosensitivity
+54981004||terrible charlie horses
+44186003||sleep disturbance
+44186003||sleep disturbance
+21662011000036107||lopressor
+193462001||can t sleep
+193462001||can t sleep
+84017003||bursitus
+30989003||joint pain in the knees
+30989003||joint pain in the knees
+21779011000036103||cortisone shots
+422400008||threw up
+422400008||threw up
+45326000||very bad pains in shoulders
+267044007||impaired my ability to take long walks
+62315008||brown water
+62315008||brown water
+62507009||tingling in the scalp
+62507009||tingling in the scalp
+48532005||severe muscle pull strain
+29857009||intense chest pains
+76948002||extremly bad pains in arms
+288230000||thighs muscle pain in the
+267044007||excercise intolerance
+77435011000036104||vitc
+429513001||tore my right achilles tendon just simply taking off from a sprinters stance
+76948002||severe leg pains
+431416001||menstrual cramps without vaginal bleeding
+247373008||muscle in my angles hurt
+9991008||abdominal cramps
+82991003||aching over my entire body
+82991003||aching over my entire body
+228158008||could barely walk
+228158008||could barely walk
+308909003||parkinson s type tremor in left hand
+6471006||occasional thoughts of suicide
+56265001||heart damage
+80515008||hepatomegaly
+54586004||severe lower abdominal pain cramping
+248274002||had no energy
+69821011000036104||capsacian
+309774006||legs would go wobbly
+387603000||poor balance
+387603000||poor balance
+73442001||stevens johnson syndrome
+36349006||burning in arms
+299042006||hands very weak
+26544005||strength depletion
+26544005||strength depletion
+42399005||renal and respiratory failure
+162076009||alot of gas
+274663001||sudden onset of pain
+47933007||foot ankle pain
+36955009||decreased sense of taste
+36955009||decreased sense of taste
+246676003||eyes are bloodshot
+166584001||elevated crp
+54981004||charlie horse in feet
+78514002||pain in both quads above knee back of leg
+40095003||kidney damage
+40095003||kidney damage
+288939007||difficult swallowing
+405729008||blood in bowel movements
+405729008||blood in bowel movements
+288231001||muscle aches in my legs
+54981004||charley horses in legs
+367391008||feel a bit weird
+367391008||feel a bit weird
+18963009||changes in mood
+18963009||changes in mood
+161891005||backpain
+161891005||backpain
+309774006||lower leg weakness
+228158008||it s a chore to just walk around
+228158008||it s a chore to just walk around
+236632007||my bladder all but quit working
+386807006||impaired memory
+386807006||impaired memory
+85828009||auto immune diseases
+88092000||muscle disintegration degeneration
+88092000||muscle disintegration degeneration
+44169009||loss of sense of smell
+238810007||complete body flushes like a hot flash without the hot
+419723007||foggy mental state
+422400008||puking
+11381005||acne breakouts on my face and neck
+60862001||tinnitus left ear
+300954003||calf sensation turned painful
+300954003||calf sensation turned painful
+309521004||numbness in my hands
+250082003||cramping in my hands
+193462001||can t even sleep at night
+193462001||can t even sleep at night
+161873000||heavy aching legs
+76948002||intense shoulder and upper arm pain
+129565002||muscle dmaage
+129565002||muscle dmaage
+386692008||period all month long
+386692008||period all month long
+282299006||loss body balance
+282299006||loss body balance
+309521004||right hand has been getting numb
+267064002||bladder not to empty as it should
+267064002||bladder not to empty as it should
+162076009||genetically high ldl
+162076009||genetically high ldl
+162076009||excessive gas
+24184005||blood pressure elevated
+24184005||blood pressure elevated
+62476001||disorentatation
+62476001||disorentatation
+26079004||hand tremors
+129565002||damage to my muscles
+129565002||damage to my muscles
+29542008||uterine cramping
+13791008||extremely fatigued
+248581005||rapid shallow breathing
+247753000||want to give up
+271807003||rash on my wrist
+271807003||rash on my wrist
+162352007||last straw was ringing in the ears
+225609009||stiff quad area
+10601006||pain in my lower leg
+68962001||soreness of muscles
+68962001||soreness of muscles
+449917004||cramps in thigh
+95421005||intercostal myalgia
+76948002||intense horrid pain
+22298006||heart attackes
+22298006||heart attackes
+249914008||stiffness in hips
+309774006||severe leg muscle weakness
+2940011000036100||premarin
+165247006||can t walk up stairs
+80182007||irregular periods
+80182007||irregular periods
+51197009||pain with stomach cramps
+449918009||ackey leg cramps
+161882006||stiffness neck
+161882006||stiffness neck
+367466007||skin irritation
+288226003||shoulder muscle pain
+248132003||food cravings
+45326000||shoulder painful
+68962001||unbearable muscle pain
+68962001||unbearable muscle pain
+21779011000036103||cortozone injections
+449917004||cramps in legs
+102608004||voracious hunger
+102608004||voracious hunger
+21288011000036105||cambia
+202617003||weird symptoms eg popping in big toe joints
+10601006||pain in the legs
+166830008||cholesterol went up
+162076009||general muscle soreness
+54981004||charley horses in sides
+41652007||eyes hurt
+309774006||weak in my arms and hands
+162076009||abdominal gas
+285365001||my toes ached
+285365001||my toes ached
+267728009||partial tempoary loss of sight one eye
+288335007||hardly lift my arms
+279069000||musclo skeletal pain
+67849003||excruciating pain in my legs
+288227007||muscular soreness in arms and shoulders
+287047008||pain in my left leg
+225581002||decreased eye sight
+225581002||decreased eye sight
+397825006||ulceration of stomach
+397825006||ulceration of stomach
+287047008||pain in my left leg and foot
+81680005||slight neck pain
+81680005||slight neck pain
+45326000||pain in the shoulders
+52526003||unexplained sweating
+19155002||abnormal uterine bleeding
+166702002||elevated calcium
+286641001||moodiness
+40733004||infections
+419723007||mental malaise
+84229001||very fatigued
+54586004||shooting lower abdominal pains
+271767006||peeling of skin
+363346000||tumor
+363346000||tumor
+310501001||numbness in limbs
+397540003||sight loss
+397540003||sight loss
+429040005||ulcer
+162076009||general weakness in my feet
+422587007||naseua
+286641001||uncharacteristical moodiness
+279039007||low back pains
+299042006||hand weakness constantly dropping things
+309539008||numbness in right toe
+36349006||severe burning pain in lower left arm
+76948002||horrible stomach pain
+297217002||pain under ribs
+288227007||muscle aches in arms
+68962001||sore muscle
+68962001||sore muscle
+166830008||cholesterol level sky high
+49218002||pain around the hipjoints
+49218002||pain around the hipjoints
+247640008||muddled thinking
+247640008||muddled thinking
+3904011000036106||zocar
+13791008||weak wobbley wrists
+13791008||weak wobbley wrists
+77442011000036106||b 12
+47933007||sore and stiff feet
+47933007||acute pain in both feet
+309774006||in both legs weakness
+22095011000036109||tricor 145 mg
+62315008||severe diarrhea
+62315008||severe diarrhea
+271681002||moderate stomach pain
+18156008||sensation that feels like electricity zapping around my midsection
+18156008||sensation that feels like electricity zapping around my midsection
+3877011000036101||lipitors
+166717003||elevated cpk
+288231001||muscle pain calf area
+247640008||frequently unable to think clearly
+28551000168108||voltaren xr
+253522006||right ventricular was mildly dilated
+397825006||stomache ulcers
+397825006||stomache ulcers
+282198006||couldn t get down the stairs
+56018004||wheezing
+285849008||difficulty controlling anger
+76948002||terribe pain
+67015007||dys motility
+67015007||dys motility
+16386004||fingertips scaly
+16386004||fingertips scaly
+419723007||feeling like my mind is fading away
+419723007||feeling like my mind is fading away
+162076009||gastric pain
+80449002||legs began feeling very tired
+80449002||legs began feeling very tired
+43498006||water retention
+39400004||permanent nerve damage
+76948002||imence pain in calf
+124054003||moderatly elevated cholesterol level
+131148009||bleeding problem
+386692008||excessive mestrual bleeding
+386692008||excessive mestrual bleeding
+386692008||increased menstruation
+386692008||increased menstruation
+698247007||arrhythmia
+698247007||arrhythmia
+3527011000036101||zanax
+419723007||feeling in a fog
+419723007||feeling in a fog
+698065002||acid reflux type symptoms
+386705008||lightheaded foggy brain like being in a stupor
+386705008||lightheaded foggy brain like being in a stupor
+21242011000036102||simvostatin
+67849003||pain was unbearable
+405729008||blood in stool
+405729008||blood in stool
+57182000||permanent nerve damage to my feet
+57182000||permanent nerve damage to my feet
+40095003||kidney injury
+40095003||kidney injury
+30989003||pain in my knees
+247640008||inability to think fast enough
+309774006||weakness in my right arm
+62476001||disoriented
+8943002||put weight on suddenly for no reason
+55145008||stabbing sharp pains
+4171011000036100||celebrex 8
+13791008||extreme fatigued
+84229001||severe fatigue
+225601007||unable to move
+54981004||charley horses in the abdomen
+25064002||pain from the headache
+361137007||irrecular heartbeat
+39400004||permanent liver damage
+39400004||permanent liver damage
+76948002||severe pain in leg
+55929007||crabbiness
+55929007||crabbiness
+473011001||allergy
+47933007||ball of my left foot was so painful
+299042006||hands have little or no grip
+224960004||tired all the time
+285365001||toes acking
+285365001||toes acking
+246636008||little blurred vision
+78514002||pain on outer sides of thighs
+36349006||severe b l shoulder pain
+36349006||severe b l shoulder pain
+21545007||tendon pain
+21545007||tendon pain
+131053002||decreased progesterone production
+166848004||tryc through the roof
+299322007||right knee swelled
+281245003||chest spasm
+80690008||neurodegenerative disease
+399068003||prostate cancer
+399068003||prostate cancer
+67849003||pain unbearable
+11654001||achilles tendon pain in
+279039007||pain in lower back
+76948002||severe pain in my left arm
+62507009||tingling in side of face
+62507009||tingling in side of face
+67251005||liver readings went up
+67251005||liver readings went up
+246636008||blurriness
+289530006||first vaginal bleeding
+271807003||strange poisen ivy like rash on chest and breast
+271807003||strange poisen ivy like rash on chest and breast
+22253000||pain in the lower part of my knees
+49218002||hips ache
+22253000||pain bad
+30989003||sore knees
+267052005||mild flatulance
+62315008||diarhhea
+62315008||diarhhea
+68962001||overall muscle soreness
+68962001||overall muscle soreness
+57676002||very painful joints
+57676002||very painful joints
+298203008||more limber limbs and joints
+249913002||knees stiff
+247640008||inability to think clearly
+21678011000036102||meloxicam
+62315008||diarria
+62315008||diarria
+249898006||s l o w walking
+249898006||s l o w walking
+228158008||hard to pick up feet
+228158008||hard to pick up feet
+248493003||vein in my one leg is bulging
+248493003||vein in my one leg is bulging
+309086004||paraesthesia of hand
+9991008||severe colon cramping
+9991008||severe colon cramping
+3723001||inflammation of my joints
+3723001||inflammation of my joints
+80449002||legs felt like they had run a marathon
+267032009||persistent feeling of tiredness
+267032009||persistent feeling of tiredness
+279038004||pain in upper back over left shoulder blade
+77435011000036104||vitimin c
+74323005||muscle pain in left elbow
+228158008||barely walk
+228158008||barely walk
+429783005||tingling in legs
+429783005||tingling in legs
+54981004||charley horses in feet
+68962001||muscular aches and pains
+68962001||muscular aches and pains
+160591008||drink wine in moderation
+80967001||tooth decay
+80967001||tooth decay
+70346000||gingival oedema
+53057004||very bad pains in hands
+230145002||breathing problems
+93478000||intraocular haemorrhage
+26079004||shaking
+26079004||shaking
+62507009||tingling in arm and hand
+62507009||tingling in arm and hand
+228158008||comfortably couldn t walk
+228158008||comfortably couldn t walk
+271807003||rash on upper left torso
+271807003||rash on upper left torso
+3481000168101||nasonex
+397803000||erectile disfunction
+11654001||achilles tendonsitis
+76948002||severe muscle pain in left arm
+54586004||lower abdominal pain
+297142003||swollen feet
+297142003||swollen feet
+213257006||felt generally terrible
+80449002||muscle fatigue in my forearms
+53057004||aches in hands
+14669001||acute kidney failure
+300895004||intense anxiety attacks
+162076009||gastrointestinal cramping
+3723001||artritic
+195967001||asthma flare ups
+288226003||muscle pain just below shoulder blades
+76948002||severe pain in hand
+251377007||abdominal pressure
+193462001||severe insomnia
+76948002||very severe pains
+250084002||cramping of the calf muscles
+22631008||unsteasiness walking
+35489007||deppression
+79890006||lack of attention
+162076009||genitals and lips excruciating
+162076009||genitals and lips excruciating
+49218002||pains in hips
+44018007||cholestatic jaundice
+44018007||cholestatic jaundice
+10601006||pain in legs
+386705008||light headedness hurt to hold my head up or turn my head from side to side and that made driving real difficult
+386705008||light headedness hurt to hold my head up or turn my head from side to side and that made driving real difficult
+31645011000036106||olive oil
+8357008||low libido
+8357008||low libido
+80449002||extreme muscle fatigue
+386807006||memory problem
+386807006||memory problem
+105504002||walking with a cane
+105504002||walking with a cane
+203095000||severe back spasm
+425423002||hurts to get out of a chair
+698065002||acidic bile at the back of my throat
+76948002||severe joint pain in the knees
+68962001||muscel pain
+68962001||muscel pain
+16386004||super dry skin
+246636008||blurring eyesight
+80182007||bleeding several times a month menstrual cycle is completely out of whack
+80182007||bleeding several times a month menstrual cycle is completely out of whack
+81680005||neck ache
+81680005||neck ache
+59976005||increased belching
+431416001||severe mentrual cramps
+161891005||pain back
+161891005||pain back
+162076009||general feeling of malais
+162076009||general feeling of malais
+267031002||tiredeness
+36031001||severe burning of the feet
+309539008||numbness in toes
+276294005||difficulty with memory
+43724002||cold shivers
+43724002||cold shivers
+249914008||aches and stiffness hips
+76948002||exteem pain in my ankle
+449917004||cramping in legs
+449917004||cramping in legs
+299042006||hands were nowhere near as strong as they once were
+288231001||muscle pain in the calves
+62315008||diarrehea
+62315008||diarrehea
+49218002||pain in my left hip
+202609006||weird symptoms eg popping in knee
+609600000||neuropthy in both feet
+422587007||mild nausea
+277521002||not motivated to do anything
+267078001||involuntary movements
+288231001||muscle pain in the legs
+49218002||hip hurts
+301345002||doesnt sleep very well at night
+301345002||doesnt sleep very well at night
+8708008||sharp pain in the ball of my right foot
+424196004||nervous
+10601006||achy legs
+404640003||diziness
+427475007||pain traveling to my stomach
+427475007||pain traveling to my stomach
+30989003||major sorness in knees
+68962001||chronic pain in all my muscles
+68962001||chronic pain in all my muscles
+67362008||aortic aneurysem
+76948002||pain is severe
+267052005||little gas
+267052005||flatulance
+67233009||cannot sleep through the night
+67233009||cannot sleep through the night
+57676002||pain in my joints
+57676002||pain in my joints
+399153001||vertigo like attacks
+76948002||extreme muscle discomfort
+304297005||couldn t move shoulders
+166643006||liver enzymes were very elevated
+76948002||severe joint pains
+85418005||abnoraml dreams
+429661002||neuroma in the right foot
+38341003||elevated blood pressure
+38341003||elevated blood pressure
+300954003||calves hurt
+300954003||calves hurt
+450316000||extreme dehydration
+55300003||cramps in chest
+55300003||cramps in chest
+52613005||extreme sweating
+52613005||extreme sweating
+26544005||muscle weakness in back
+13791008||was incredibly week
+13791008||was incredibly week
+288230000||muscle aches in thighs
+10601006||legs just ached
+2733002||right heel became painful
+57676002||severe joint pains
+57676002||severe joint pains
+267032009||feeling tired a lot
+267032009||feeling tired a lot
+299037003||swelling of hand
+3384011000036100||artrotec
+26544005||muscle weakness in mouth area
+77461011000036109||vitamin e 200iu
+29542008||uterus contractions
+29542008||uterus contractions
+88092000||loss of muscle mass in chest
+88092000||loss of muscle mass in chest
+26544005||decrease in overall strength
+26544005||decrease in overall strength
+129565002||neck muscel problems
+129565002||neck muscel problems
+34789001||coccyx pain
+22298006||heart attact
+22298006||heart attact
+228158008||could hardly walk or sit
+228158008||could hardly walk or sit
+225460000||crying all the time
+40917007||mentally in a daze
+40917007||mentally in a daze
+2922011000036103||fosamax 35
+60238002||fingers twitching
+60238002||fingers twitching
+45326000||terrible pain in shoulders
+282145008||inablity to walk
+36163009||waking me up at night in pain
+415749005||tendon damage ruptures
+247592009||short term memory is terrible
+247592009||terrible short term memory problems
+386033004||severe neuropathy
+203095000||severe back spasms
+60238002||muscle twitching in both arms
+271834000||constant burping
+78514002||thigh soreness
+31681005||trigeminal neuralgis
+161891005||back labor pains
+161891005||back labor pains
+288231001||myalgia myositis lower leg
+248491001||swelling of right knee
+69791001||high blood press
+285365001||toes became so painful
+285365001||toes became so painful
+247323005||throat tightness
+76948002||extreme leg pain
+21779011000036103||cortisone shot
+62507009||tingling in my shins
+62507009||tingling in my shins
+21522001||lower abdominal pain
+39701011000036102||voltaren rapid
+82971005||mobility has decreased
+84445001||stiff joints
+84445001||stiff joints
+249915009||joint stiffness in hands
+250082003||cramps in hands
+88092000||loss of muscle structure in the calf muscles
+88092000||loss of muscle structure in the calf muscles
+162352007||ringing in the ears tinnitus
+51197009||severe abdominal cramps
+78860006||eye heavy
+69896004||rheumatoid arthtitis
+26544005||total muscel weakness
+224960004||tiredness is at a high level
+84229001||horrible fatigue
+282195009||could barely walk up stairs
+194828000||angina attacks
+162076009||geting bad swets
+162076009||geting bad swets
+87715008||dry throat and mouth
+87715008||dry throat and mouth
+300954003||pain in the lower legs
+165247006||couldn t go up stairs easily
+84445001||finger joints locking up
+84445001||finger joints locking up
+10601006||in both legs pain
+8357008||lost all sexual desires and thoughts
+8357008||lost all sexual desires and thoughts
+21242011000036102||simivastatin
+32398004||bronhitis
+283416005||cuts on my hands
+309539008||numbness in all toes
+67251005||liver blood test mildly elevated
+111516008||vision became blurry
+288227007||myalgia myositis upper arm
+425423002||pain provoked by movement
+36031001||ball of the foot would feel as if it was inflamed
+68172002||tendinopathy
+68172002||tendinopathy
+26544005||weakened muscle
+166643006||liver enzymes were elevated
+49218002||spine hip pain
+95847005||permanent irreversible muscle damage
+95847005||permanent irreversible muscle damage
+95847005||muscle injury
+95847005||muscle injury
+8708008||sharp shock like pain in head
+21885011000036105||ibuprofen 400 mg
+249913002||stiffness in both knees
+314109004||feeling extremely tired
+39575007||darkness in urine
+129565002||permanent damage to my muscles
+129565002||permanent damage to my muscles
+266599000||severe menstual pain
+266599000||severe menstual pain
+47933007||terrible pain in my feet
+76948002||severe pain in my legs
+2733002||heels hurt
+288231001||very painful muscle aches in calves
+445197008||white discolouration of skin
+62507009||tingling in hands
+62507009||tingling in hands
+76948002||severe foot pains
+387603000||difficult to keep balance
+387603000||difficult to keep balance
+55929007||irratibility
+55929007||irratibility
+248277009||loss of endurance
+88092000||muscle degenerating
+88092000||muscle degenerating
+49218002||hip and back pain
+225014007||stomach feels empty all the time
+62476001||got lost on way
+62476001||got lost on way
+278528006||face and fingers are swollen
+278528006||face and fingers are swollen
+76948002||horrible pain in left knee
+21520011000036107||misoprostal
+298240000||stiffness in lower back
+3530011000036104||lopids
+267052005||big time flatulence
+279039007||tenderness in the lower back
+17369002||miscarriage
+119416008||upper abdominal discomfort
+281245003||chest muscle soreness
+429040005||ulcers
+279063004||joint pain in my lower back
+4138011000036106||lipidil
+22325002||my gait was like someone who could barely walk
+22325002||my gait was like someone who could barely walk
+85418005||bad dreams nightly
+57676002||pain in every joint
+57676002||pain in every joint
+128609009||brain aneurysm
+271807003||massive triangular rash on my forehead
+271807003||massive triangular rash on my forehead
+166892002||blood sugar elevated
+52072009||heat stress
+274135002||chronic arthritic type issues
+68962001||muscle aces
+68962001||muscle aces
+247994001||noise intolerance
+95421005||pain in side muscles on one side of chest
+101000119102||buzzing in limbs
+101000119102||buzzing in limbs
+267953003||joint pain in legs
+88092000||less muscle mass
+88092000||less muscle mass
+277521002||loss of desire to do or accomplish anything
+277521002||loss of desire to do or accomplish anything
+26544005||lack of strength
+26544005||lack of strength
+8357008||loss of sexual drive
+8357008||loss of sexual drive
+301676004||hard to get out of bed in the morning
+3723001||arthristis
+13791008||extreme fatique
+309774006||muscle weakness in my right hand causing me to lose grip and drop things
+21545007||tendons hurt
+21545007||tendons hurt
+419723007||my head was foggy
+53057004||pain in hand
+49563000||periorbital oedema
+266601003||2 3 periods a month instead of once a month
+266601003||2 3 periods a month instead of once a month
+267039000||ankle swelling
+267039000||ankle swelling
+309537005||numb leg
+162076009||general weakness in hands
+88092000||arm muscles melting
+88092000||arm muscles melting
+301676004||can t get out of bed
+309086004||strong tingling in one hand
+309086004||strong tingling in one hand
+161968007||heart was thumping
+30473006||intense pelvic pain
+23924001||weird tight feeling in chest cavity
+78514002||pain in my left thigh
+102556003||sore arms
+102556003||sore arms
+249917001||stiff elbows
+24199005||aggitated
+24199005||aggitated
+68962001||severe myalgias
+62507009||tingling toes
+62507009||tingling toes
+68962001||achy muscles
+68962001||achy muscles
+277521002||no motivation
+47933007||feet is painful
+90834002||very bad pains in arms
+445178008||vaginal skin burns
+21821011000036104||codine
+300954003||calves muscle pain in the
+129565002||every muscle from my waist down was effected
+129565002||every muscle from my waist down was effected
+300954003||intense calf pain
+13481000168104||panadeine
+10743008||irritable bowel syndrome
+79012001||severe vaginal cramps
+79012001||severe vaginal cramps
+36630001||deep pain in my pelvis and down my legs
+249938007||weakness in the lower back
+111516008||vision close up is blurry
+34840004||flared up tendenitis
+34840004||flared up tendenitis
+249915009||stiffness in my hands
+271834000||burping
+68962001||mild muscle pain
+68962001||mild muscle pain
+309521004||hand numbness
+21885011000036105||ibruprofen
+21522001||constant soreness in abdomen
+228158008||hard to walk
+228158008||hard to walk
+193462001||sleeplesness
+193462001||sleeplesness
+8357008||sex drive has decreased
+2764000||cracking sensations in my joints
+2764000||cracking sensations in my joints
+271587009||stiffness similar to arthritis
+609599003||neuropothy in right arm
+62507009||pins and needles on right arm
+22253000||knew pain
+17369002||abortion
+17369002||abortion
+43724002||intense chills and shivers
+43724002||intense chills and shivers
+68962001||muscle aches in legs
+68962001||muscle aches in legs
+418363000||bluss and ititching of the face
+57676002||joint aches
+57676002||joint aches
+35489007||big time depression
+129565002||leg muscle and thigh problems
+129565002||leg muscle and thigh problems
+248274002||lowering of energy
+76948002||intense pain
+398152000||poor muscle tone
+68962001||muscle fatigue
+68962001||muscle fatigue
+65124004||puffiness
+65124004||puffiness
+68962001||sore
+29857009||intense heart pain
+373931001||heavy legs and arms
+425423002||hurts to get up in the morning
+425423002||hurts to get up in the morning
+10085004||metatarsalgia
+55300003||muscle crammps
+55300003||muscle crammps
+54981004||charlie horse in my calves
+68962001||intense muscle pain with intense burning in my arms
+68962001||intense muscle pain with intense burning in my arms
+286381004||unable to find words or remember names
+298753001||numness aching feeling to my left arm
+298753001||numness aching feeling to my left arm
+287046004||pain in upper right arm
+102480002||feel like i got hit by a truck
+102480002||feel like i got hit by a truck
+90673000||throbbing burning sensation
+162076009||gastro effects
+90673000||burning sensations
+88092000||loss of muscle
+88092000||loss of muscle
+449917004||leg and feet cramps
+422587007||wanted to vomit
+422587007||wanted to vomit
+363346000||malignant neoplastic disease
+203095000||extreme muscle spazms in my lower back
+68962001||muscular pain
+68962001||muscular pain
+84229001||much fatigue
+55300003||mild cramping
+55300003||mild cramping
+53057004||pains in hands
+419723007||foggy brain
+90673000||burning ankles
+55300003||severe muscle back cramp
+49218002||hip thigh pain
+473008002||sores on the inner cheeks
+7011001||hallucinations
+63102001||visual deficits
+230145002||hard to breath
+166603001||very elevated liver function tests
+21522001||extreme stomach pain
+60032008||no concentration
+60032008||no concentration
+398032003||loose bowels
+398032003||loose bowels
+8510008||could hardly move
+61462000||malaria
+22298006||heart attach
+22298006||heart attach
+387603000||balance loss
+387603000||balance loss
+162352007||ringing in the ears
+419723007||i feel like i m in a fog
+300954003||calves muscle pain in
+10601006||pain in their shins
+49218002||sore and stiff hips
+387603000||lack of balance and cooridination
+55300003||body cramps
+55300003||body cramps
+239965002||severe and chronic tendonitis in my elbows
+279039007||very painful muscle aches in lower back
+162059005||stomach stayed upset and painful
+282872002||no power to standup himself
+8392000||no smoking
+102943000||changed my personality
+82991003||body pain
+82991003||body pain
+271807003||red spots all over my body
+271807003||red spots all over my body
+23924001||tight chest
+63102001||loss of vison
+63102001||loss of vison
+40739000||dysphagia
+8357008||loss of any sex drive
+8357008||loss of any sex drive
+449917004||severn leg cramps
+76948002||imence pain in feet
+47933007||bottoms of my feet hurt
+449917004||muscle cramps in legs
+68962001||severe muscle pain
+68962001||severe muscle pain
+86094006||chronic rhinitus
+302226006||periphiral neuropathy
+249966004||twitching mouth
+249966004||twitching mouth
+24199005||aggitation
+24199005||aggitation
+399269003||joint problems
+399269003||joint problems
+228158008||inability to walk with left foot pain
+6205011000036102||lipitor 20 mg
+300955002||thumbs hurt so bad
+165247006||unable to even climb 1 flight of stairs
+228158008||difficulty in walking
+54586004||sharp unbearable cramping pains in lower gut
+56265001||damage your heart
+68962001||intense muscle pain with intense burning in my legs
+68962001||intense muscle pain with intense burning in my legs
+40806005||legs feel like they don t belong to me
+40806005||legs feel like they don t belong to me
+228158008||trouble with walking balance
+228158008||trouble with walking balance
+26544005||acute weakness in the muscles of whole body
+449917004||terrible leg cramps
+165232002||urine leaking
+165232002||urine leaking
+246636008||blurr vision
+102556003||arm aching
+102556003||arm aching
+250084002||calf cramping
+247464001||blisterey rash on my arms
+426206001||constant pain knees
+43498006||fluids pooling in my lower extremeties especially my feet
+45326000||pain in shoulder feels like arm pulled out of socket
+47933007||feet sore
+25458004||acute gastritis
+246636008||blurred vison
+213257006||extremely sick
+162059005||seriously upset my stomach
+162076009||excess gas
+76948002||spikes of pain so severe
+30473006||endo pain
+13791008||disabling fatigue
+13791008||disabling fatigue
+18963009||wild mood swings
+279039007||lower back ache
+249990003||unsteady when standing
+49218002||muscle pain in hips
+248657009||heart throbbing out of my chest
+262286000||weight increase
+67849003||excrutiation pain throughout my entire body
+279028009||pain in the ovaries menopausal for 20 years
+288332005||hardly able to lift things
+609599003||neuropothy in right hand
+366979004||depressed mood
+49218002||aching in hips
+49218002||aching in hips
+314109004||feel exhausted
+77692006||falling asleep all the time
+77692006||falling asleep all the time
+162076009||gets tired a lot
+162076009||gets tired a lot
+76948002||left leg below the knee experienced intense pain
+9991008||abominal cramps
+386807006||memory impaired
+386807006||memory impaired
+30989003||persistent pain in knee
+202882003||plantar fasciatis
+30811009||ulcer of oesophagus
+300888008||body swelling
+39592011000036106||cozaar
+81680005||muscle pain in neck
+81680005||muscle pain in neck
+13746004||bi polar
+16973004||limped
+16973004||limped
+271681002||stomich ake
+76948002||severe muscle pain in neck
+9991008||intestinal pain
+9991008||intestinal pain
+228158008||could barely walk across the room
+228158008||could barely walk across the room
+386805003||incipient dementia
+386805003||incipient dementia
+284140004||unable to raise my left arm
+78514002||thighs sore
+419723007||feel like i am in a fog
+49218002||muscle pain in hip
+228158008||difficult for me to walk
+13791008||overall weakness
+13791008||overall weakness
+102551008||cramps in my feet
+102551008||cramps in my feet
+387603000||problems with balance
+387603000||problems with balance
+247373008||pain in ankle
+77426011000036108||lysine
+284262007||difficulty gripping
+161874006||arms feel heavy
+386692008||slightly heavier menstrual cycle
+386692008||slightly heavier menstrual cycle
+267076002||lonliness
+267076002||lonliness
+91019004||tingles although the body
+91019004||tingles although the body
+271832001||gas pains in abdomen
+361137007||severe irregular heartbeat
+68962001||muscels hurts
+68962001||muscels hurts
+230690007||mild stroke
+230690007||mild stroke
+21522001||abdominal pains
+79015004||worried
+52613005||sweating alot
+52613005||sweating alot
+248262001||sleepy all or most sf the time
+129899009||blood pressure alteration
+167232003||urine like root beer
+95891005||flu symptons
+18963009||severe mood swings

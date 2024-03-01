@@ -1,0 +1,1 @@
+test2_dcitionary.txt来自public/cometa/test_dictionary.txt

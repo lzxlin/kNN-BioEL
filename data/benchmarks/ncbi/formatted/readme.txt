@@ -1,0 +1,1 @@
+test2_dictionary.txt和lazy2_test_dictionary.txt分别来自public/ncbi-disease的train_dictionary.txt和test_dictionary.txt
