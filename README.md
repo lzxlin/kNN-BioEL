@@ -37,7 +37,7 @@ save
 
 ### Evaluation
 
-After training the model or downloading the pre-trained weights, execute the following command to evaluate $k$NN-BioEL.
+After training the model or downloading the pre-trained weights, execute the following command to evaluate kNN-BioEL.
 
 ```shell
 bash scripts/eval_knn_cometa.sh 0
