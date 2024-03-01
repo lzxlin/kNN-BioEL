@@ -1,0 +1,1 @@
+Please place the downloaded weights in the 'save' directory. The trained models will also be saved here by default.

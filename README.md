@@ -1,4 +1,4 @@
-# $k$NN-BioEL
+# kNN-BioEL
 
 The code and dataset of paper [***Improving Biomedical Entity Linking with Retrieval-enhanced Learning***](https://arxiv.org/abs/2312.09806) in Proceedings of ICASSSP 2024.
 
