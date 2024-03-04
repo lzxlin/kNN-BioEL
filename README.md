@@ -25,7 +25,7 @@ bash scripts/train_ncbi.sh 0
 bash scripts/train_bc5cdr.sh 0
 ```
 
-You can also skip the training and directly [download](https://pan.baidu.com/share/init?surl=pObrESVxskpjQgVZytAozQ&pwd=793f) (the password is `793f`) our pre-trained models (please place the downloaded weights for the four datasets in the `save` directory). The directory structure is as follows:
+You can also skip the training and directly download our pre-trained model from [here](https://pan.baidu.com/share/init?surl=pObrESVxskpjQgVZytAozQ&pwd=793f) (password `793f`) or [here](https://drive.google.com/drive/folders/1Z6i-Qfpw_8gYotJlW35Cp69Z5YsFkYUK?usp=sharing). Please place the downloaded weights for the four datasets in the `save` directory, and the directory is organized as follows:
 
 ```shell
 save
